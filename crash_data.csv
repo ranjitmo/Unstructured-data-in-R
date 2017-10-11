@@ -1,0 +1,991 @@
+Date,Location,Model,Fatalities,lon,lat
+"Sep 2, 2017","Chernoye, Moscow oblast",PZL-Mielec AN-2,2,38.0682455,55.7470365
+"Aug 28, 2017 at 1130 LT","Maban, Upper Nile (أعالي النيل)",Antonov AN-26,0,33.0347943,10.0670547
+"Aug 19, 2017 at 1642 LT","Donegal Springs, Pennsylvania",Piper PA-61 Aerostar (Ted Smith 601),0,-76.5663556,40.1000956
+"Aug 19, 2017 at 0016 LT","Naiguatá, Vargas",Learjet 25,5,-66.739712,10.6181274
+"Aug 16, 2017 at 0940 LT","Comayagua-Palmerola AFB, Comayagua",Let 410UVP,1,-87.6211061,14.3818503
+"Jul 28, 2010 at 0941 LT","Islamabad, Islamabad Capital Territory (وفاقی دارالحکومت)",Airbus A321,152,NA,NA
+"Aug 8, 2017 at 1152 LT","Mainau Island, Baden-Württemberg",Piper PA-46 Malibu Meridian (Malibu Mirage),2,9.195575,47.7054864
+"Jul 29, 2017 at 0910 LT","Sao Tomé, Água Grande",Antonov AN-74,0,6.733343,0.3301924
+"Apr 20, 2012 at 1840 LT","Islamabad, Islamabad Capital Territory (وفاقی دارالحکومت)",Boeing 737-200,127,NA,NA
+"Jul 24, 2017 at 1440 LT","Buenos Aires-San Fernando, Buenos Aires City",Mitsubishi MU-2 Marquise,3,-58.5579643,-34.4430618
+"Aug 16, 2015 at 1455 LT","Oksibil, Special Region of Papua",ATR42-300,54,NA,NA
+"Jul 13, 2017 at 0815 LT","Tyler-Pounds, Texas",Piper PA-31 Cheyenne,2,-95.4096293,32.3511258
+"Jul 10, 2017 at 1630 LT","Itta Bena, Mississippi",Lockheed C-130 Hercules,16,-90.3198067,33.49512
+"Nov 4, 2015 at 0900 LT","Juba, Central Equatoria (الاستوائية الوسطى)",Antonov AN-12,41,NA,NA
+"Jul 4, 2017 at 1343 LT","Punta Arenas, Nueva Esparta",Gulfstream GIII,9,-64.3996975,10.9748298
+"Jul 3, 2017 at 1800 LT","Alpine-Casparis, Texas",Cessna 208B Grand Caravan,0,-103.6814009,30.3862782
+"Jul 1, 2017 at 0153 LT","Catawba, Wisconsin",Cessna 421C Golden Eagle III,6,-90.5298697,45.5363557
+"Jun 27, 2017 at 1500 LT","Kilia, Odessa Oblast",PZL-Mielec AN-2,0,29.2480308,45.4650742
+"Jun 26, 2017 at 0741 LT","Vinalhaven, Maine",Cessna 207 Skywagon,0,-68.836749,44.0487345
+"Jun 13, 2017 at 2216 LT","Ruidoso-Sierra Blanca, New Mexico",Beechcraft King Air 90,2,-105.6623565,33.355017
+"Jun 7, 2017 at 1335 LT","Andaman Sea, World",Shaanxi Y-8,122,95.7299821,11.2878883
+"May 7, 2011 at 1405 LT","Kaimana, Special Region of West Papua",Xian MA60,25,NA,NA
+"May 31, 2017 at 1700 LT","Buenos Aires-Ezeiza-Ministro Pistarini, Buenos Aires City",Cessna 421A Golden Eagle I,0,-58.5348284,-34.8150044
+"May 30, 2017 at 1630 LT","Renmark, South Australia",Cessna 441 Conquest,3,140.7442855,-34.1742746
+"May 30, 2017 at 1210 LT","Bajura, Seti",PZL-Mielec AN-28,1,81.6035062,29.6155222
+"May 30, 2017 at 0640 LT","Balashov, Saratov oblast",Antonov AN-26,1,43.1770959,51.543181
+"May 27, 2017 at 1404 LT","Lukla, Sagarmatha",Let 410UVP,2,86.7278059,27.6856603
+"May 24, 2017 at 1515 LT","Perris Valley, California",De Havilland DHC-6 Twin Otter,0,-117.2181879,33.7619748
+"May 17, 2017 at 1526 LT","Toluca, México",Learjet 25,2,-99.6556653,19.2826098
+"May 15, 2017 at 1530 LT","Teterboro, New Jersey",Learjet 35,2,-74.0593075,40.8598219
+"May 15, 2017 at 1400 LT","Eleuthera Island, Bahamas",Mitsubishi MU-2 Marquise,4,-76.1899661,24.9314461
+"May 15, 2017 at 1147 LT","Assabu, Hokkaidō",Beechcraft Super King Air 350,4,140.2254721,41.9209007
+"May 5, 2017 at 0653 LT","Charleston-Yaeger (Kanawha), West Virginia",Short 330,2,-81.5926879,38.3715794
+"May 3, 2017 at 2030 LT","Colton, New York",Piper PA-31-310 Navajo,1,-74.9395061,44.5530213
+"May 1, 2017 at 1630 LT","Bogotá-Guaymaral, Bogotá Capital District",Cessna 208B Grand Caravan,8,-74.0745024,4.8161069
+"May 1, 2017 at 1400 LT","Chignik, Alaska",Cessna 208B Grand Caravan,1,-158.4022222,56.2952778
+"Apr 30, 2017 at 2015 LT","Schefferville, Quebec",Piper PA-31-310 Navajo,2,-66.8174795,54.8245589
+"Apr 29, 2017 at 0030 LT","Amarillo-Rick Husband, Texas",Pilatus PC-12,3,-101.707451,35.2203245
+"Apr 29, 2017","San Cristóbal, Artemisa",Antonov AN-26,8,-83.0415078,22.7129122
+"Apr 25, 2017 at 1040 LT","Huntsville, Texas",Cessna 421C Golden Eagle III,1,-95.5507771,30.7235263
+"Dec 18, 2016 at 0609 LT","Wamena, Special Region of Papua",Lockheed C-130 Hercules,13,NA,NA
+"Sep 4, 2010 at 1327 LT","Fox Glacier, West Coast Regional Council",Fletcher FU-24,9,NA,NA
+"Apr 7, 2017 at 1100 LT","Harrisburg, Oregon",Piper PA-46 Malibu Meridian (Malibu Mirage),4,-123.170648,44.2740123
+"May 18, 2016 at 1900 LT","Camp Dwyer AFB, Helmand",Antonov AN-12,7,NA,NA
+"Mar 31, 2017 at 1442 LT","Sorocaba, São Paulo",Piper PA-42 Cheyenne,2,-47.4525944,-23.5015338
+"Mar 30, 2017","La Paragua, Bolívar",PZL-Mielec AN-2,0,-63.3505606,6.8352019
+"Mar 28, 2017 at 1628 LT","Jauja, Junín",Boeing 737-300,0,-75.4869033,-11.7806236
+"Mar 27, 2017 at 0815 LT","Mutare, Manicaland",Britten-Norman Islander,6,32.650351,-18.9757714
+"Mar 24, 2017 at 1924 LT","Marietta, Georgia",Cessna 500 Citation,1,-84.5499327,33.952602
+"Mar 20, 2017 at 1500 LT","Wau, Western Bahr el Ghazal (غرب بحر الغزال)",Antonov AN-26,0,27.9834738,7.7091884
+"Mar 14, 2017 at 1854 LT","Cannon AFB (Clovis), New Mexico",Pilatus PC-12,3,-103.3183038,34.3897838
+"Mar 5, 2017 at 1916 LT","Kamphaeng Saen, Nakhon Pathom (จังหวัดนครปฐม)",Pilatus PC-12,1,99.9465077,14.0340841
+"Mar 4, 2017 at 1334 LT","Duette, Florida",Beechcraft 60 Duke,2,-82.122866,27.5903135
+"Mar 4, 2017 at 0010 LT","Cherokee County, Georgia",Cessna 421B Golden Eagle II,1,-84.4802606,34.2514526
+"Feb 21, 2017 at 0859 LT","Melbourne-Essendon, Victoria",Beechcraft Super King Air 200,5,144.912,-37.749
+"Feb 15, 2017 at 2000 LT","Chichén Itzá, Yucatán",Piper PA-46 Malibu Meridian (Malibu Mirage),0,-88.5677826,20.6842849
+"Aug 14, 2016 at 1120 LT","Tuscaloosa, Alabama",Piper PA-31-310 Navajo,6,NA,NA
+"Jan 28, 2017 at 1830 LT","Leticia, Amazonas",Boeing 737-400,0,-69.935907,-4.203165
+"Jan 26, 2017","Perth, Western Australia",Grumman G-73 Mallard,2,115.8604572,-31.9505269
+"Jan 23, 2017 at 1235 LT","Tucson, Arizona",Beechcraft Super King Air 300,2,-110.926479,32.2217429
+"Jan 19, 2017 at 1330 LT","Paraty, Rio de Janeiro",Beechcraft King Air 90,5,-44.7204757,-23.2200542
+"Jan 16, 2017 at 1156 LT","Howell, Michigan",Cessna 525 CJ4,0,-83.9293952,42.6072552
+"Jan 16, 2017 at 0719 LT","Bishkek-Manas, Bishkek City",Boeing 747-400,38,74.4730782,43.0584523
+"Jan 2, 2017 at 1220 LT","Shabunda, Sud-Kivu",Let 410UVP,0,27.3440192,-2.694269
+"Dec 29, 2016 at 2300 LT","Cleveland-Burke Lakefront, Ohio",Cessna 525 CJ4,6,-81.6899155,41.5115689
+"Dec 25, 2016 at 0527 LT","Sochi-Adler, Krasnodar Krai",Tupolev TU-154,92,39.9339462,43.4343234
+"Dec 21, 2016 at 1718 LT","Butterworth AFB (Penang), Penang",Beechcraft Super King Air 200,1,100.39122,5.4653693
+"Dec 20, 2016 at 1723 LT","Puerto Carreño, Vichada",Boeing 727-200,5,-67.488462,6.184766
+"Dec 19, 2016 at 0445 LT","Tiksi, Republic of Yakutia (Sakha)",Ilyushin II-18,0,128.8644717,71.6374819
+"Jan 20, 2015 at 1540 LT","Shatyrkul, Jambyl",PZL-Mielec AN-2,6,NA,NA
+"Dec 13, 2016 at 1530 LT","Lanseria, Gauteng",Cessna 402,0,27.9263647,-25.9400168
+"Dec 12, 2016 at 0900 LT","Tiniroto, Gisborne District Council",PAC 750XL - Pacific Aerospace Corporation,2,178.0274545,-38.6672113
+"Dec 12, 2016 at 0548 LT","Moab, Utah",Quest Kodiak 100,1,-109.5498395,38.5733155
+"Dec 7, 2016 at 1616 LT","Havelian, Khyber Pakhtunkhwa (خیبرپختونخوا)",ATR42-500,47,73.1438116,34.0465833
+"Dec 5, 2016 at 2223 LT","Pebble City, Georgia",Swearingen SA227AC Metro III,1,-84.0776799,31.2476827
+"Dec 4, 2016 at 1619 LT","Sotillo de las Palomas, Castile-La Mancha",Beechcraft King Air 90,4,-4.8267903,40.1044299
+"Dec 3, 2016 at 1022 LT","Tanjung Pinang, Riau Islands",PZL-Mielec AN-28,13,104.4665072,0.9185504
+"Nov 28, 2016 at 2158 LT","La Ceja, Antioquia",Avro RJ85,71,-75.431596,6.027632
+"Nov 27, 2016 at 1000 LT","Pitu (Morotai Island), North Maluku",Casa 212 Aviocar,0,128.3228351,2.0417896
+"Nov 24, 2016 at 1200 LT","Zielona Góra-Przylep, Lubusz Voivodeship (Lubuskie)",Piper PA-31-310 Navajo,1,15.4496511,51.9686735
+"Nov 18, 2016 at 1925 LT","Elko, Nevada",Piper PA-31 Cheyenne,4,-115.7631232,40.8324211
+"Jul 5, 2017 at 1110 LT","Wamena, Special Region of Papua",Pilatus PC-6 Turbo Porter,5,NA,NA
+"Oct 28, 2016 at 1750 LT","Fort Lauderdale-Hollywood, Florida",Douglas DC-10,0,-80.1651315,26.0347664
+"Oct 28, 2016 at 1435 LT","Chicago-O'Hare, Illinois",Boeing 767-300,0,-87.9073214,41.9741625
+"Oct 24, 2016 at 0720 LT","Luqa, Malta",Swearingen SA227AC Metro III,5,14.4868883,35.8582865
+"Oct 15, 2016 at 0835 LT","Fairoaks, Surrey",Socata TBM-900,0,-0.6352343,51.2654372
+"Oct 13, 2016 at 2136 LT","Kelowna, British Columbia",Cessna 500 Citation,4,-119.4960106,49.8879519
+"Oct 11, 2016 at 1638 LT","Belaya Gora, Republic of Yakutia (Sakha)",Antonov AN-26,0,146.232876,68.549671
+"Oct 10, 2016 at 0925 LT","Laidman Lake, British Columbia",De Havilland DHC-2 Beaver,1,-125.1868829,53.135726
+"Apr 17, 2017 at 1213 LT","Cascais, Estremadura - Lisbon District",Piper PA-31 Cheyenne,5,NA,NA
+"Oct 2, 2016 at 1330 LT","Togiak, Alaska",Cessna 208B Grand Caravan,3,-160.3763889,59.0619444
+"Sep 30, 2016 at 1200 LT","San Antonio de Prado, Antioquia",Cessna 208B Grand Caravan,4,-75.648271,6.181239
+"Sep 30, 2016 at 0845 LT","Lopez Island, Washington",De Havilland DHC-2 Beaver,0,-122.8955118,48.4869178
+"Sep 25, 2016 at 1946 LT","Jakarta-Perdanakusuma, City District of Jakarta",Learjet 31,0,106.8864668,-6.2649026
+"Sep 24, 2016 at 1656 LT","Siddharthanagar, Lumbini",Bae Jetstream 41,0,83.4376749,27.5065119
+"Oct 31, 2016 at 0830 LT","Ilaga, Special Region of West Papua",De Havilland DHC-4 Caribou,4,NA,NA
+"Sep 10, 2016 at 1535 LT","Orlando-Apopka, Florida",Beechcraft Super King Air 200,0,-81.5822421,28.7048626
+"Aug 31, 2016 at 1001 LT","Russian Mission, Alaska",Cessna 208B Grand Caravan,3,-161.3202777,61.785
+"Aug 23, 2014 at 1355 LT","Mulume Munene, Sud-Kivu",Let 410UVP,4,NA,NA
+"Aug 22, 2012 at 1217 LT","Ngerende, Rift Valley",Let 410UVP,4,NA,NA
+"Aug 5, 2016 at 0407 LT","Bergamo, Lombardy",Boeing 737-400,0,9.6772698,45.6982642
+"Aug 3, 2016 at 1237 LT","Dubai, Dubai",Boeing 777-300,0,55.2707828,25.2048493
+"Aug 2, 2016 at 2030 LT","Destin-Executive, Florida",Cessna 414 Chancellor,1,-86.47098,30.3966602
+"Aug 1, 2016 at 1630 LT","Bangkok, Bangkok City District",Piper PA-31-350 Navajo Chieftain,1,100.5017651,13.7563309
+"Aug 1, 2016 at 0730 LT","Canaima, Bolívar",Piper PA-31-350 Navajo Chieftain,2,-62,5.5
+"Jul 31, 2016 at 2100 LT","Londrina, Paraná",Embraer EMB-820 Navajo,8,-51.1695824,-23.3044524
+"Jul 31, 2016 at 1335 LT","Krapivinsky, Kemerovo oblast",PZL-Mielec AN-2,3,87.165889,54.9282136
+"Jul 29, 2016 at 0105 LT","McKinleyville, California",Piper PA-31 Cheyenne,4,-124.1006205,40.9465152
+"Jul 26, 2016 at 1509 LT","Houston-Sugar Land, Texas",Embraer EMB-505 Phenom 300,0,-95.6485833,29.610808
+"Jul 22, 2016","Bay of Bengal, World",Antonov AN-32,29,87.5395855,13.531665
+"Jul 20, 2016 at 1220 LT","Jinshan, Shanghai",Cessna 208B Grand Caravan,5,121.341969,30.741991
+"Jul 15, 2016 at 2220 LT","Elwyn Creek, British Columbia",De Havilland DHC-2 Beaver,1,-117.2720668,49.5045556
+"Oct 25, 2011","Al Anad AFB (Kadamat Al Awdhali), Lahij (لحج)",Antonov,4,NA,NA
+"Jul 1, 2016 at 1130 LT","Uyan, Irkutsk oblast",Ilyushin II-76,10,101.978873,54.3459134
+"Jun 30, 2016 at 0610 LT","Novopokrovskoye, Saratov oblast",PZL-Mielec AN-2,2,43.606058,51.573921
+"Jun 26, 2016 at 1109 LT","Dervenochoria, Central Greece / Στερεά Ελλάδα",Canadair CL-215,0,23.5,38.216667
+"Jun 26, 2016","Bereke, Almaty Province",PZL-Mielec AN-2,1,78.7713704,45.9873383
+"Jun 19, 2016 at 1908 LT","Ferreira do Alentejo, Baixo Alentejo",Pilatus PC-6 Turbo Porter,1,-8.1140713,38.0593873
+"Feb 9, 2017","Thebephatshwa AFB, Kweneng District",Casa 212 Aviocar,3,NA,NA
+"Jun 16, 2016 at 1305 LT","Bạch Long Vĩ Island, Hải Phòng City District",Casa 212 Aviocar,9,107.7310526,20.1311435
+"Jun 16, 2016 at 0820 LT","State College, Pennsylvania",Piper PA-31-310 Navajo,2,-77.8600012,40.7933949
+"Oct 9, 2016 at 1000 LT","Uchuquinua, Cajamarca",Cessna 207 Skywagon,3,NA,NA
+"Jun 14, 2016","Bor, Jonglei (جونقلي)",Antonov AN-32,0,31.5655424,6.2132663
+"Jun 11, 2016 at 1245 LT","Marina di Cecina, Tuscany",Pilatus PC-6 Turbo Porter,2,10.4965683,43.3008257
+"May 31, 2016 at 2125 LT","Beaverdell, British Columbia",Rockwell Aero Commander 700,0,-119.088297,49.434206
+"May 31, 2016 at 1140 LT","Trapani, Sicily",Piaggio P.1HH HammerHead,0,12.537202,38.0176177
+"May 19, 2016 at 0237 LT","Mediterranean Sea, World",Airbus A320,66,18.0480105,34.5531284
+"Jul 11, 2016 at 1200 LT","Montijo AFB, Estremadura - Lisbon District",Lockheed C-130 Hercules,3,NA,NA
+"Oct 12, 2012 at 1740 LT","Kacha NAS, Autonomous Republic of Crimea",Beriev Be-12,3,NA,NA
+"May 12, 2016 at 1400 LT","Lodi, California",Cessna 208B Grand Caravan,0,-121.2722194,38.1341477
+"May 10, 2016 at 1030 LT","Lumby, British Columbia",De Havilland DHC-2 Beaver,0,-118.967831,50.250699
+"May 5, 2016 at 1611 LT","Manning, Alberta",Convair CV-580,0,-117.6286479,56.9233174
+"Apr 30, 2016","El Obeid, North Kurdufan (شمال كردفان)",Antonov AN-26,5,30.2166519,13.1782149
+"Apr 26, 2016 at 1425 LT","Foley, Alabama",Cessna 421B Golden Eagle II,0,-87.6835974,30.4065868
+"Apr 19, 2016 at 0920 LT","Slidell, Louisiana",Beechcraft King Air 90,2,-89.7811745,30.2751945
+"Apr 14, 2016 at 1420 LT","Maryevka, Samara oblast",PZL-Mielec AN-2,1,49.4498004,52.5624364
+"Apr 13, 2016 at 1420 LT","Kiunga, Western (Fly)",Britten-Norman Islander,12,141.2998457,-6.1202907
+"Apr 9, 2016 at 0904 LT","Hare, Texas",Rockwell Grand Commander 690,2,-97.2730511,30.6710292
+"Apr 6, 2016 at 1435 LT","Kanoya AFB, Kyūshū",BAe 125,6,130.8339137,31.3709339
+"Apr 6, 2016 at 0625 LT","Puerto Gaitán, Casanare",Douglas DC-3,0,-71.45001,6.25002
+"Sep 22, 2011 at 1313 LT","Wamena, Special Region of Papua",Pilatus PC-6 Turbo Porter,3,NA,NA
+"Apr 3, 2016 at 0732 LT","Aksarino, Republic of Tatarstan",PZL-Mielec AN-2,0,51.9070627,55.3435832
+"Mar 29, 2016 at 1140 LT","Le Havre-aux-Maisons (Magdalen Islands), Quebec",Mitsubishi MU-2 Marquise,7,-61.735888,47.474494
+"Mar 29, 2016","Rostov-on-Don, Rostov oblast",Antonov AN-26,0,39.701505,47.2357137
+"Mar 19, 2016 at 1523 LT","Campo de Marte AFB (São Paulo), São Paulo",Comp Air CA-9,7,-46.6377697,-23.509422
+"Mar 19, 2016 at 0341 LT","Rostov-on-Don, Rostov oblast",Boeing 737-800,62,39.701505,47.2357137
+"Mar 18, 2016 at 1630 LT","Oeiras, Piauí",Beechcraft King Air 90,0,-42.1572702,-7.0386232
+"Mar 16, 2016","Hawijah, Kirkuk (كركوك)",Cessna 208B Grand Caravan,3,43.7669217,35.3248248
+"Mar 15, 2016 at 1430 LT","Fátima, Pastaza",IAI Arava 201,22,-77.9988904,-1.4279679
+"Mar 9, 2016 at 0905 LT","Cox's Bazar, Chittagong",Antonov AN-26,3,92.0077316,21.4394636
+"Mar 3, 2016","Langebaanweg AFB, Western Cape",Cessna 208 Caravan,0,18.15157,-32.97328
+"Feb 26, 2016 at 1305 LT","Chilkhaya, Karnali",PAC 750XL - Pacific Aerospace Corporation,2,81.8442934,29.1001022
+"Feb 26, 2016 at 0840 LT","Kuala Selangor, Selangor",Casa-Nurtanio CN235 (IPTN),0,101.249762,3.340184
+"Feb 24, 2016 at 0800 LT","Dana, Dhawalagiri",De Havilland DHC-6 Twin Otter,23,83.624201,28.5353754
+"Feb 10, 2016 at 0940 LT","Naypyidaw, Mandalay Region",Beechcraft 1900D,5,96.0785104,19.7633057
+"Feb 6, 2016 at 1246 LT","Gai, Orenburg oblast",PZL-Mielec AN-2,3,58.4552011,51.4731583
+"Feb 1, 2016 at 0518 LT","Florianópolis, Santa Catarina",Socata TBM-900,2,-48.5482195,-27.5948698
+"Jan 30, 2016 at 0738 LT","Santiago de Querétaro, Querétaro",Rockwell Sabreliner 75,0,-100.3898881,20.5887932
+"Jan 29, 2016 at 1011 LT","Windhoek-Hosea Kutako, Khomas Region",Cessna 425 Conquest,3,17.0795107,-22.5534211
+"Jan 28, 2016 at 1730 LT","Mashhad, Razavi Khorasan",McDonnell Douglas MD-83,0,59.6167549,36.2604623
+"Jan 28, 2016 at 1530 LT","Whitsunday Island, Queensland",Cessna 208 Caravan,0,148.7268546,-20.1862425
+"Jan 18, 2016 at 1000 LT","Cedar Fort, Utah",Cessna 525 CJ1,2,-112.1043852,40.3271707
+"Jan 8, 2016 at 0020 LT","Akkajaure Lake, Norrbotten",Canadair RegionalJet CRJ-200,2,17.6473912,67.6536073
+"Jan 6, 2016 at 0836 LT","Savannah, Georgia",Pilatus PC-12,0,-81.0998342,32.0835407
+"Jan 3, 2016 at 1430 LT","Paraty, Rio de Janeiro",Beechcraft King Air 90,2,-44.7204757,-23.2200542
+"Jan 2, 2016 at 1253 LT","Anaktuvuk Pass, Alaska",Cessna 208B Grand Caravan,0,-151.7358334,68.1433333
+"Dec 23, 2015 at 1400 LT","Telluride, Colorado",Hawker 400,0,-107.8122852,37.9374939
+"Dec 22, 2015 at 0940 LT","New Delhi, National Capital Territory of Delhi",Beechcraft Super King Air 200,10,77.2090212,28.6139391
+"Dec 11, 2015 at 0910 LT","Pickle Lake, Ontario",Cessna 208B Grand Caravan,1,-90.193782,51.467825
+"Dec 7, 2015 at 1055 LT","Swellendam, Western Cape",Eclipse EA500,1,20.4381254,-34.0257083
+"Nov 26, 2015 at 1826 LT","Mexico City, Federal District of Mexico City",Boeing 737-300,0,-99.133208,19.4326077
+"Nov 22, 2015 at 0758 LT","Osh, Osh City",Boeing 737-300,0,72.8160976,40.5139985
+"Nov 17, 2015 at 1001 LT","Acandí, Chocó",Cessna 402,2,-77.27898,8.510109
+"Nov 10, 2015 at 1904 LT","Guarda-Mor, Minas Gerais",Cessna 650 Citation VII,4,-47.058302,-17.7893536
+"Nov 10, 2015 at 1451 LT","Akron, Ohio",BAe 125,9,-81.5190053,41.0814447
+"Nov 10, 2015","Malakal, Upper Nile (أعالي النيل)",Hawker-Siddeley Andover C.1,0,31.6682347,9.5279875
+"Nov 9, 2015 at 1001 LT","Climax, Georgia",Cessna 441 Conquest,2,-84.4312983,30.8760231
+"Aug 14, 2017 at 1215 LT","Zemyo, Kansai",Socata TBM-700,2,NA,NA
+"Nov 3, 2015 at 0927 LT","Lahore, Punjab (پنجاب)",Boeing 737-400,0,74.3571581,31.5546061
+"Nov 2, 2015","Koussané, Kayes",Fokker F27 Friendship,0,-11.2339605,14.8849445
+"Nov 2, 2015","Kinshasa-N'Djili, Kinshasa City Province",Grumman G-159 Gulfstream GI,0,15.3775245,-4.4047339
+"Oct 31, 2015 at 0613 LT","Hasna, North Sinai",Airbus A321,224,33.7799574,30.464478
+"Oct 29, 2015 at 1232 LT","Fort Lauderdale-Hollywood, Florida",Boeing 767-200,0,-80.1651315,26.0347664
+"Oct 28, 2015 at 1615 LT","Buenos Aires, Buenos Aires City",Pilatus PC-6 Turbo Porter,2,-58.3815591,-34.6036844
+"Oct 26, 2015 at 1245 LT","Weston, Florida",Piper PA-31-350 Navajo Chieftain,0,-80.3997748,26.1003654
+"Oct 22, 2015 at 1700 LT","La Tinaja, Guanajuato",Learjet 31,4,-101.217008,20.491257
+"Oct 19, 2015 at 0645 LT","San Fernando, Buenos Aires province",Learjet 35,0,-58.5579643,-34.4430618
+"Oct 16, 2015 at 1515 LT","Taylor, British Columbia",Cessna 207 Skywagon,2,-120.6814069,56.1525689
+"Oct 15, 2015 at 1810 LT","Ray, Michigan",Comp Air CA-8,0,-82.9286428,42.743032
+"Oct 14, 2015 at 1548 LT","Hammond-Northshore, Louisiana",Cessna 421B Golden Eagle II,2,-90.419215,30.5247191
+"Oct 14, 2015","Yumbillo, Valle del Cauca",Cessna 208B Grand Caravan,3,-76.5343721,3.5939754
+"Oct 12, 2015 at 1930 LT","Afgooye, Shabeellaha Hoose (شبيلي السفلى)",Airbus A300,0,45.1167167,2.1426226
+"Oct 12, 2015 at 1400 LT","Bamyan, Bamyan",Cessna 208B Grand Caravan,2,67.8212104,34.8100067
+"Oct 6, 2015 at 0831 LT","Tamale, Northern",BAe 146,0,-0.8484524,9.4329186
+"Oct 3, 2015 at 1020 LT","Stapleford, Essex",Beechcraft Super King Air 200,2,0.1651586,51.6419973
+"Oct 3, 2015","Bogotá-Guaymaral, Bogotá Capital District",Piper PA-31-310 Navajo,2,-74.0745024,4.8161069
+"Oct 2, 2015 at 1515 LT","Mt Latimojong, South Sulawesi",De Havilland DHC-6 Twin Otter,10,120.024167,-3.385
+"Oct 2, 2015 at 1203 LT","Veracruz, Rivas",Piper PA-31-310 Navajo,1,-85.8754885,11.4234908
+"Oct 2, 2015 at 0019 LT","Jalalabad, Nangarhar",Lockheed C-130 Hercules,13,70.4729434,34.4198488
+"Oct 2, 2015","Dubai-Palm Jumeirah, Dubai",De Havilland DHC-6 Twin Otter,0,55.138978,25.1124317
+"Sep 30, 2015 at 1016 LT","Saarbrücken, Saarland",De Havilland Dash-8-400,0,6.9969327,49.2401572
+"Sep 25, 2015 at 1200 LT","Déline, Northwest Territories",Curtiss C-46,0,-123.4227517,65.1888507
+"Sep 24, 2015 at 1325 LT","Ozren, Republika Srpska",Cessna 421B Golden Eagle II,1,18.2533333,44.6141667
+"Sep 21, 2015 at 1620 LT","Boise, Idaho",Rockwell Aero Commander 680,0,-116.2146068,43.6187102
+"Sep 16, 2015 at 1155 LT","Bratsk, Irkutsk oblast",PZL-Mielec AN-2,0,101.6038977,56.1737661
+"Sep 15, 2015 at 1845 LT","Thompson, Manitoba",Piper PA-31-350 Navajo Chieftain,0,-97.8508715,55.7449251
+"Sep 15, 2015 at 0606 LT","Iliamna, Alaska",De Havilland DHC-3 Otter,3,-154.9061111,59.7547222
+"Sep 8, 2015 at 1612 LT","Las Vegas, Nevada",Boeing 777-200,0,-115.1398296,36.1699412
+"Sep 6, 2015 at 1445 LT","Franklin, North Carolina",De Havilland DHC-6 Twin Otter,0,-83.3815429,35.1823171
+"Sep 5, 2015 at 1812 LT","Atlantic Ocean, World",BAe 125,7,-28.6731465,-14.5994134
+"Aug 29, 2015 at 1430 LT","Casale Monferrato, Piedmont",Technoavia SM-92 Turbo Finist,0,8.450503,45.1316088
+"Aug 29, 2015 at 0647 LT","Kaduna, Kaduna",Dornier DO228,7,7.4165053,10.5104642
+"Aug 26, 2015 at 2230 LT","Charallave, Miranda",Cessna 550 Citation II,0,-66.8677563,10.2110018
+"Aug 23, 2015 at 1340 LT","Les Bergeronnes, Quebec",De Havilland DHC-2 Beaver,6,-69.5451907,48.2435115
+"Aug 20, 2015 at 0923 LT","Vršatec, Trenčín Region",Let 410UVP,3,18.147161,49.067989
+"Aug 20, 2015 at 0923 LT","Vršatec, Trenčín Region",Let 410UVP,4,18.147161,49.067989
+"Aug 16, 2016 at 1540 LT","Charallave, Miranda",Cessna 550 Citation II,2,NA,NA
+"Aug 16, 2015 at 1100 LT","San Diego, California",Rockwell Sabreliner 60,4,-117.1610838,32.715738
+"Aug 16, 2015 at 0650 LT","Cape Town, Western Cape",Cessna 441 Conquest,5,18.4240553,-33.9248685
+"Aug 12, 2015 at 1205 LT","Saba, Dutch Antilles",Cessna 208B Grand Caravan,0,-63.2326763,17.6354642
+"Apr 9, 2014 at 0940 LT","Doyo Baru, Special Region of Papua",Quest Kodiak 100,2,NA,NA
+"Oct 3, 2012 at 1115 LT","Korupun, Special Region of West Papua",PAC 750XL - Pacific Aerospace Corporation,2,NA,NA
+"Aug 9, 2015 at 0900 LT","Clovis, New Mexico",Cessna 421B Golden Eagle II,0,-103.2052272,34.4047987
+"Aug 8, 2015 at 1003 LT","Cajicá, Cundinamarca",Cessna 402,3,-74.024773,4.917531
+"Aug 1, 2015 at 2130 LT","Georgetown, Kentucky",Beechcraft King Air 90,0,-84.5588311,38.2097967
+"Aug 1, 2015 at 0740 LT","Stăncuța, Brăila",PZL-Mielec AN-2,1,27.835509,44.8966069
+"Jul 31, 2015 at 1508 LT","Blackbushe, Hampshire",Embraer EMB-505 Phenom 300,4,-0.839339,51.322737
+"Jul 31, 2015 at 1430 LT","Agustín Codazzi, Cesar",Casa-Nurtanio CN235 (IPTN),11,-73.237105,10.034716
+"Jul 29, 2015 at 1811 LT","Milwaukee-Lawrence J. Timmerman, Wisconsin",Socata TBM-700,2,-88.0315696,43.1165833
+"Jul 27, 2015","Lagoa Santa (Belo Horizonte), Minas Gerais",Embraer EMB-110 Bandeirante,0,-43.904397,-19.6416298
+"Jul 24, 2015 at 1730 LT","Yangon, Yangon Region",ATR72-200,0,96.195132,16.8660694
+"Jul 17, 2015 at 1332 LT","Point Howard, Alaska",Cessna 207 Skywagon,1,-135.055,58.2919444
+"Jul 14, 2015 at 1650 LT","Litovko, Khabarovsk Krai",Tupolev TU-95,2,135.178055,49.2425629
+"Jul 7, 2015 at 0800 LT","Dubai-Skydive Campus, Dubai",Cessna 208B Grand Caravan,0,55.138296,25.091427
+"Jul 6, 2015 at 1622 LT","Pskov, Pskov oblast",Quest Kodiak 100,0,28.3344735,57.8166994
+"Apr 25, 2012 at 1730 LT","Muaritan, West Kalimantan",Pilatus PC-6 Turbo Porter,2,NA,NA
+"Jun 30, 2015 at 1150 LT","Medan-Soewondo AFB, North Sumatra",Lockheed C-130 Hercules,142,98.6764964,3.5633018
+"Jun 25, 2015 at 1405 LT","Ella Lake, Alaska",De Havilland DHC-3 Otter,9,-131.1150152,55.4713014
+"Jun 25, 2015 at 1309 LT","Okcheon, North Chungcheong (충청북도)",Antonov AN-2,0,127.5712809,36.3063646
+"Jun 20, 2015 at 1256 LT","Nuquí, Chocó",Cessna 303 Crusader,1,-77.2666969,5.709563
+"Jun 16, 2015 at 1900 LT","Aktau, Mangystau",Boeing 737-300,0,51.1985113,43.6410973
+"Jun 15, 2015 at 0805 LT","Rostov-on-Don, Rostov oblast",PZL-Mielec AN-2,0,39.701505,47.2357137
+"Jun 8, 2015 at 2123 LT","Karaikal, Tamil Nadu",Dornier DO228,3,79.8380056,10.9254398
+"Dec 17, 2011 at 0740 LT","Abmisibil, Special Region of Papua",PAC 750XL - Pacific Aerospace Corporation,2,NA,NA
+"Jun 7, 2015 at 1520 LT","Belo Horizonte, Minas Gerais",Beechcraft King Air 90,3,-43.9352376,-19.9245018
+"Jun 2, 2015 at 1435 LT","Santiago de Querétaro, Querétaro",Swearingen SA226AC Metro II,5,-100.3898881,20.5887932
+"May 30, 2015","Bethel, Alaska",Cessna 207 Skywagon,1,-161.7558334,60.7922222
+"May 24, 2015 at 0040 LT","Ricaurte, Cojedes",Embraer EMB-820 Navajo,2,-68.643955,9.3804077
+"May 21, 2015","Monterrey-Del Norte, Nuevo León",Cessna 421 Golden Eagle,0,-100.303487,25.7123781
+"May 20, 2015","Puerto Colombia, Atlántico",Hawker 800XP,4,-74.950761,11.001004
+"May 19, 2015","Mandeng, Upper Nile (أعالي النيل)",Cessna 208 Caravan,0,31.6599369,9.5508577
+"May 18, 2015 at 0900 LT","Sanamer, Stavropol Krai",PZL-Mielec AN-2,0,42.8532769,44.073912
+"May 16, 2015 at 1520 LT","Baltic Sea, World",PZL-Mielec AN-2,2,19.863281,58.487952
+"May 10, 2015 at 1433 LT","Azov, Rostov oblast",PZL-Mielec AN-2,0,39.4136552,47.0947446
+"May 10, 2015 at 1157 LT","Fuzhou, Fujian",Xian MA60,0,119.296482,26.074478
+"May 9, 2015 at 1257 LT","Seville, Andalusia",Airbus A400M,4,-5.9844589,37.3890924
+"Apr 28, 2015 at 1455 LT","Inarizaki, Shikoku",Shin Meiwa US-2,0,133.0176765,32.7615116
+"Apr 25, 2015 at 1710 LT","Maracaibo, Zulia",Beechcraft Super King Air 200,0,-71.7147951,10.6544509
+"Apr 25, 2015 at 1041 LT","Istanbul-Atatürk, Marmara Region (Marmara Bölgesi)",Airbus A320,0,28.8104425,40.9829888
+"Apr 14, 2015 at 2005 LT","Hiroshima, Chūgoku",Airbus A320,0,132.4552927,34.3852029
+"Apr 13, 2015 at 0708 LT","Mount Seymour, British Columbia",Swearingen SA226AC Metro II,2,-122.9444444,49.3933333
+"Apr 12, 2015 at 1630 LT","Fort Lauderdale-Hollywood, Florida",Piper PA-31 Cheyenne,4,-80.1651315,26.0347664
+"Apr 7, 2015 at 0010 LT","Bloomington, Illinois",Cessna 414 Chancellor,7,-88.9936873,40.4842027
+"Apr 3, 2015","Barneo, Russia",Antonov AN-74,0,39.7200268,43.5844967
+"Mar 29, 2015 at 0040 LT","Halifax, Nova Scotia",Airbus A320,0,-63.5752387,44.6487635
+"Mar 25, 2015 at 0046 LT","Promin, Volyn Oblast",PZL-Mielec AN-2,2,25.2953483,50.6492939
+"Mar 24, 2015 at 2208 LT","Dabolim, Goa",Dornier DO228,2,73.8507279,15.3900526
+"Mar 24, 2015 at 1520 LT","Verdigris, Oklahoma",Cessna 208B Grand Caravan,0,-95.6910927,36.2348197
+"Mar 24, 2015 at 1041 LT","Prads-Haute-Bléone, Alpes-de-Haute-Provence",Airbus A320,150,6.442807,44.219812
+"Mar 19, 2015 at 2037 LT","Punta del Este, Maldonado",Beechcraft King Air 90,10,-54.9281496,-34.9368789
+"Mar 5, 2015 at 1930 LT","Ancona, Marche",Let 410UVP,0,13.518915,43.6158299
+"Mar 5, 2015 at 1103 LT","New York-LaGuardia, New York",McDonnell Douglas MD-88,0,-73.8739659,40.7769271
+"Jul 25, 2017 at 1748 LT","Eteringbang, Guyana",Britten-Norman Islander,1,NA,NA
+"Mar 4, 2015 at 0744 LT","Kathmandu, Bagmati",Airbus A330,0,85.3239605,27.7172453
+"Mar 1, 2015 at 1615 LT","Marco Island, Florida",Canadair CL-601 Challenger,0,-81.7075355,25.9397412
+"Feb 22, 2015 at 1405 LT","Spokane-Felts Field, Washington",Piper PA-46 Malibu Meridian (Malibu Mirage),1,-117.319984,47.6805341
+"Feb 14, 2015 at 2058 LT","Malanje, Malanje",Antonov AN-32,0,16.3346061,-9.5418224
+"Feb 11, 2015 at 1415 LT","Kendall-Tamiami, Florida",Beechcraft 1900C,4,-80.4291937,25.649151
+"Feb 4, 2015 at 2110 LT","Denton, Texas",Cessna 441 Conquest,1,-97.1330683,33.2148412
+"Feb 4, 2015 at 1054 LT","Taipei-Songshan, Taipei City (臺北市)",ATR72-600,43,121.5638621,25.0541591
+"Jan 29, 2015","Oranjestad, Dutch Antilles",Canadair CL-601 Challenger,3,-62.9764978,17.4867485
+"Apr 12, 2017 at 1245 LT","Oksibil, Special Region of Papua",Cessna 208 Caravan,1,NA,NA
+"Jan 18, 2015","Abu Adh Dhuhur, Idlib Governorate (مُحافظة ادلب‎)",Antonov AN-26,30,37.0480843,35.7369445
+"Jan 17, 2015 at 1353 LT","Tacloban, Leyte",Canadair Global Express,0,124.9616867,11.2543388
+"Jan 16, 2015","Los Roques, Los Roques Federal Dependencies",Britten-Norman Islander,0,-66.7665377,11.8566815
+"Jan 10, 2015 at 1105 LT","Accra, Greater Accra",Boeing 737-400,0,-0.1869644,5.6037168
+"Jan 7, 2015 at 1215 LT","Taupo, Waikato Regional Council",PAC 750XL - Pacific Aerospace Corporation,0,176.07177,-38.686879
+"Jan 3, 2015 at 1119 LT","Magadan, Magadan oblast",Antonov AN-26,0,150.8301413,59.5611525
+"Jan 2, 2015 at 0833 LT","Stornoway, Hebrides Islands",Saab 340,0,-6.3848692,58.209435
+"Dec 30, 2014 at 0430 LT","Denver-Centennial, Colorado",Cessna 404 Titan,1,-104.8771726,39.5807452
+"Dec 28, 2014 at 1145 LT","Mahdia, Guyana",Britten-Norman Islander,2,-59.1421073,5.288172
+"Dec 28, 2014 at 0618 LT","Java Sea, Indonesia",Airbus A320,162,112.17041,-5.090944
+"Dec 28, 2014 at 0300 LT","Uvira, Sud-Kivu",Antonov AN-26,6,29.1448793,-3.3728836
+"Dec 24, 2014","Piedecuesta, Santander",Cessna 207 Skywagon,7,-73.053998,6.991539
+"Dec 23, 2014","La Bonanza, Miranda",Partenavia P.68,1,-66.9023234,10.288297
+"Dec 19, 2014","Champotón, Campeche",Learjet 25,2,-90.7200237,19.3471645
+"Dec 12, 2014 at 1500 LT","Obo, Haut-Mbomou",Antonov AN-26,0,26.4916731,5.3956496
+"Dec 12, 2014 at 0620 LT","Hokandara, Western Province (மேல் மாகாணம்)",Antonov AN-32,5,79.9696277,6.8743192
+"Dec 8, 2014 at 1045 LT","Gaithersburg, Maryland",Embraer EMB-500 Phenom 100,6,-77.2013705,39.1434406
+"Dec 3, 2014","Mariquita, Tolima",Piper PA-31-350 Navajo Chieftain,10,-74.886835,5.199505
+"Dec 2, 2014 at 0850 LT","Nassau, New Providence",Piper PA-31-350 Navajo Chieftain,1,-77.355413,25.0479835
+"Nov 27, 2014","Teniente Rodolfo Marsh (King George Island), Antarctica",Lockheed C-130 Hercules,0,-58.985989,-62.1911509
+"Nov 23, 2014 at 0951 LT","McDade, Texas",Rockwell Aero Commander 500,1,-97.237769,30.2838227
+"Nov 21, 2014 at 1010 LT","Houston-Sugar Land, Texas",Embraer EMB-500 Phenom 100,0,-95.6485833,29.610808
+"Nov 20, 2014 at 1430 LT","Lima, Lima",Cessna 207 Skywagon,3,-77.0427934,-12.046374
+"Nov 20, 2014 at 0720 LT","Great Slave Lake, Northwest Territories",Cessna 208B Grand Caravan,0,-115.087568,61.4517555
+"Nov 18, 2014 at 0242 LT","Chicago-Midway, Illinois",Rockwell Aero Commander 500,1,-87.7521884,41.7867759
+"Nov 17, 2014 at 1728 LT","Fulton, Missouri",Cessna 401,0,-91.9479586,38.8467082
+"Nov 14, 2014 at 1730 LT","Hidalgo, Tamaulipas",Piper PA-31-350 Navajo Chieftain,6,-99.4354373,24.2456184
+"Nov 14, 2014 at 1300 LT","Ohai, Southland Regional Council",Fletcher FU-24,0,168.3466179,-46.3799887
+"Nov 14, 2014 at 1020 LT","Panyagor, Jonglei (جونقلي)",Avro 748,2,31.4157958,7.3331109
+"Nov 9, 2014 at 1710 LT","Freeport, West Grand Bahama",Learjet 35,9,-78.6455475,26.5416093
+"Oct 30, 2014 at 0948 LT","Wichita, Kansas",Beechcraft Super King Air 200,4,-97.330053,37.6871761
+"Oct 29, 2014 at 1835 LT","Saint Martin, Dutch Antilles",Short 360,2,-63.05483,18.04248
+"Oct 25, 2014 at 1400 LT","Shabunda, Sud-Kivu",Let 410UVP,0,27.3440192,-2.694269
+"Oct 20, 2014 at 2357 LT","Moscow-Vnukovo, Moscow oblast",Dassault Falcon 50,4,37.2712341,55.599648
+"Oct 12, 2014 at 2025 LT","Punta Cana, La Altagracia",BAe Jetstream 31,0,-68.4054729,18.5820101
+"Oct 12, 2014 at 1920 LT","Zahedan, Sistan and Baluchestan",Rockwell Grand Commander 690,7,60.8841983,29.451926
+"Oct 10, 2014 at 1000 LT","Los Roques, Los Roques Federal Dependencies",Rockwell Gulfstream Jetprop 840,0,-66.7665377,11.8566815
+"Sep 21, 2014","Kawm Ushim, Faiyum",Lockheed C-130 Hercules,6,30.88,29.55
+"Sep 20, 2014 at 2130 LT","Chandigarh, Chandigarh",Antonov AN-32,0,76.7794179,30.7333148
+"Sep 20, 2014 at 0945 LT","Port Moresby, National Capital District",De Havilland DHC-6 Twin Otter,4,147.1506542,-9.4780123
+"Sep 14, 2014 at 1500 LT","Buenos Aires, Buenos Aires City",Beechcraft Super King Air 300,2,-58.3815591,-34.6036844
+"Sep 6, 2014 at 1450 LT","Araracuara, Caquetá",Piper PA-31-350 Navajo Chieftain,10,-72.3962907,-0.6013888
+"Sep 6, 2014 at 1030 LT","Mogadishu, Banaadir (بنادر‎)",Fokker 50,0,45.3181623,2.0469343
+"Sep 5, 2014 at 1420 LT","Port Antonio, Portland",Socata TBM-900,2,-76.4476321,18.1712764
+"Aug 31, 2014 at 1945 LT","Kogatende, Mara Region",Fokker F27 Friendship,3,34.8855722,-1.5656036
+"Aug 30, 2014 at 0244 LT","Tamanrasset, Tamanghasset",Antonov AN-12,7,5.5258107,22.7888209
+"Aug 27, 2014 at 1845 LT","Las Cruces, New Mexico",Cessna 421C Golden Eagle III,4,-106.7636538,32.3199396
+"Aug 12, 2015 at 0845 LT","Ninia, Special Region of Papua",PAC 750XL - Pacific Aerospace Corporation,1,NA,NA
+"Aug 16, 2014 at 0500 LT","Grand Manan Islands, New Brunswick",Piper PA-31-310 Navajo,2,-66.8157713,44.7063915
+"Aug 15, 2014 at 1544 LT","Bowie, Texas",Cessna 414 Chancellor,2,-97.8486457,33.5589953
+"Aug 13, 2014 at 1000 LT","Santos, São Paulo",Cessna 560XLS Citation Excel,7,-46.3264089,-23.9561304
+"Aug 10, 2014 at 0918 LT","Tehran, Tehran City District",HESA IrAn-140-100,39,51.3889736,35.6891975
+"Aug 6, 2014 at 1030 LT","Saint-Jean-les-Deux-Jumeaux, Seine-et-Marne",Socata TBM-700,3,3.018301,48.9514039
+"Aug 6, 2014","Prototskiye, Krasnodar Krai",PZL-Mielec AN-2,0,38.0794682,45.5173116
+"Jul 28, 2014 at 1500 LT","Foz do Iguaçu, Paraná",Embraer EMB-110 Bandeirante,0,-54.5853764,-25.5163356
+"Jul 24, 2014 at 0147 LT","Gossi, Tombouctou",McDonnell Douglas MD-83,116,-1.3011431,15.822218
+"Jul 23, 2014 at 1906 LT","Makung, Penghu County (澎湖縣)",ATR72-500,48,119.5774616,23.5706269
+"Jul 22, 2014","Herat, Herat",Lockheed C-130 Hercules,0,62.2040287,34.352865
+"Jul 19, 2014","Gulgubip, Western (Fly)",PAC 750XL - Pacific Aerospace Corporation,0,77.1297322,28.6740249
+"Jul 17, 2014 at 1619 LT","Shakhtarsk, Donetsk Oblast",Boeing 777-200,298,38.45053,48.0486753
+"Jul 14, 2014 at 1200 LT","Donetsk, Donetsk Oblast",Antonov AN-26,2,37.80285,48.015883
+"Jul 11, 2014 at 1550 LT","Saint John Harbour, British Columbia",De Havilland DHC-2 Beaver,0,-66.0320509,45.2539022
+"Jul 6, 2014 at 1630 LT","Chirundu, Southern",Britten-Norman Islander,0,28.8509415,-16.0271099
+"Jul 6, 2014 at 0950 LT","Monkey Mountain, Guyana",Britten-Norman Islander,0,-59.683333,4.483333
+"Jul 5, 2014 at 1618 LT","Częstochowa, Silesian Voivodeship (Śląskie)",Piper PA-31-350 Navajo Chieftain,11,19.1203094,50.8118195
+"Jul 2, 2014 at 0400 LT","Nairobi, Nairobi City District",Fokker 50,4,36.8219462,-1.2920659
+"Jun 26, 2014 at 0445 LT","Creve Coeur, Missouri",Cessna 414 Chancellor,0,-90.422618,38.6608855
+"Jun 23, 2014 at 1530 LT","Olsberg, North Rhine-Westphalia",Learjet 35,2,8.4801828,51.3556649
+"Jun 18, 2014 at 1421 LT","Huntsville, Alabama",IAI 1124 Westwind,3,-86.5861037,34.7303688
+"Jun 17, 2014 at 1730 LT","Lost Trail, Montana",Grumman G-21A Goose,1,-113.9501248,45.6935102
+"Jun 17, 2014 at 1030 LT","Lydenburg, Mpumalanga",Cessna 208 Caravan,3,30.447285,-25.0815817
+"Jun 14, 2014 at 0110 LT","Luhansk, Luhansk Oblast",Ilyushin II-76,49,39.307815,48.574041
+"Jun 13, 2014","Aruanã, Goiás",Cessna 525 CJ1,0,-51.075466,-14.9170433
+"Jun 8, 2014 at 1130 LT","Olsztyn, Warmian-Masurian Voivodeship (Warmińsko-Mazurskie)",PZL-Mielec AN-2,0,20.4801192,53.778422
+"Jun 7, 2014 at 1440 LT","Rybinsk, Yaroslavl oblast",PZL-Mielec AN-2,1,38.8116968,58.057486
+"Jun 6, 2014","Drobyshevo, Donetsk Oblast",Antonov AN-30,5,37.7259992,49.0406387
+"Jun 3, 2014 at 1425 LT","Moscow-Sheremetyevo, Moscow oblast",Ilyushin II-96,0,37.412503,55.9736482
+"Jun 2, 2014 at 1700 LT","Bahía Solano, Chocó",Beechcraft Super King Air 200,0,-77.401154,6.222552
+"May 31, 2014 at 2142 LT","Bedford, Massachusetts",Gulfstream GIV,7,-71.2760089,42.4906231
+"May 27, 2014 at 1245 LT","Carmelo, Colonia",Beechcraft Super King Air 200,5,-58.2861542,-33.9953859
+"May 17, 2014 at 1000 LT","Fort Huachuca, Arizona",Rockwell Aero Commander 500,0,-110.3499216,31.5552157
+"May 17, 2014 at 0700 LT","Xiang Khouang, Xiang Khouang Province",Antonov AN-74TK-300,16,103.7289167,19.6093003
+"May 12, 2014","El Wak, North Eastern",Harbin Yunsunji Y-12,1,-73.9246944,40.8180267
+"May 10, 2014 at 1539 LT","Page, Arizona",Cessna 207 Skywagon,1,-111.4558333,36.9147222
+"May 9, 2014 at 1630 LT","Terbuny, Lipetsk oblast",PZL-Mielec AN-2,0,38.2779212,52.1513058
+"May 8, 2014 at 1704 LT","Kabul, Kabul",Boeing 737-400,0,69.207486,34.5553494
+"May 8, 2014 at 1202 LT","San Vincente del Caguán, Caquetá",Douglas DC-3,5,-74.7732056,2.1136446
+"May 4, 2014 at 1200 LT","Bucaramanga, Santander",Piper PA-31-350 Navajo Chieftain,2,-73.1227416,7.119349
+"Apr 29, 2014 at 0226 LT","East Midlands, Leicestershire",Boeing 737-400,0,-1.2052126,52.772571
+"Apr 27, 2014","Deán Funes, Córdoba",Piper PA-31-350 Navajo Chieftain,0,-64.349403,-30.4240924
+"Apr 26, 2014 at 1128 LT","Spruce Creek, Florida",Cessna 525 CJ3,0,-81.046667,29.080167
+"Apr 20, 2014 at 1530 LT","Jämijärvi, Satakunta",Comp Air CA-8,8,22.6228262,61.8327572
+"Apr 20, 2014","Guriceel, Galgaduud (جلجدود‎)",Fokker 50,0,45.8802073,5.303435
+"Apr 19, 2014 at 1945 LT","Saltillo, Coahuila",BAe 125,8,-100.9954254,25.4267244
+"Aug 9, 2015 at 1415 LT","Barkárdal, Northeastern Region (Norðurland eystra)",De Havilland DHC-2 Beaver,1,NA,NA
+"Apr 8, 2014 at 1830 LT","Bethel, Alaska",Cessna 208B Grand Caravan,2,-161.7558334,60.7922222
+"Mar 28, 2014","Gwalior, Madhya Pradesh",Lockheed C-130 Hercules,5,78.1828308,26.2182871
+"Mar 27, 2014 at 1130 LT","Chandigarh, Chandigarh",Beechcraft Super King Air 200,0,76.7794179,30.7333148
+"Mar 22, 2014 at 1400 LT","Montrose, Colorado",Socata TBM-700,5,-107.8761738,38.4783198
+"Mar 14, 2014 at 1730 LT","Stuart, Florida",Cessna 402,0,-80.2528257,27.197548
+"Mar 12, 2014 at 0620 LT","Villavicencio, Meta",Beechcraft King Air 90,5,-73.6376905,4.1513822
+"Mar 8, 2014 at 0130 LT","Indian Ocean, World",Boeing 777-200,239,81.826172,-33.137551
+"Mar 3, 2014 at 1846 LT","Kish Island, Hormozgān",Dassault Falcon 20,4,53.9867949,26.5324775
+"Mar 3, 2014","Guasdualito, Apure",Beechcraft King Air 90,0,-70.704952,7.2397806
+"Mar 2, 2014 at 1415 LT","Masila, Hadhramaut (حضرموت)",Antonov AN-26,0,49.1362247,15.5896632
+"Feb 27, 2014 at 0545 LT","Panda Ranch (Molokai), Hawaii",Partenavia P.68,0,-157.2593951,21.148854
+"Feb 26, 2014 at 2105 LT","Lanai, Hawaii",Piper PA-31-350 Navajo Chieftain,3,-156.9273193,20.8165975
+"Feb 25, 2014 at 1000 LT","Lukapa, Lunda Norte",Embraer EMB-120 Brasília,0,20.7301263,-8.4432485
+"Feb 21, 2014 at 0130 LT","Grombalia, Nabeul Governorate (ولاية نابل‎)",Antonov AN-26,11,10.5014909,36.6024831
+"Feb 19, 2014 at 0835 LT","Pearland, Texas",Beechcraft King Air 100,1,-95.2860474,29.5635666
+"Feb 17, 2014","Rubkona, Unity (الوحدة)",Avro 748,1,29.7802409,9.2801507
+"Feb 16, 2014 at 1315 LT","Arghakhanchi, Lumbini",De Havilland DHC-6 Twin Otter,18,83.0361376,27.9829269
+"Feb 15, 2014 at 1640 LT","Stella Maris, Long Island",Cessna 501 Citation I,0,-75.2661355,23.5930707
+"Feb 11, 2014 at 1138 LT","Aïn Kercha, Oum el-Bouaghi",Lockheed C-130 Hercules,76,6.6905458,35.9302835
+"Feb 4, 2014 at 0600 LT","Otane, Hawke's Bay Regional Council",PAC Cresco 08-600,0,176.9168971,-39.4933334
+"Feb 3, 2014 at 1657 LT","Bellevue, Tennessee",Rockwell Gulfstream Jetprop 840,4,-86.9624086,36.0727326
+"Feb 3, 2014 at 0700 LT","Lanseria, Gauteng",Beechcraft King Air 90,3,27.9263647,-25.9400168
+"Jan 29, 2014 at 0843 LT","Ilulissat, Qaasuitsup Kommunia",De Havilland Dash-8-200,0,-51.0986031,69.2198118
+"Jan 28, 2014 at 0731 LT","Paris-Roissy-CDG, Val-d'Oise",Saab 2000,0,2.5479245,49.0096906
+"Jan 27, 2014 at 1730 LT","Columbia, California",Beechcraft King Air 90,0,-120.4013061,38.0363119
+"Jan 26, 2014 at 1130 LT","Honiara, Solomon Islands",Boeing 737-300,0,159.9728999,-9.4456381
+"Jan 20, 2014 at 1600 LT","Petreasa, Alba",Britten-Norman Islander,2,22.9424224,46.5361053
+"Jan 20, 2014 at 0935 LT","Addis Ababa, Addis Ababa City District",PZL-Mielec AN-28,0,38.7577605,8.9806034
+"Jan 19, 2014 at 1000 LT","Tual, Maluku",Piper PA-31-350 Navajo Chieftain,4,132.3446399,-5.5680317
+"Jan 18, 2014 at 1056 LT","Olive Creek, Guyana",Cessna 208B Grand Caravan,2,-60.1470566,6.2160595
+"Jan 18, 2014 at 0430 LT","Saltillo, Coahuila",Douglas DC-9,0,-100.9954254,25.4267244
+"Jan 11, 2014 at 1200 LT","Trier-Föhren, Rhineland-Palatinate",Cessna 501 Citation I,4,6.7862758,49.8633681
+"Jan 9, 2014","Afghanistan, Afghanistan",Beechcraft Super King Air 300,3,67.709953,33.93911
+"Jan 6, 2014 at 1508 LT","Cayenne, French Guyana",Gippsland GA8 Airvan,0,-52.3134531,4.92242
+"Jan 5, 2014 at 1222 LT","Aspen, Colorado",Canadair CL-601 Challenger,1,-106.8175387,39.1910983
+"Dec 26, 2013 at 2130 LT","Irkutsk, Irkutsk oblast",Antonov AN-12,9,104.3050183,52.2869741
+"Dec 19, 2013 at 2100 LT","Viña del Mar, Región de Valparaíso",Beechcraft King Air 90,0,-71.5500276,-33.0153481
+"Dec 17, 2013 at 1925 LT","Atlanta, Georgia",Raytheon 390 Premier I,2,-84.3879824,33.7489954
+"Dec 14, 2013 at 1425 LT","Tofino, British Columbia",Cessna 421B Golden Eagle II,2,-125.9066184,49.1529842
+"Dec 11, 2013 at 1545 LT","Kalaupapa, Hawaii",Cessna 208B Grand Caravan,1,-156.9818053,21.1893014
+"Dec 4, 2013 at 2119 LT","Abuja, Abuja Federal Capital Territory",Boeing 747-200,0,7.398574,9.0764785
+"Dec 4, 2013","Pukanu, Pará",Britten-Norman Islander,5,-57.5220108,-25.1024668
+"Dec 3, 2013 at 0940 LT","Crescent City, Florida",Rockwell Grand Commander 680,0,-81.5106288,29.4302514
+"Dec 2, 2013 at 2010 LT","Sabana Hoyos, Puerto Rico",Swearingen SA227AC Metro III,2,-66.6057378,18.3691778
+"Jun 8, 2015 at 1700 LT","Ukrainka AFB, Amur oblast",Tupolev TU-95,1,NA,NA
+"Nov 29, 2013 at 1824 LT","Saint Mary's, Alaska",Cessna 208B Grand Caravan,4,-163.1658333,62.0530556
+"Nov 29, 2013 at 1230 LT","Divundu, Kavango Region",Embraer ERJ-190,33,21.5483207,-18.0971147
+"Nov 25, 2013 at 1330 LT","Kibeni, Gulf",Cessna 208B Grand Caravan,3,143.8,-7.416667
+"Nov 19, 2013 at 1956 LT","Fort Lauderdale-Hollywood, Florida",Learjet 35,4,-80.1651315,26.0347664
+"Nov 19, 2013 at 1115 LT","Mouffy, Yonne",Socata TBM-700,6,3.514373,47.652129
+"Nov 18, 2013 at 1120 LT","Xalapa, Veracruz",Cessna 414 Chancellor,2,-96.9101806,19.5437751
+"Nov 17, 2013 at 1925 LT","Kazan, Republic of Tatarstan",Boeing 737-500,50,49.0660806,55.8304307
+"Nov 10, 2013 at 1834 LT","Red Lake, Ontario",Swearingen SA227AC Metro III,5,-93.828916,51.0145968
+"Nov 10, 2013 at 1546 LT","Owasso, Oklahoma",Mitsubishi MU-2 Marquise,1,-95.8547119,36.2695388
+"Nov 3, 2013 at 1556 LT","Riberalta, Beni",Swearingen SA227AC Metro III,8,-66.058249,-11.0073376
+"Nov 1, 2013 at 1742 LT","Springdale, Arkansas",Beechcraft King Air 90,2,-94.1288141,36.1867442
+"Oct 26, 2013 at 0000 LT","Tayozhny, Krasnoyarsk Krai",PZL-Mielec AN-2,2,97.3119176,58.0737044
+"Oct 25, 2013 at 0120 LT","Paris-Roissy-CDG, Val-d'Oise",Fokker F27 Friendship,0,2.5479245,49.0096906
+"Oct 19, 2013 at 1539 LT","Namur, Namur",Pilatus PC-6 Turbo Porter,11,4.8719854,50.4673883
+"Oct 19, 2013 at 1149 LT","Balesin, Quezon",BAe 146,0,122.0354438,14.4254839
+"Oct 19, 2013 at 0900 LT","Madang, Madang",ATR42-300,0,145.7856324,-5.2218841
+"Oct 18, 2013 at 1017 LT","Derby, Kansas",Cessna 500 Citation,2,-97.2689331,37.5455735
+"Oct 16, 2013 at 1555 LT","Pakse, Champasak Province",ATR72-600,49,105.8172881,15.1105068
+"Oct 14, 2013","Loreto, Baja California Sur",Cessna 208B Grand Caravan,14,-111.3477531,26.0117564
+"Oct 10, 2013 at 1450 LT","Kudat, Sabah",De Havilland DHC-6 Twin Otter,2,116.8253111,6.88684
+"Oct 10, 2013 at 0440 LT","Skulyn, Volyn Oblast",PZL-Mielec AN-2,2,24.8880791,51.2804572
+"Oct 6, 2013 at 1425 LT","Sevryukovo, Bryansk oblast",PZL-Mielec AN-2,0,34.0577442,53.285093
+"Oct 6, 2013 at 0605 LT","Culebra, Puerto Rico",Britten-Norman Islander,1,-65.3030705,18.310394
+"Oct 5, 2013 at 0100 LT","Acandí, Chocó",De Havilland Dash-8-200,4,-77.27898,8.510109
+"Oct 3, 2013 at 0932 LT","Lagos, Lagos",Embraer EMB-120 Brasília,16,3.3792057,6.5243793
+"Sep 29, 2013 at 1820 LT","Santa Monica, California",Cessna 525 CJ2,4,-118.4911912,34.0194543
+"Sep 25, 2013 at 1400 LT","Hudson Bay, Canada",Cessna 208B Grand Caravan,1,-97.1498464,49.8905444
+"Sep 24, 2013 at 1040 LT","Lyon-Bron, Rhône",Cessna 421C Golden Eagle III,4,4.911927,45.733316
+"Sep 19, 2013 at 1553 LT","Idaho Falls, Idaho",Beechcraft King Air 90,0,-112.0339645,43.4916514
+"Sep 18, 2013 at 1213 LT","Zelenoborsk, Khantia-Mansia okrug",PZL-Mielec AN-2,0,64.0436685,61.4688953
+"Sep 9, 2013 at 0950 LT","Viña del Mar, Región de Valparaíso",Dornier DO228,2,-71.5500276,-33.0153481
+"Sep 8, 2013 at 1030 LT","Doylestown, Pennsylvania",Piper PA-31-350 Navajo Chieftain,0,-75.1298939,40.3101063
+"Sep 4, 2013 at 1020 LT","Jersey, Channel Islands",Cessna 303 Crusader,2,-2.13125,49.214439
+"Sep 4, 2013 at 0755 LT","Colorado Springs, Colorado",Cessna 207 Skywagon,0,-104.8213634,38.8338816
+"Aug 27, 2013 at 1120 LT","Paris, Illinois",Cessna 421C Golden Eagle III,1,-87.6961374,39.611146
+"Aug 25, 2013 at 1604 LT","Guriceel, Galgaduud (جلجدود‎)",Antonov AN-26,0,45.8802073,5.303435
+"Aug 22, 2013 at 1200 LT","Lake Manyara, Manyara",Beechcraft Super King Air 200,0,35.8061779,-3.6190593
+"Aug 22, 2013","Ivanhoe Lake, Northwest Territories",De Havilland DHC-3 Otter,1,-106.4832585,60.467374
+"Aug 19, 2013 at 1711 LT","Yellowknife, Northwest Territories",Douglas DC-3,0,-114.3717887,62.4539717
+"Aug 16, 2013 at 1023 LT","Hesquiat Lake, British Columbia",De Havilland DHC-2 Beaver,2,-126.3913352,49.5096522
+"Aug 16, 2013","Vilyuisk, Republic of Yakutia (Sakha)",PZL-Mielec AN-2,0,121.6276667,63.7464403
+"Aug 14, 2013 at 0451 LT","Birmingham, Alabama",Airbus A300-600,2,-86.80249,33.5206608
+"Aug 12, 2013 at 1130 LT","Canons Ashby, Northamptonshire",De Havilland DH.60 Moth,0,-1.157364,52.149338
+"Aug 9, 2013 at 1125 LT","New Haven, Connecticut",Rockwell Grand Commander 690,4,-72.9278835,41.308274
+"Aug 9, 2013 at 0800 LT","Mogadishu, Banaadir (بنادر‎)",Antonov AN-12,4,45.3181623,2.0469343
+"Aug 9, 2013 at 0208 LT","Leipzig, Saxony",Antonov AN-12,0,12.3730747,51.3396955
+"Aug 8, 2013 at 0940 LT","Clermont-Ferrand, Puy-de-Dôme",Socata TBM-850,3,3.087025,45.777222
+"Aug 6, 2013","Danfeng, Shaanxi",Shijiazhuang Yunsunji Y-5,1,110.327331,33.695783
+"Aug 5, 2013 at 1329 LT","Akureyri, Northeastern Region (Norðurland eystra)",Beechcraft Super King Air 200,2,-18.1261694,65.6884921
+"Aug 2, 2013 at 0915 LT","Mount Nicholas, Otago Regional Council",Cessna 207 Skywagon,0,168.6612987,-45.0315594
+"Aug 1, 2013 at 1200 LT","Eilat (אילת), Southern District",Piper PA-31-350 Navajo Chieftain,1,34.951925,29.557669
+"Jul 30, 2013 at 1200 LT","Tanzania, Tanzania",Cessna 404 Titan,0,34.888822,-6.369028
+"Jul 28, 2013 at 0000 LT","Shakhty, Rostov oblast",PZL-Mielec AN-2,0,40.2355138,47.7236224
+"Jul 22, 2012 at 1200 LT","Bolshoe Gryzlovo, Moscow oblast",Let 410UVP,1,NA,NA
+"Jul 19, 2013 at 1234 LT","Panama City, Panamá",Britten-Norman Islander,0,-79.5198696,8.9823792
+"Jul 7, 2013 at 1120 LT","Soldotna, Alaska",De Havilland DHC-3 Otter,10,-151.0583332,60.4877778
+"Jul 6, 2013 at 1127 LT","San Francisco, California",Boeing 777-200,3,-122.4194155,37.7749295
+"Jun 29, 2013 at 0700 LT","Francistown, North-East District",Embraer EMB-110 Bandeirante,2,27.5143603,-21.1661005
+"Jun 28, 2013 at 1940 LT","Kyzylorda, Kyzylorda",Antonov AN-2,1,65.4822686,44.8488314
+"Jun 28, 2013 at 1100 LT","Russia, Russia",Antonov AN-2,0,105.318756,61.52401
+"Jun 25, 2013 at 2030 LT","Wheeling, Illinois",Beechcraft Super King Air 200,0,-87.9289591,42.1391927
+"Jun 25, 2013","Jérémie, Grand'Anse",Piper PA-31-350 Navajo Chieftain,2,-74.1181234,18.6389698
+"Jun 20, 2013 at 1646 LT","McClellanville, South Carolina",Rockwell Grand Commander 690,2,-79.467312,33.087972
+"Jun 19, 2013 at 0930 LT","Augsburg, Bavaria",Piper PA-46 Malibu Meridian (Malibu Mirage),0,10.89779,48.3705449
+"Jun 13, 2013 at 1817 LT","Chino, California",Canadair CL-601 Challenger,0,-117.688944,34.0122346
+"Jun 13, 2013 at 1345 LT","Marsh Harbour, Central Abaco",Saab 340,0,-77.0909809,26.5241653
+"Jun 10, 2013 at 1726 LT","Saint-Mathieu-de-Beloeil, Quebec",Beechcraft King Air 100,0,-73.2478531,45.605068
+"Jun 10, 2013 at 1000 LT","N'Gaoundéré, Adamaoua",Cessna 208 Caravan,1,13.5668302,7.3381488
+"Jun 10, 2013 at 0954 LT","Kupang, East Nusa Tenggara",Xian MA60,0,123.6070329,-10.1771997
+"Jun 7, 2013 at 1310 LT","Baton Rouge, Louisiana",Beechcraft Super King Air 200,1,-91.1403196,30.4582829
+"Jun 4, 2013 at 1540 LT","Petersburg, Alaska",De Havilland DHC-2 Beaver,1,-132.9555556,56.8125
+"Jun 1, 2013 at 0714 LT","Simikot, Karnali",Dornier DO228,0,81.8333656,29.9862834
+"Nov 23, 2011 at 0942 LT","Bilogai-Sugapa, Special Region of Papua",Cessna 208B Grand Caravan,1,NA,NA
+"May 30, 2013 at 1727 LT","Red Lake, Ontario",Beechcraft D18,2,-93.828916,51.0145968
+"May 30, 2013 at 0000 LT","Qingdao, Shandong",Harbin SH-5 - Shuishang Hongzha 5,5,120.382609,36.067108
+"May 29, 2013 at 1540 LT","Sorocaba, São Paulo",Comp Air CA-8,2,-47.4525944,-23.5015338
+"May 27, 2013 at 1042 LT","Simikot, Karnali",Cessna 208B Grand Caravan,0,81.8333656,29.9862834
+"May 26, 2013 at 1430 LT","Port-au-Prince, West",Boeing KC-137 Stratoliner,0,-72.3074326,18.594395
+"May 24, 2013 at 1002 LT","Jyl-Kol, Jalal-Abad Province",PZL-Mielec AN-2,3,72.0860719,41.1756892
+"May 16, 2013 at 1325 LT","California, California",Cessna 421C Golden Eagle III,1,-117.9859038,35.125801
+"May 16, 2013 at 1151 LT","Mong Hsat, Shan State",Xian MA60,0,99.2508437,20.5184404
+"May 16, 2013 at 1000 LT","Shenyang, Liaoning",Harbin Yunsunji Y-12,0,123.431472,41.805699
+"May 16, 2013 at 0833 LT","Jomsom, Dhawalagiri",De Havilland DHC-6 Twin Otter,0,83.7730237,28.7746477
+"May 15, 2013 at 1033 LT","Piatigorsk, Stavropol Krai",PZL-Mielec AN-2,1,43.039636,44.0498933
+"May 13, 2013 at 1245 LT","McMinville, Oregon",Learjet 35,0,-123.1987163,45.2101162
+"May 11, 2013 at 1100 LT","Indonesia, Indonesia",Fletcher FU-24,1,113.921327,-0.789275
+"May 5, 2013 at 1000 LT","Valencia, Carabobo",Learjet 60,2,-67.9972104,10.1579312
+"May 3, 2013 at 1455 LT","Chorgolu, Chuy Province",Boeing KC-135 Stratotanker,3,73.541744,42.8185388
+"May 2, 2013 at 1629 LT","Catskill, New York",Grumman G-44 Widgeon,1,-73.959494,42.2146071
+"Apr 30, 2013 at 1235 LT","Zacatecas, Zacatecas",Beechcraft Super King Air 300,6,-102.5865558,22.7641984
+"Apr 29, 2013 at 1532 LT","Bagram AFB, Parwan",Boeing 747-400,7,69.273567,34.9444758
+"Apr 27, 2013 at 1243 LT","Kandahar, Kandahar",Beechcraft MC-12W Liberty,4,65.7371749,31.628871
+"Apr 26, 2013 at 0915 LT","Rotenburg, Hesse",Socata TBM-700,4,9.7309388,50.9995571
+"Apr 17, 2013 at 1435 LT","Sam Neua, Houaphan Province",De Havilland DHC-6 Twin Otter,0,104.04787,20.4170831
+"Apr 13, 2013 at 1510 LT","Denpasar, Bali",Boeing 737-800,0,115.2126293,-8.6704582
+"Apr 7, 2013 at 1613 LT","Sao Tomé, Água Grande",Beechcraft 1900C,1,6.733343,0.3301924
+"Apr 6, 2013 at 1200 LT","Morelia, Michoacán",Cessna 421B Golden Eagle II,0,-101.1949825,19.7059504
+"Apr 5, 2013 at 1150 LT","Hammonton, New Jersey",Cessna 414 Chancellor,0,-74.8023853,39.6365056
+"Apr 4, 2013 at 0030 LT","Mayaguana, Mayaguana",Cessna 402,3,-73.0641396,22.4017714
+"Mar 29, 2013 at 1300 LT","Bordeaux, Gironde",Beechcraft King Air 90,0,-0.57918,44.837789
+"Mar 23, 2013 at 1515 LT","Ust-Labinsk, Krasnodar Krai",PZL-Mielec AN-2,1,39.6873784,45.215065
+"Mar 17, 2013 at 1623 LT","South Bend, Indiana",Raytheon 390 Premier I,2,-86.2519898,41.6763545
+"Mar 15, 2013 at 1620 LT","Fort Lauderdale-Hollywood, Florida",Piper PA-31 Cheyenne,3,-80.1651315,26.0347664
+"Mar 12, 2013 at 2030 LT","Almeirim, Pará",Embraer EMB-821 Carajá,10,-52.5785846,-1.5239568
+"Mar 8, 2013 at 0815 LT","Dillingham, Alaska",Beechcraft 1900C,2,-158.4575,59.0397222
+"Mar 6, 2013 at 1727 LT","Roskilde, Sjælland",Partenavia P.68,2,12.087845,55.64191
+"Mar 6, 2013 at 0830 LT","Pias, La Libertad",Beechcraft Super King Air 200,9,-77.5465368,-7.8719207
+"Mar 4, 2013 at 1744 LT","Goma, Nord-Kivu",Fokker 50,7,29.2204548,-1.658501
+"Mar 4, 2013 at 0839 LT","Annemasse, Haute-Savoie",Raytheon 390 Premier I,2,6.234158,46.193253
+"Mar 2, 2013 at 1344 LT","Rybinsk, Yaroslavl oblast",PZL-Mielec AN-2,0,38.8116968,58.057486
+"Feb 28, 2013","Wau, Western Bahr el Ghazal (غرب بحر الغزال)",Let 410UVP,0,27.9834738,7.7091884
+"Feb 21, 2013","Santa Lucia AFB, Los Reyes Acozac, México",Pilatus PC-6 Turbo Porter,2,-99.0129947,19.7513358
+"Feb 20, 2013 at 2006 LT","Thomson, Georgia",Raytheon 390 Premier I,5,-82.5045733,33.4706927
+"Feb 13, 2013 at 1809 LT","Donetsk, Donetsk Oblast",Antonov AN-24,5,37.80285,48.015883
+"Feb 11, 2013 at 1325 LT","Muscat, Oman",Boeing 737-300,0,58.4059227,23.58589
+"Feb 11, 2013 at 0730 LT","Monrovia, Montserrado",Casa-Nurtanio CN235 (IPTN),11,-10.7605239,6.2907432
+"Feb 7, 2013 at 1430 LT","Zhytomyr, Ukraine",PZL-Mielec AN-2,0,28.6586669,50.25465
+"Feb 6, 2013 at 1423 LT","Tunis, Tunis Governorate (ولاية تونس‎)",Airbus A320,0,10.1815316,36.8064948
+"Feb 6, 2013 at 1135 LT","Casa Grande, Arizona",Beechcraft King Air 90,2,-111.7733902,32.9110027
+"Feb 3, 2013 at 2030 LT","Cândido Mota, São Paulo",Beechcraft King Air 90,5,-50.3880476,-22.7466667
+"Feb 2, 2013 at 2032 LT","Rome, Lazio",ATR72-500,0,12.4963655,41.9027835
+"Jan 29, 2013 at 1313 LT","Almaty, Almaty Province",Canadair RegionalJet CRJ-200,21,76.8512485,43.2220146
+"Jan 23, 2013 at 0827 LT","Antarctica, Antarctica",De Havilland DHC-6 Twin Otter,3,135,-82.862752
+"Jan 17, 2013 at 1430 LT","Tuxtla Gutierrez, Chiapas",Piper PA-31-350 Navajo Chieftain,8,-93.1029939,16.7516009
+"Jan 16, 2013 at 0557 LT","Burlington, North Carolina",Pilatus PC-12,1,-79.4377991,36.0956918
+"Jan 15, 2013 at 1945 LT","Pellston, Michigan",Cessna 208B Grand Caravan,1,-84.7839364,45.552789
+"Jan 4, 2013 at 1145 LT","Los Roques, Los Roques Federal Dependencies",Britten-Norman Islander,6,-66.7665377,11.8566815
+"Jan 2, 2013 at 1010 LT","Mendoza, Mendoza",Saab 340,0,-68.8458386,-32.8894587
+"Dec 31, 2012 at 1014 LT","San Pedro Sula, Cortés",BAe Jetstream 31,0,-87.9922684,15.5149204
+"Dec 29, 2012 at 1633 LT","Moscow, Moscow oblast",Tupolev TU-204,5,37.6172999,55.755826
+"Dec 25, 2012 at 1854 LT","Shymkent, South Kazakhstan",Antonov AN-72,27,69.590101,42.3416847
+"Dec 25, 2012 at 0850 LT","Heho, Shan State",Fokker 100,2,96.8217017,20.723192
+"Dec 24, 2012 at 1435 LT","Leesburg, Florida",Piper PA-31-350 Navajo Chieftain,1,-81.8778582,28.810823
+"Dec 22, 2012 at 1813 LT","Sanikiluaq, Nunavut",Swearingen SA227AC Metro III,1,-79.22321,56.5407678
+"Dec 19, 2012 at 0002 LT","Libby, Montana",Beechcraft King Air 100,2,-115.5559988,48.3882861
+"Dec 18, 2012 at 1825 LT","Payson, Arizona",Piper PA-31-350 Navajo Chieftain,1,-111.3251355,34.2308684
+"Dec 17, 2012 at 1041 LT","Tomas, Lima",Antonov AN-26,4,-75.7455074,-12.2369022
+"Dec 15, 2012 at 1000 LT","Ely, Nevada",Piper PA-31 Cheyenne,2,-114.8886296,39.2474393
+"Dec 14, 2012 at 1805 LT","Amarillo, Texas",Beechcraft King Air 90,2,-101.8312969,35.2219971
+"Dec 9, 2012 at 0440 LT","Mexico, Mexico",Learjet 25,7,-102.552784,23.634501
+"Dec 8, 2012 at 1334 LT","Palm Beach County Park-Lantana, Florida",Cessna 421C Golden Eagle III,1,-80.085281,26.592777
+"Dec 8, 2012 at 1324 LT","Rotorua, Bay of Plenty Regional Council",Fletcher FU-24,1,176.2530551,-38.1346242
+"Dec 7, 2012 at 1200 LT","La Yesca, Nayarit",Britten-Norman Islander,0,-104.0115223,21.3194074
+"Dec 5, 2012 at 0945 LT","South Africa, South Africa",Douglas C-47 Skytrain (DC-3),11,22.937506,-30.559482
+"Nov 30, 2012 at 1730 LT","Brazzaville, Brazzaville City District",Ilyushin II-76,32,15.2428853,-4.2633597
+"Nov 28, 2012 at 1435 LT","Merritt Island, Florida",Comp Air CA-8,0,-80.6659842,28.3180688
+"Nov 27, 2012 at 1329 LT","Moroni, Comoros Islands",Embraer EMB-120 Brasília,0,43.26505,-11.6557739
+"Nov 26, 2012 at 2124 LT","Wells, Texas",Cessna 421C Golden Eagle III,1,-94.9399346,31.488513
+"Nov 25, 2012 at 1200 LT","Johannesburg, Gauteng",Piper PA-31-350 Navajo Chieftain,0,28.0473051,-26.2041028
+"Nov 25, 2012 at 1120 LT","Yugorsk, Khantia-Mansia okrug",PZL-Mielec AN-2,1,63.3429553,61.3138277
+"Aug 22, 2011 at 1200 LT","Choigan-Khole Lake, Republic of Tuva",PZL-Mielec AN-2,1,NA,NA
+"Nov 21, 2012 at 1200 LT","Sana'a, Sana'a (صنعاء)",Antonov AN-26,10,44.1910066,15.3694451
+"Nov 19, 2012","Yida, Unity (الوحدة)",Antonov AN-26,0,30.0829075,10.1055751
+"Nov 18, 2012 at 1005 LT","Snow Lake, Manitoba",Cessna 208B Grand Caravan,1,-100.0220321,54.8785668
+"Nov 17, 2012 at 1145 LT","Greenwood, South Carolina",Cessna 550 Citation II,0,-82.1617883,34.1954001
+"Nov 16, 2012 at 0525 LT","Bratislava, Bratislava Region",Airbus A300,0,17.1077478,48.1485965
+"Nov 15, 2012 at 1700 LT","Aweil, Northern Bahr el Ghazal (شمال بحر الغزال)",Fokker 50,0,27.3998369,8.7670867
+"Nov 11, 2012 at 1727 LT","São Paulo, São Paulo",Cessna 525 CJ3,0,-46.6333094,-23.5505199
+"Nov 10, 2012 at 1920 LT","United States of America, USA",Cessna 421C Golden Eagle III,2,-95.712891,37.09024
+"Nov 9, 2012 at 1545 LT","Mende, Lozère",Casa C-295M,6,3.501873,44.517611
+"Nov 6, 2012 at 1900 LT","Curitiba, Paraná",Piper PA-31 Cheyenne,4,-49.2653819,-25.4244287
+"Nov 6, 2012 at 0745 LT","Wichita, Kansas",Cessna 208B Grand Caravan,1,-97.330053,37.6871761
+"Oct 30, 2012 at 1500 LT","Butembo, Nord-Kivu",Let 410UVP,0,29.3018011,0.114047
+"Dec 20, 2010 at 1700 LT","Wynella Station, Queensland",Fletcher FU-24,1,NA,NA
+"Oct 25, 2012 at 1930 LT","Yola, Adamawa",Cessna 208 Caravan,0,12.4953899,9.2034963
+"Oct 22, 2012 at 1830 LT","Sturtevant, Wisconsin",Beechcraft King Air 90,0,-87.8945229,42.6980749
+"Oct 19, 2012 at 1800 LT","Shindand, Herat",Antonov AN-12,0,62.3565156,33.2666932
+"Oct 15, 2012 at 1557 LT","Skwentna, Alaska",Grumman C-1A Trader,1,-151.1683574,61.923613
+"Oct 14, 2012 at 0400 LT","Antalya, Mediterranean Region (Akdeniz Bölgesi)",Boeing 737-800,0,30.7133233,36.8968908
+"Oct 13, 2012 at 1954 LT","Campinas-Viracopos, São Paulo",McDonnell Douglas MD-11,0,-47.1375685,-23.008205
+"Jul 18, 2017 at 1239 LT","Wamena, Special Region of Papua",Boeing 737-300,0,NA,NA
+"Oct 8, 2012 at 1215 LT","Calabogie, Ontario",Socata TBM-850,1,-76.721166,45.299295
+"Oct 7, 2012 at 1610 LT","Saint John's, Antigua",Britten-Norman Islander,3,-61.846772,17.1274104
+"Oct 7, 2012 at 1200 LT","Khartoum, Khartoum (الخرطوم)",Antonov AN-12,15,32.5598994,15.5006544
+"Jun 3, 2017 at 1030 LT","Garbaharey, Geedo (جوبا الوسطى‎)",Fokker F27 Friendship,0,NA,NA
+"Oct 1, 2012 at 1421 LT","Australia, Australia",De Havilland DH.84 Dragon,6,133.775136,-25.274398
+"Sep 30, 2012 at 0658 LT","Innsbruck, Tyrol",Cessna 414 Chancellor,6,11.4041024,47.2692124
+"Sep 28, 2012 at 0618 LT","Kathmandu, Bagmati",Dornier DO228,19,85.3239605,27.7172453
+"Sep 27, 2012 at 1545 LT","Constanza, La Vega",Piper PA-31-350 Navajo Chieftain,2,-70.7376623,18.9114821
+"Sep 22, 2012 at 1129 LT","New Delhi, National Capital Territory of Delhi",Raytheon 390 Premier I,0,77.2090212,28.6139391
+"Sep 18, 2012 at 1003 LT","Macon, Georgia",Beechcraft Beechjet 400,0,-83.6324022,32.8406946
+"Sep 15, 2012 at 1340 LT","Rønne (Bornholm Island), Hovedstaden",Learjet 24,0,14.708329,55.101017
+"Sep 12, 2012 at 1220 LT","Palana, Kamchatka Krai",PZL-Mielec AN-28,10,159.9541642,59.0842105
+"Sep 7, 2012 at 2000 LT","Lohegaon, Maharashtra",Beechcraft King Air 90,0,73.91882,18.5911292
+"Sep 7, 2012 at 1300 LT","Rome, Lazio",Cessna 402,2,12.4963655,41.9027835
+"Sep 5, 2012 at 0949 LT","Fort Worth, Texas",Cessna 421B Golden Eagle II,0,-97.3307658,32.7554883
+"Aug 31, 2012 at 1510 LT","Lahore, Punjab (پنجاب)",ATR42-500,0,74.3571581,31.5546061
+"Aug 30, 2012 at 0915 LT","Hualien, Hualien County (花蓮縣)",Britten-Norman Islander,3,121.6111949,23.9910732
+"Aug 25, 2012 at 0800 LT","Kenai, Alaska",De Havilland DHC-2 Beaver,0,-151.2583333,60.5544444
+"Aug 24, 2012 at 1800 LT","Montbéliard, Doubs",Pilatus PC-12,4,6.798466,47.510356
+"Aug 24, 2012 at 0830 LT","Samarinda, East Kalimantan",Piper PA-31-350 Navajo Chieftain,4,117.1436154,-0.4948232
+"Aug 22, 2012 at 1535 LT","Annino AFB, Leningrad oblast",Cessna 421 Golden Eagle,2,30.0557416,59.764589
+"Apr 1, 2017 at 1030 LT","Yei, Central Equatoria (الاستوائية الوسطى)",Let 410UVP,0,NA,NA
+"Aug 19, 2012 at 0800 LT","Talodi, South Kordofan (جنوب كردفان)",Antonov AN-26,32,30.3839017,10.6377926
+"Aug 18, 2012 at 1855 LT","Granville, Manche",Pilatus PC-6 Turbo Porter,0,-1.597302,48.837579
+"Aug 11, 2012 at 1124 LT","Taylorville, Illinois",Beechcraft G18,1,-89.294533,39.548935
+"Aug 6, 2012 at 1540 LT","Altenrhein, Saint Gallen",Embraer EMB-505 Phenom 300,0,9.5662899,47.4672487
+"Aug 2, 2012 at 0617 LT","Santiago de Compostela, Galicia",Cessna 500 Citation,2,-8.5448445,42.8782132
+"Jul 28, 2012 at 0745 LT","Juiz de Fora, Minas Gerais",Beechcraft Super King Air 200,8,-43.3433999,-21.7624237
+"Jul 24, 2012 at 1610 LT","Jacarepaguá, Rio de Janeiro",Piper PA-31-350 Navajo Chieftain,0,-43.3907025,-22.9681736
+"Sep 13, 2016","Wamena, Special Region of Papua",Boeing 737-300,0,NA,NA
+"Jul 19, 2012","Padali, Khabarovsk Krai",PZL-Mielec AN-2,0,136.641944,50.215833
+"Jul 17, 2012 at 0100 LT","Saint George, Utah",Canadair RegionalJet CRJ-200,1,-113.5684164,37.0965278
+"Jul 13, 2012 at 1518 LT","Le Castellet, Var",Gulfstream GIV,3,5.776755,43.203551
+"Jul 12, 2012 at 1730 LT","Angra dos Reis, Rio de Janeiro",Embraer EMB-121 Xingu,3,-44.3157913,-23.0058039
+"Jul 12, 2012 at 0745 LT","Nouakchott, Nouakchott City District",Harbin Yunsunji Y-12,7,-15.9582372,18.0735299
+"Jul 7, 2012 at 0404 LT","Karnack, Texas",Beechcraft King Air 90,1,-94.1707038,32.668078
+"Jul 6, 2012 at 1540 LT","Espinosa, Minas Gerais",Embraer EMB-820 Navajo,1,-42.8168003,-14.9256971
+"Jun 17, 2016 at 1330 LT","Goodnews Bay, Alaska",Cessna 207 Skywagon,0,NA,NA
+"Jul 3, 2012 at 1200 LT","Honduras, Honduras",Piper PA-31 Cheyenne,1,-86.241905,15.199999
+"Jul 1, 2012 at 1830 LT","South Dakota, South Dakota",Lockheed C-130 Hercules,4,-99.9018131,43.9695148
+"Jul 1, 2012 at 1045 LT","Bollullos de la Mitación-La Juliana, Andalusia",Technoavia SM-92 Turbo Finist,0,-6.169176,37.314636
+"Jun 30, 2012 at 1620 LT","Dalton, Georgia",Piper PA-31-350 Navajo Chieftain,1,-84.9702228,34.7698021
+"Jun 27, 2012 at 0029 LT","Tver, Tver oblast",Ilyushin II-76,0,35.9175965,56.8587214
+"Jun 23, 2012 at 1130 LT","Bucharest, București",Cessna 207 Skywagon,0,26.1025384,44.4267674
+"Jun 23, 2012 at 1100 LT","Melgar, Tolima",Cessna 208B Grand Caravan,4,-74.643383,4.203572
+"Jun 22, 2012 at 1001 LT","Morgantown, West Virginia",Beechcraft King Air 90,1,-79.9558968,39.629526
+"Jun 21, 2012 at 1450 LT","Jakarta, City District of Jakarta",Fokker F27 Friendship,11,106.845599,-6.2087634
+"Jun 20, 2012 at 1200 LT","Pweto, Katanga",Grumman G-159 Gulfstream GI,0,28.9033674,-8.4697816
+"Jun 18, 2012 at 1006 LT","Atlanta, Georgia",Beechcraft Beechjet 400,0,-84.3879824,33.7489954
+"Jun 16, 2012 at 0823 LT","Jersey, Channel Islands",ATR42-300,0,-2.13125,49.214439
+"Jun 12, 2012 at 1343 LT","Sandy Lake, Ontario",Avro 748,0,-93.3294051,53.0634269
+"Jun 11, 2012 at 2211 LT","Serov, Sverdlovsk oblast",PZL-Mielec AN-2,13,60.6177432,59.6104645
+"Jun 10, 2012 at 1040 LT","Borodyanka, Kiev oblast",Let 410UVP,5,29.9146299,50.6445031
+"Jun 7, 2012 at 1235 LT","Lake Wales, Florida",Pilatus PC-12,6,-81.5859099,27.9014133
+"Jun 7, 2012 at 1224 LT","Aspen, Colorado",Learjet 60,0,-106.8175387,39.1910983
+"Jun 6, 2012 at 1955 LT","Montevideo, Montevideo City District",Swearingen SA227AC Metro III,2,-56.1645314,-34.9011127
+"Jun 3, 2012 at 1545 LT","Lagos, Lagos",McDonnell Douglas MD-83,163,3.3792057,6.5243793
+"Jun 3, 2012 at 1347 LT","Utah, Utah",Lockheed P-2 Neptune,2,-111.0937311,39.3209801
+"Jun 2, 2012 at 1910 LT","Accra, Greater Accra",Boeing 727-200,12,-0.1869644,5.6037168
+"Jun 1, 2012 at 1235 LT","Pontianak, West Kalimantan",Boeing 737-400,0,109.3425039,-0.0263303
+"May 25, 2012 at 1710 LT","Lézignan-Corbières, Aude",Cessna 208B Grand Caravan,0,2.7577759,43.200503
+"May 25, 2012 at 1408 LT","Cochrane, Ontario",De Havilland DHC-2 Beaver,2,-81.0299298,49.0650259
+"May 23, 2012 at 1150 LT","Čáslav, Central Bohemian Region (Stredočesky kraj)",Antonov AN-30,0,15.3907936,49.9108953
+"May 18, 2012 at 0150 LT","Iquique, Región de Tarapacá",Rockwell Shrike Commander 500S,2,-70.1356692,-20.2307033
+"May 14, 2012 at 0945 LT","Jomsom, Dhawalagiri",Dornier DO228,15,83.7730237,28.7746477
+"May 13, 2012 at 1845 LT","Kelowna, British Columbia",De Havilland DHC-2 Beaver,3,-119.4960106,49.8879519
+"May 11, 2012 at 1811 LT","Guatemala City, Guatemala",Convair CV-580,0,-90.5068824,14.6349149
+"May 11, 2012 at 1630 LT","Chanute, Kansas",Cessna 401,4,-95.4572034,37.6792135
+"May 9, 2012 at 1431 LT","Jakarta, City District of Jakarta",Sukhoi Superjet 100-95,45,106.845599,-6.2087634
+"May 5, 2012 at 0240 LT","Grand Case, Saint-Martin",Piper PA-42 Cheyenne,4,-63.0544967,18.1000606
+"May 2, 2012 at 1055 LT","Yambio, Western Equatoria (غرب الاستوائية)",Cessna 208B Grand Caravan,0,28.3987842,4.5775693
+"May 1, 2012 at 1255 LT","Jeddah, Makkah l-Mukarramah (مكة المكرمة)",Airbus A300-600,0,39.2005067,21.4864675
+"Apr 30, 2012 at 0851 LT","Dhaka, Dhaka",ATR72-500,0,90.4125181,23.810332
+"Apr 28, 2012 at 1433 LT","Galkayo, Mudug (مدق‎)",Antonov AN-24,0,47.4392352,6.7872726
+"Apr 27, 2012 at 1000 LT","Mexicali, Baja California",Boeing 727-200,0,-115.4522623,32.6245389
+"Jun 14, 2016 at 0758 LT","Lolat, Special Region of Papua",Cessna 208B Grand Caravan,0,NA,NA
+"Apr 21, 2012 at 0813 LT","Santa Cruz, Santa Cruz",Curtiss C-46,3,-122.0307963,36.9741171
+"May 18, 2016 at 0830 LT","Andersen AFB, Guam Island",Boeing B-52 Stratofortress,0,NA,NA
+"Apr 20, 2012 at 1430 LT","Jundiaí, São Paulo",Beechcraft King Air 90,1,-46.8978057,-23.1857076
+"Apr 20, 2012 at 1247 LT","Guadalupe y Calvo, Chihuahua",IAI Arava 201,0,-106.9651726,26.0902174
+"Apr 19, 2012 at 1208 LT","Gulf of Mexico, World",Cessna 421C Golden Eagle III,1,-90.065918,25.304304
+"Apr 15, 2012","Yida, Unity (الوحدة)",Fokker F27 Friendship,0,30.0829075,10.1055751
+"Apr 9, 2012 at 1014 LT","Kigoma, Kigoma Region",De Havilland Dash-8-300,0,29.6615055,-4.8824092
+"Apr 6, 2012 at 1645 LT","Everglades City, Florida",Comp Air CA-8,1,-81.3850695,25.8582443
+"Apr 3, 2012 at 0920 LT","Oranjestad, Dutch Antilles",Beechcraft King Air 90,0,-62.9764978,17.4867485
+"Apr 2, 2012 at 0735 LT","Tyumen, Tyumen oblast",ATR72-200,33,65.5250172,57.1612975
+"Apr 2, 2012","Doro, Upper Nile (أعالي النيل)",Avro 748,0,31.6599369,9.5508577
+"Mar 29, 2012 at 0945 LT","Wau, Western Bahr el Ghazal (غرب بحر الغزال)",Fokker 50,0,27.9834738,7.7091884
+"Mar 27, 2012 at 0730 LT","Battle Creek, Michigan",Cessna 441 Conquest,0,-85.1797142,42.3211522
+"Mar 23, 2012 at 1500 LT","Phanom Thuan, Kanchanaburi (กาญจนบุรี)",Pilatus PC-6 Turbo Porter,0,99.6786894,14.136869
+"Mar 22, 2012 at 0058 LT","Puerto Aguirre, Región Aysén del General Carlos Ibáñez del Campo",Beechcraft Super King Air 350,8,-73.5225084,-45.1566291
+"Mar 22, 2012","Byelaya Kalitva, Rostov oblast",Antonov AN-2,0,40.7854444,48.1817768
+"Mar 15, 2012 at 1457 LT","Kiruna, Norrbotten",Lockheed C-130 Hercules,5,20.225282,67.8557995
+"Mar 15, 2012 at 1400 LT","Franklin, North Carolina",Cessna 501 Citation I,5,-83.3815429,35.1823171
+"Mar 15, 2012 at 0738 LT","San Juan, Puerto Rico",Convair CV-340,2,-66.1057355,18.4655394
+"Mar 13, 2012 at 1040 LT","Port Johnson, Alaska",De Havilland DHC-2 Beaver,0,-82.7103465,28.2434767
+"Mar 9, 2012 at 1410 LT","Deadmans Cay, Long Island",Beechcraft King Air 100,0,-75.093932,23.1789029
+"Mar 9, 2012 at 1130 LT","Caballococha, Loreto",De Havilland DHC-6 Twin Otter,0,-70.5160813,-3.9107889
+"Mar 8, 2012 at 1125 LT","Comayagua, Comayagua",Rockwell Shrike Commander 500S,2,-87.6482474,14.4490149
+"Mar 1, 2012 at 1900 LT","Egelsbach, Hesse",Cessna 750 Citation X,5,8.6633158,49.9663895
+"Mar 1, 2012 at 1200 LT","Quellón, Región de Los Lagos",Piper PA-31-350 Navajo Chieftain,8,-73.6138821,-43.1169327
+"Feb 28, 2012 at 0716 LT","Manaus, Amazonas",Cessna 208 Caravan,1,-60.0217314,-3.1190275
+"Feb 21, 2012 at 2100 LT","Guadalajara, Jalisco",Rockwell Gulfstream Commander 980,3,-103.3496092,20.6596988
+"Feb 19, 2012 at 1525 LT","Hayden, Colorado",Cessna 414 Chancellor,2,-107.2636842,40.4894302
+"Feb 18, 2012","Djibouti City, Djibouti",Pilatus PC-12,4,43.1456475,11.5720765
+"Feb 17, 2012 at 1030 LT","Sandoway, Rakhine State",ATR72-500,0,94.3411001,18.4671203
+"Feb 12, 2012 at 1300 LT","Bukavu, Sud-Kivu",Gulfstream GIV,6,28.8480284,-2.5123017
+"Feb 9, 2012 at 1200 LT","Punto Fijo, Falcón",Cessna 402,0,-70.1813018,11.711511
+"Jan 30, 2012 at 0845 LT","Namoya, Sud-Kivu",PZL-Mielec AN-28,3,27.5578,-4.019944
+"Jan 24, 2012 at 0828 LT","Kandahar, Kandahar",McDonnell Douglas MD-83,0,65.7371749,31.628871
+"Jan 18, 2012 at 1117 LT","Welshpool, Powys",Piper PA-31-350 Navajo Chieftain,2,-3.146407,52.660348
+"Jan 13, 2012 at 1930 LT","Bartlesville, Oklahoma",Rockwell Aero Commander 500,0,-95.9808179,36.7473114
+"Jan 10, 2012 at 0957 LT","North Spirit Lake, Ontario",Piper PA-31-350 Navajo Chieftain,4,-93.023709,52.506859
+"Dec 28, 2011 at 1246 LT","Osh, Osh City",Tupolev TU-134,0,72.8160976,40.5139985
+"Dec 26, 2011 at 1406 LT","Venice, Florida",Rockwell Aero Commander 560,1,-82.4542632,27.0997775
+"Dec 22, 2011 at 1725 LT","York, Pennsylvania",Cessna 441 Conquest,1,-76.727745,39.9625984
+"Dec 20, 2011 at 1713 LT","Yogyakarta, Special Region of Yogyakarta",Boeing 737-300,0,110.3694896,-7.7955798
+"Dec 20, 2011 at 1005 LT","Morristown, New Jersey",Socata TBM-700,5,-74.4815438,40.7967667
+"Apr 4, 2016 at 1957 LT","Jakarta-Perdanakusuma, City District of Jakarta",ATR42-600,0,NA,NA
+"Jul 2, 2015 at 1709 LT","Kuredu Island, North Central Province",De Havilland DHC-6 Twin Otter,0,NA,NA
+"Dec 12, 2011 at 1400 LT","Arua, Northern",Antonov AN-2,0,30.907304,3.0303299
+"Dec 10, 2011 at 1415 LT","Manila, Metro Manila",Beechcraft Queen Air 80,14,120.9842195,14.5995124
+"Dec 9, 2011 at 1424 LT","Sioux Falls, South Dakota",Cessna 421 Golden Eagle,4,-96.7311034,43.5445959
+"Dec 4, 2011 at 1422 LT","Pointe-Noire, Pointe-Noire City District",Beechcraft King Air 100,0,11.866362,-4.7691623
+"Dec 3, 2011 at 1308 LT","Larat, Maluku",Casa 212 Aviocar,0,132.9197977,-5.7997841
+"Dec 2, 2011 at 0810 LT","Midland, Texas",Beechcraft King Air 90,0,-102.0779146,31.9973456
+"Nov 29, 2011 at 1925 LT","Chuathbaluk, Alaska",Cessna 207 Skywagon,1,-159.245,61.5719444
+"Nov 28, 2011 at 2250 LT","Chicago-Palwaukee, Illinois",Piper PA-31-350 Navajo Chieftain,3,-87.9011312,42.1170686
+"Nov 23, 2011 at 1831 LT","Mesa, Arizona",Rockwell Grand Commander 690,6,-111.8314724,33.4151843
+"Mar 4, 2015 at 1515 LT","Wamena, Special Region of Papua",BAe ATP,0,NA,NA
+"Nov 16, 2011 at 0940 LT","Flint, Michigan",Piaggio P.180 Avanti,0,-83.6874562,43.0125274
+"Nov 12, 2011 at 1635 LT","Gladewater, Texas",Cessna 401,0,-94.9427168,32.5365333
+"Nov 10, 2011 at 1414 LT","Ecuvillens, Fribourg",Piper PA-31-350 Navajo Chieftain,1,7.083334,46.750004
+"Nov 9, 2011 at 0915 LT","Lyon, Rhône",Socata TBM-700,1,4.835659,45.764043
+"Nov 7, 2011 at 1830 LT","Kwigillingok, Alaska",Cessna 207 Skywagon,0,-163.1658296,59.8723383
+"Nov 1, 2011 at 1439 LT","Warsaw, Masovian Voivodeship (Mazowieckie)",Boeing 767-300,0,21.0122287,52.2296756
+"Oct 31, 2011 at 1942 LT","Key West, Florida",Gulfstream G150,0,-81.7799871,24.5550593
+"Oct 28, 2011 at 2137 LT","Toulouse, Haute-Garonne",Piper PA-31 Cheyenne,4,1.444209,43.604652
+"Oct 27, 2011 at 1612 LT","Vancouver, British Columbia",Beechcraft King Air 100,2,-123.1207375,49.2827291
+"Nov 30, 2013","Omega AFB, Kavango Region",Antonov AN-26,0,NA,NA
+"Oct 21, 2011 at 1523 LT","Nairobi, Nairobi City District",Cessna 401,2,36.8219462,-1.2920659
+"Oct 18, 2011 at 1906 LT","Nepal, Nepal",Britten-Norman Islander,6,84.124008,28.394857
+"Oct 15, 2011 at 0000 LT","Shabunda, Sud-Kivu",PZL-Mielec AN-28,0,27.3440192,-2.694269
+"Oct 14, 2011 at 1355 LT","Xakanaka, North-West District",Cessna 208B Grand Caravan,8,23.4113791,-19.1827346
+"Oct 13, 2011 at 1717 LT","Madang, Madang",De Havilland Dash-8-100,28,145.7856324,-5.2218841
+"Oct 12, 2011 at 1334 LT","North Perry, Florida",Socata TBM-700,0,-80.2399883,26.0021615
+"Oct 12, 2011 at 0800 LT","Port Gentil, Ogooué-Maritime (Port-Gentil)",Embraer EMB-120 Brasília,0,8.7591311,-0.7351026
+"Oct 10, 2011 at 1315 LT","Antalya, Mediterranean Region (Akdeniz Bölgesi)",Boeing 737-400,0,30.7133233,36.8968908
+"Oct 9, 2011 at 1128 LT","Zasovskaya, Krasnodar Krai",PZL-Mielec AN-2,0,40.8154069,44.4368075
+"Oct 7, 2011 at 1730 LT","Manhuaçu, Minas Gerais",Cessna 550 Citation II,0,-42.030947,-20.2555875
+"Oct 5, 2011 at 1730 LT","Matinicus Island, Maine",Cessna 207 Skywagon,1,-68.840496,43.9237413
+"Oct 4, 2011 at 1140 LT","Lutsel K'e, Northwest Territories",Cessna 208B Grand Caravan,2,-110.736935,62.405494
+"Oct 3, 2011","Newnan, Georgia",Dassault Falcon 20,0,-84.7996573,33.3806716
+"Sep 29, 2011 at 0735 LT","Bohorok, North Sumatra",Casa 212 Aviocar,18,98.0465185,3.465968
+"Sep 28, 2011 at 1715 LT","Cobb County-McCollum, Georgia",Mitsubishi MU-2 Marquise,0,-84.6012001,34.015475
+"Sep 26, 2011 at 0855 LT","Puerto Ordaz, Bolívar",Douglas DC-9,0,-62.7676633,8.2750921
+"Sep 25, 2011 at 0731 LT","Kathmandu, Bagmati",Beechcraft 1900D,19,85.3239605,27.7172453
+"Sep 23, 2011 at 1930 LT","Kodiak, Alaska",De Havilland DHC-3 Otter,1,-152.4072221,57.79
+"Sep 22, 2011 at 1318 LT","Yellowknife, Northwest Territories",De Havilland DHC-6 Twin Otter,2,-114.3717887,62.4539717
+"Jul 21, 2013 at 0635 LT","Pyatikhatki, Autonomous Republic of Crimea",PZL-Mielec AN-2,0,NA,NA
+"Sep 20, 2011 at 1630 LT","Cap Haïtien, North",Beechcraft 99,3,-72.2067681,19.7370362
+"Sep 16, 2011 at 1911 LT","Quito, Pichincha",Embraer ERJ-190,0,-78.4678382,-0.1806532
+"Sep 14, 2011 at 1130 LT","Huambo, Huambo",Embraer EMB-120 Brasília,17,15.7468535,-12.7739761
+"Sep 12, 2011 at 1345 LT","Del Norte, Nuevo León",Piper PA-31-350 Navajo Chieftain,2,-100.303487,25.7123781
+"Sep 9, 2011 at 1230 LT","Indonesia, Indonesia",Cessna 208 Caravan,2,113.921327,-0.789275
+"Sep 7, 2011 at 1605 LT","Yaroslavl, Yaroslavl oblast",Yakovlev Yak-42,44,39.8844709,57.6260744
+"Sep 6, 2011 at 1855 LT","Trinidad, Beni",Swearingen SA227AC Metro III,8,-64.9000247,-14.8258317
+"Sep 5, 2011 at 1830 LT","Racine, Wisconsin",Socata TBM-850,1,-87.7828523,42.7261309
+"Sep 4, 2011 at 1535 LT","Ottawa, Ontario",Embraer ERJ-145,0,-75.6971931,45.4215296
+"Sep 3, 2011 at 1200 LT","Vinnitsa, Vinnytsia Oblast",PZL-Mielec AN-2,1,28.4682169,49.233083
+"Sep 2, 2011 at 1748 LT","Robinson Crusoe Island, Chile",Casa 212 Aviocar,21,-78.8460993,-33.6414001
+"Sep 2, 2011 at 1335 LT","Nightmute, Alaska",Cessna 207 Skywagon,0,-164.7238888,60.4794444
+"Sep 2, 2011 at 1335 LT","Nightmute, Alaska",Cessna 208 Caravan,1,-164.7238888,60.4794444
+"Aug 28, 2011 at 0912 LT","Krasnodar, Krasnodar Krai",PZL-Mielec AN-2,1,38.9872209,45.0392674
+"May 31, 2013 at 0709 LT","Wamena, Special Region of Papua",BAe ATP,0,NA,NA
+"Aug 20, 2011 at 1200 LT","Port Kaituma, Guyana",Britten-Norman Islander,0,-59.884041,7.726076
+"Aug 20, 2011 at 1142 LT","Resolute Bay, Nunavut",Boeing 737-200,12,-94.8297289,74.697299
+"Aug 14, 2011 at 1030 LT","Tzaneen, Limpopo",Piaggio P.166,7,30.1358346,-23.8319853
+"Aug 14, 2011 at 1030 LT","Tzaneen, Limpopo",Piaggio P.166,6,30.1358346,-23.8319853
+"Aug 13, 2011 at 1940 LT","McGrath, Alaska",Cessna 207 Skywagon,2,-155.5959922,62.9532043
+"Aug 9, 2011 at 1434 LT","Omsukchan, Magadan oblast",Antonov AN-12,11,155.8,62.533333
+"Aug 8, 2011 at 1420 LT","Blagoveshchensk, Amur oblast",Antonov AN-24,0,127.5404017,50.2727763
+"Aug 2, 2011 at 1327 LT","Brazil, Brazil",Cessna 208 Caravan,8,-73.9892498,40.7601055
+"Aug 1, 2011 at 1700 LT","Port Vila, Vanuatu",Cessna 207 Skywagon,0,168.3273245,-17.7332512
+"Jul 30, 2011 at 0132 LT","Georgetown, Guyana",Boeing 737-800,0,-58.1551255,6.8012793
+"Jul 29, 2011 at 0911 LT","Cairo, Cairo",Boeing 777-200,0,31.2357116,30.0444196
+"Jul 28, 2011 at 0412 LT","Jeju, Jeju (제주도)",Boeing 747-400,2,126.5311884,33.4996213
+"Jul 26, 2011 at 0900 LT","Guelmim, Guelmim-Es Semara",Lockheed C-130 Hercules,80,-10.0527498,28.9883659
+"Jul 23, 2011","Kei Mouth, Eastern Cape",Cessna 208 Caravan,0,28.3666482,-32.6787817
+"Jul 17, 2011 at 1021 LT","Shannon, Munster",ATR72-200,0,-87.5042313,41.5198525
+"Jul 14, 2011 at 2230 LT","Warsaw, Masovian Voivodeship (Mazowieckie)",ATR72-200,0,21.0122287,52.2296756
+"Jul 14, 2011","Port Harcourt, Rivers",Cessna 560XLS Citation Excel,0,7.0498442,4.815554
+"Jul 13, 2011 at 0654 LT","Recife, Pernambuco",Let 410UVP,16,-34.8769643,-8.0475622
+"Jul 11, 2011 at 1155 LT","Strezhevoy, Tomsk oblast",Antonov AN-24,7,77.5813751,60.724111
+"Jul 11, 2011 at 0910 LT","Maldivian Islands, Maldivian Islands",De Havilland DHC-6 Twin Otter,0,73.22068,3.202778
+"Jul 9, 2011 at 1740 LT","Demopolis, Alabama",Cessna 421 Golden Eagle,7,-87.836402,32.5176361
+"Jul 8, 2011 at 1511 LT","Kisangani, Orientale",Boeing 727-100,77,25.2007728,0.5185303
+"Jul 6, 2011 at 0010 LT","Bagram AFB, Parwan",Ilyushin II-76,9,69.273567,34.9444758
+"Jul 4, 2011 at 1610 LT","Pukatawagan, Manitoba",Cessna 208B Grand Caravan,1,-101.3168759,55.74204
+"Jun 30, 2011 at 1111 LT","Buss Lakes, Saskatchewan",De Havilland DHC-2 Beaver,5,-103.9038032,56.6985062
+"Jun 20, 2011 at 2340 LT","Petrozavodsk, Republic of Karelia",Tupolev TU-134,47,34.3640395,61.7781617
+"Jun 17, 2011 at 1506 LT","Toronto-Buttonville, Ontario",Dassault Falcon 10,0,-79.3695644,43.8618446
+"Jun 16, 2011 at 0950 LT","Zaraza, Guárico",Piper PA-31-350 Navajo Chieftain,0,-65.3261218,9.3507596
+"Jun 15, 2011 at 1405 LT","Blountville, Tennessee",Beechcraft King Air 100,0,-82.326806,36.5331586
+"Jun 13, 2011 at 0930 LT","Aurora, Illinois",Boeing B-17 Flying Fortress,0,-88.3200715,41.7605849
+"Jun 12, 2011 at 1455 LT","Cold Bay, Alaska",Douglas DC-6,0,-162.7183867,55.204498
+"Jun 6, 2011 at 1025 LT","Libreville, Gabon",Antonov AN-26,0,9.4672676,0.4161976
+"May 31, 2011 at 1730 LT","Melun-Villaroche, Seine-et-Marne",North American B-25 Mitchell,0,2.6712227,48.605409
+"May 25, 2011 at 2250 LT","New Delhi, National Capital Territory of Delhi",Pilatus PC-12,10,77.2090212,28.6139391
+"May 25, 2011 at 1550 LT","Sedona, Arizona",Embraer EMB-500 Phenom 100,0,-111.7609896,34.8697395
+"May 24, 2011 at 1200 LT","Kaduna, Kaduna",Beechcraft King Air 90,2,7.4165053,10.5104642
+"May 23, 2011 at 1520 LT","Monument Valley, Utah",Cessna 207 Skywagon,0,-110.1734785,37.0042454
+"May 19, 2011 at 0843 LT","Salem, Ohio",Socata TBM-850,0,-80.8567501,40.9008923
+"May 18, 2011 at 2050 LT","Prahuaniyeu, Río Negro",Saab 340,22,-67.9423981,-41.2785416
+"May 18, 2011 at 1727 LT","Point Mugu NAS, California",Boeing 707,0,-119.0948009,34.1284317
+"May 17, 2011 at 1915 LT","Stavropol, Stavropol Krai",PZL-Mielec AN-2,0,41.9683431,45.0454764
+"May 16, 2011 at 0218 LT","Atqasuk, Alaska",Beechcraft Super King Air 200,0,-157.4206948,70.4821714
+"Nov 21, 2012 at 1331 LT","Deputatsky, Republic of Yakutia (Sakha)",Antonov AN-26,0,NA,NA
+"May 5, 2011","Loreto, Baja California Sur",BAe 125,0,-111.3477531,26.0117564
+"May 4, 2011 at 1045 LT","Lengpui, Mizoram",Cessna 208B Grand Caravan,0,92.6241705,23.8388475
+"May 2, 2011 at 0809 LT","Miami-Opa Locka, Florida",Beechcraft E18,1,-80.2503271,25.9023168
+"Apr 20, 2011","Bahía Blanca, Buenos Aires province",Grumman S-2 Tracker,0,-62.2663478,-38.7183177
+"Apr 16, 2011 at 1600 LT","Ust-Kamchatsk, Kamchatka Krai",Yakovlev Yak-40,0,162.469299,56.22747
+"Apr 15, 2011 at 1200 LT","Valparaíso, Región de Valparaíso",Piper PA-31-350 Navajo Chieftain,0,-71.6126885,-33.047238
+"Apr 11, 2011 at 2127 LT","Richmond, Virginia",Piper PA-31-350 Navajo Chieftain,0,-77.4360481,37.5407246
+"Apr 11, 2011 at 1216 LT","Loxley, Alabama",PZL-Mielec AN-2,0,-87.7530454,30.6182476
+"Apr 10, 2011 at 1805 LT","Biddeford, Maine",Cessna 402,1,-70.4533844,43.4925843
+"Apr 4, 2011 at 1400 LT","Kinshasa-N'Djili, Kinshasa City Province",Canadair RegionalJet CRJ-100,32,15.3775245,-4.4047339
+"Apr 2, 2011 at 1530 LT","Ravenna, Emilia-Romagna",Pilatus PC-6 Turbo Porter,0,12.2035294,44.4183598
+"Apr 2, 2011 at 0934 LT","Roswell, New Mexico",Gulfstream G650,4,-104.5230242,33.3942655
+"Apr 1, 2011 at 1830 LT","Saskatoon, Saskatchewan",Casa 212 Aviocar,1,-106.6700458,52.1332144
+"Mar 31, 2011 at 1507 LT","Mayo, Yukon",De Havilland DHC-3 Otter,1,-135.8964919,63.594262
+"Mar 30, 2011 at 1200 LT","Zhytomyr, Ukraine",PZL-Mielec AN-2,0,28.6586669,50.25465
+"Mar 28, 2011 at 1945 LT","China, China",Cessna 550 Citation II,3,104.195397,35.86166
+"Mar 28, 2011 at 0825 LT","Canadian, Texas",Cessna 425 Conquest,0,-100.3820772,35.91282
+"Mar 21, 2011 at 1530 LT","Pointe-Noire, Pointe-Noire City District",Antonov AN-12,23,11.866362,-4.7691623
+"Mar 20, 2011 at 0900 LT","Seattle, Washington",Convair CV-580,0,-122.3320708,47.6062095
+"Mar 16, 2011 at 1029 LT","Long Beach, California",Beechcraft Super King Air 200,5,-118.1937395,33.7700504
+"Mar 8, 2011 at 1140 LT","Clayton, Georgia",De Havilland DHC-6 Twin Otter,2,-83.4009933,34.8781479
+"Mar 5, 2011 at 1040 LT","Belgorod, Belgorod oblast",Antonov AN-148,6,36.5982621,50.5997134
+"Mar 4, 2011 at 1609 LT","Nuuk (Godthåb), Kommuneqarfik Sermersooq",De Havilland Dash-8-100,0,-51.6941381,64.1814099
+"Mar 4, 2011","Mexico, Mexico",Cessna 411,3,-102.552784,23.634501
+"Mar 2, 2011 at 0905 LT","Oslo, Oslo City",Swearingen SA227AC Metro III,0,10.752917,59.9126918
+"Feb 27, 2011 at 2007 LT","Al Ain, Abu Dhabi (إمارة أبو ظبي‎)",Grumman G-21A Goose,4,55.8023118,24.1301619
+"Feb 27, 2011 at 1510 LT","La Paz, La Paz",Swearingen SA227AC Metro III,0,-68.1192936,-16.489689
+"Feb 25, 2011 at 1700 LT","Arapongas, Paraná",Embraer EMB-820 Navajo,0,-51.4264048,-23.4157731
+"Feb 24, 2011 at 0800 LT","Horn Island, Queensland",Rockwell Aero Commander 500,1,142.2868647,-10.611642
+"Feb 23, 2011 at 2002 LT","Connersville, Indiana",Cessna 421 Golden Eagle,1,-85.1410748,39.6411589
+"Feb 21, 2011 at 1930 LT","Altamira, Pará",ATR72-200,0,-52.2104006,-3.1986664
+"Feb 18, 2011 at 1104 LT","Pachuca de Soto, Hidalgo",Learjet 24,2,-98.7591311,20.1010608
+"Feb 14, 2011","Bukavu, Sud-Kivu",Let 410UVP,2,28.8480284,-2.5123017
+"Feb 14, 2011 at 0802 LT","Tegucigalpa, Francisco Morazán",Let 410UVP,14,-87.192136,14.0722751
+"Feb 12, 2011 at 1342 LT","Indonesia, Indonesia",Casa 212 Aviocar,5,113.921327,-0.789275
+"Feb 10, 2011 at 0950 LT","Cork, Munster",Swearingen SA227AC Metro III,6,-8.7285446,51.994206
+"Feb 8, 2011 at 1640 LT","Plettenberg Bay, Western Cape",Pilatus PC-12,9,23.3644925,-34.0574892
+"Feb 4, 2011 at 1749 LT","Sulaymaniyah, As-Sulaymāniyyah (السليمانية)",Hawker 850XP,7,45.4359425,35.5570454
+"Jan 27, 2011","Nairobi, Nairobi City District",Fokker F27 Friendship,0,36.8219462,-1.2920659
+"Jan 20, 2011 at 1545 LT","Ecuador, Ecuador",De Havilland DHC-6 Twin Otter,6,-78.183406,-1.831239
+"Jan 19, 2011","Tharjath, Unity (الوحدة)",Cessna 208B Grand Caravan,0,30.316667,8.466667
+"Jan 14, 2011 at 1750 LT","Goiânia, Goiás",Beechcraft Super King Air 200,6,-49.2647885,-16.6868824
+"Jan 10, 2011 at 2050 LT","Hoedspruit AFB, Mpumalanga",Boeing 737-200,0,31.0449768,-24.3699399
+"Jan 9, 2011 at 1945 LT","Orūmīyeh, West Azerbaijan",Boeing 727-200,77,45.0786282,37.5498061
+"Jan 7, 2011 at 1600 LT","Venezuela, Venezuela",Partenavia P.68,5,-66.58973,6.42375
+"Jan 6, 2011 at 1326 LT","Kipnuk, Alaska",Cessna 208B Grand Caravan,0,-164.0833318,59.9401747
+"Jan 6, 2011 at 1100 LT","Springfield, Illinois",Learjet 35,0,-89.6501481,39.7817213
+"Jan 3, 2011 at 1350 LT","New Stuyahok, Alaska",Beechcraft E18,0,-157.3119443,59.4527778
+"Jan 1, 2011 at 1525 LT","Surgut, Khantia-Mansia okrug",Tupolev TU-154,3,73.3845471,61.2559503
+"Dec 28, 2010 at 2130 LT","Tula, Tula oblast",Antonov AN-22,12,37.6184915,54.204836
+"Dec 27, 2010 at 2246 LT","Columbus, Ohio",Rockwell Aero Commander 500,0,-82.9987942,39.9611755
+"Oct 28, 2012 at 1200 LT","Bir Kalait, Wadi Fira",Beechcraft 1900D,0,NA,NA
+"Dec 20, 2010 at 1000 LT","Perris, California",Rockwell Grand Commander 680,1,-117.2286478,33.7825194
+"Dec 19, 2010 at 1502 LT","Samedan, Graubünden",Raytheon 390 Premier I,2,9.8729339,46.5339944
+"Dec 15, 2010 at 1530 LT","Nepal, Nepal",De Havilland DHC-6 Twin Otter,22,84.124008,28.394857
+"Dec 14, 2010 at 1510 LT","Nassau, New Providence",Beechcraft 18,2,-77.355413,25.0479835
+"Dec 12, 2010 at 2140 LT","Londrina, Paraná",Beechcraft King Air 90,0,-51.1695824,-23.3044524
+"Dec 8, 2010 at 1200 LT","Ouarzazate, Souss-Massa-Drâa",Britten-Norman Islander,5,-6.937016,30.9335436
+"Dec 4, 2010 at 1436 LT","Moscow, Moscow oblast",Tupolev TU-154,2,37.6172999,55.755826
+"Dec 3, 2010 at 2340 LT","Maputo, Maputo City District",Beechcraft 1900C,0,32.6051351,-25.891968
+"Nov 29, 2010 at 1330 LT","Tuguegarao, Cagayan",Beechcraft Queen Air 80,0,121.7270206,17.6131813
+"Nov 28, 2010 at 1015 LT","Swindon, Wiltshire",Gippsland GA8 Airvan,0,-1.7797176,51.5557739
+"Nov 28, 2010 at 0148 LT","Karachi, Sindh (سنڌ سندھ)",Ilyushin II-76,12,67.0099388,24.8614622
+"Nov 24, 2010 at 1436 LT","Monterrey, Nuevo León",Antonov AN-32,5,-100.3161126,25.6866142
+"Nov 19, 2010 at 1535 LT","Birmingham, West Midlands",Cessna 501 Citation I,0,-1.890401,52.486243
+"Nov 19, 2010 at 0900 LT","Paris-Le Bourget, Seine-Saint-Denis",Lockheed C-130 Hercules,0,2.425377,48.936752
+"Nov 18, 2010 at 1456 LT","Sana'a, Sana'a (صنعاء)",Lockheed C-130 Hercules,0,44.1910066,15.3694451
+"Nov 17, 2010 at 1553 LT","Portland-Hillsboro, Oregon",Learjet 25,0,-122.8827121,45.546474
+"Nov 13, 2010 at 1602 LT","Andahuaylas, Apurímac",Swearingen SA227AC Metro III,0,-73.3767641,-13.6616515
+"Nov 11, 2010 at 1618 LT","Zalingei, Central Darfur",Antonov AN-24,2,23.47687,12.89985
+"Nov 10, 2010 at 1100 LT","Anthony, New Mexico",Partenavia P.68,0,-106.6058257,32.0039897
+"Nov 5, 2010 at 1423 LT","Huánuco, Huánuco",Swearingen SA227AC Metro III,0,-76.2432653,-9.9298454
+"Nov 5, 2010 at 0706 LT","Karachi, Sindh (سنڌ سندھ)",Beechcraft 1900C,21,67.0099388,24.8614622
+"Nov 4, 2010 at 1751 LT","Cuba, Cuba",ATR72-200,68,-77.781167,21.521757
+"Nov 4, 2010 at 1620 LT","Aix-en-Provence, Bouches-du-Rhône",Beechcraft King Air 90,2,5.447427,43.529742
+"Oct 27, 2010 at 1740 LT","Aguadilla, Puerto Rico",Piper PA-31-350 Navajo Chieftain,0,-67.1540698,18.4274454
+"Oct 27, 2010 at 1630 LT","Wami, Central Sulawesi",PZL-Mielec AN-28,5,120.7934686,1.121714
+"Oct 26, 2010 at 0708 LT","Wentworth, South Yorkshire",Piper PA-31-350 Navajo Chieftain,0,-1.4101903,53.4741403
+"Oct 25, 2010 at 1120 LT","Kirby Lake, Alberta",Beechcraft King Air 100,1,-110.7691813,55.4757603
+"Oct 24, 2010 at 1200 LT","Santa Isabel, La Pampa",PZL-Mielec AN-2,0,-66.9404965,-36.2321043
+"Oct 21, 2010 at 1200 LT","Bukavu, Sud-Kivu",Let 410UVP,2,28.8480284,-2.5123017
+"Oct 16, 2010","Mukinge, North-Western",Harbin Yunsunji Y-12,0,25.8551303,-13.480814
+"Oct 15, 2010 at 1715 LT","Lady Barron, Tasmania",Gippsland GA8 Airvan,0,148.241667,-40.2125
+"Oct 12, 2010 at 1950 LT","Kabul, Kabul",Lockheed C-130 Hercules,8,69.207486,34.5553494
+"Oct 6, 2010 at 0800 LT","Coatzacoalcos, Veracruz",Cessna 501 Citation I,8,-94.4589858,18.1344779
+"Oct 5, 2010 at 1220 LT","Nassau, New Providence",Cessna 402,9,-77.355413,25.0479835
+"Oct 2, 2010 at 1024 LT","Kirensk, Irkutsk oblast",Cessna 208 Caravan,0,108.1240863,57.7746006
+"Oct 1, 2010 at 0830 LT","Manteo, North Carolina",Cessna 550 Citation II,0,-75.6757302,35.9082256
+"Sep 24, 2010 at 2008 LT","Palermo, Sicily",Airbus A319,0,13.3612671,38.1156879
+"Sep 22, 2010 at 1700 LT","Montmagny, Quebec",Beechcraft King Air 100,0,-70.5565719,46.9801031
+"Sep 19, 2010 at 1440 LT","South Bimini, Bimini",Piper PA-31-350 Navajo Chieftain,0,-79.2761224,25.700892
+"Sep 13, 2010 at 0959 LT","Puerto Ordaz, Bolívar",ATR42-300,17,-62.7676633,8.2750921
+"Sep 7, 2010","Uribe, Meta",Beechcraft Super King Air 350,6,-74.350661,3.239241
+"Sep 5, 2010 at 1526 LT","Pointe-à-Pitre, Guadeloupe",Cessna 208B Grand Caravan,0,-61.5340424,16.2376869
+"Jul 4, 2012 at 1900 LT","El Palomar AFB, Buenos Aires province",Rockwell Sabreliner 75,0,NA,NA
+"Sep 3, 2010 at 1941 LT","Dubai, Dubai",Boeing 747-400,2,55.2707828,25.2048493
+"Sep 3, 2010 at 1830 LT","Tuluksak, Alaska",Cessna 207 Skywagon,0,-160.9616668,61.1025
+"Sep 2, 2010 at 1151 LT","San Carlos, California",Beechcraft Queen Air 80,3,-122.2605222,37.5071591
+"Aug 31, 2010 at 1615 LT","Bwagaoia (Misima Island), Milne Bay",Cessna 550 Citation II,4,152.8485247,-10.6784069
+"Aug 26, 2010 at 2245 LT","Tabriz, East Azerbaijan",Fokker 100,0,46.2738013,38.096239
+"Aug 25, 2010 at 1756 LT","Tallinn, Harjumaa",Antonov AN-26,0,24.7535747,59.4369608
+"Aug 25, 2010 at 1440 LT","Vitória da Conquista, Bahia",Embraer ERJ-145,0,-40.8445346,-14.8619237
+"Aug 25, 2010 at 1400 LT","Bandundu, Bandundu",Let 410UVP,20,17.3789697,-3.3168087
+"Aug 24, 2010 at 2138 LT","Yichun, Heilongjiang",Embraer ERJ-190,44,128.8411471,47.727536
+"Aug 24, 2010 at 0725 LT","Kathmandu, Bagmati",Dornier DO228,14,85.3239605,27.7172453
+"Aug 21, 2010 at 1412 LT","Kaminshak Bay, Alaska",De Havilland DHC-2 Beaver,4,-153.916389,59.169722
+"Aug 16, 2010 at 0147 LT","San Andrés, Antioquia",Boeing 737-700,2,-75.67556,6.913245
+"Aug 13, 2010 at 1500 LT","Mercedes, Buenos Aires province",Piper PA-42 Cheyenne,0,-59.4305996,-34.6510201
+"Aug 12, 2010 at 0916 LT","Rio de Janeiro, Rio de Janeiro",Learjet 55 Longhorn,0,-43.1728965,-22.9068467
+"Aug 11, 2010 at 0855 LT","Burns, Oregon",Rockwell Aero Commander 500,2,-119.0541032,43.5862606
+"Aug 9, 2010 at 1442 LT","Aleknagik, Alaska",De Havilland DHC-3 Otter,5,-158.6177778,59.2730556
+"Aug 5, 2010 at 2337 LT","Sydney, Nova Scotia",Cessna 414 Chancellor,2,-60.194224,46.1367899
+"Aug 5, 2010 at 2216 LT","Bequia Island, SV&G",Cessna 402,1,-61.2272312,13.0117059
+"Aug 3, 2010 at 1900 LT","Ukraine, Ukraine",PZL-Mielec AN-2,0,31.1655799,48.379433
+"Aug 3, 2010 at 0119 LT","Igarka, Krasnoyarsk Krai",Antonov AN-24,12,86.5779764,67.4649215
+"Aug 1, 2010 at 1500 LT","Denali National Park, Alaska",Fairchild C-123 Provider,3,-151.1926057,63.1148002
+"Jul 31, 2010 at 2024 LT","Lytton, British Columbia",Convair CV-580,2,-121.581404,50.233258
+"Jul 28, 2010 at 1822 LT","Elmendorf AFB, Alaska",McDonnell Douglas C-17 Globemaster III,4,-149.8112528,61.2536352
+"Dec 18, 2011 at 1502 LT","Walan Rabat, Zabul",PZL-Mielec AN-28,0,NA,NA
+"Jul 28, 2010 at 1200 LT","Camp Dwyer AFB, Helmand",Antonov AN-12,0,NA,NA
+"Jul 28, 2010 at 0130 LT","Conakry, Conakry Region",Boeing 737-700,0,-13.5784012,9.6411855
+"Jul 27, 2010 at 1816 LT","Oshkosh, Wisconsin",Raytheon 390 Premier I,0,-88.5426136,44.0247062
+"Jul 27, 2010 at 1138 LT","Riyadh, Manţiqat ar Riyāḍ (منطقة الرياض)",McDonnell Douglas MD-11,0,NA,NA
+"Jul 24, 2010 at 1053 LT","La Grande, Quebec",De Havilland DHC-2 Beaver,2,-78.9886307,53.8393054
+"Jul 23, 2010 at 0727 LT","Ketchikan, Alaska",De Havilland DHC-2 Beaver,1,-131.6461112,55.3422222
+"Jul 21, 2010 at 0932 LT","Keperveyem, Chukotka okrug",Antonov AN-12,0,166.1637571,67.84536
+"Jul 20, 2010 at 1200 LT","Lubumbashi, Katanga",Fokker F27 Friendship,0,27.5026174,-11.6876026
+"Jul 19, 2010 at 1400 LT","Mount Pleasant, South Carolina",Comp Air CA-8,1,-79.8284258,32.8323225
+"Jul 18, 2010 at 1330 LT","Rankin Inlet, Nunavut",Rockwell Aero Commander 500,0,-92.0852853,62.808375
+"Jul 17, 2010 at 0730 LT","Cairo, Cairo",Boeing 747-300,0,31.2357116,30.0444196
+"Jul 16, 2010 at 1117 LT","Chute des Passes, Quebec",De Havilland DHC-2 Beaver,4,-71.8091604,50.4172038
+"Jul 15, 2010 at 1646 LT","Brač, Dalmatia",Cessna 550 Citation Bravo,0,16.6527099,43.3048913
+"Jul 10, 2010 at 2205 LT","Tulsa, Oklahoma",Cessna 421 Golden Eagle,3,-95.992775,36.1539816
+"Jul 7, 2010 at 1020 LT","Piedras Negras, Coahuila",Piper PA-31-350 Navajo Chieftain,8,-100.5408622,28.6916182
+"Jul 6, 2010 at 1745 LT","Orange, New South Wales",Gippsland GA8 Airvan,0,149.1,-33.283333
+"Jul 5, 2010 at 1740 LT","Tuzla, Constanța",PZL-Mielec AN-2,12,28.637668,44.0028382
+"Jul 4, 2010 at 0015 LT","Alpine, Texas",Cessna 421 Golden Eagle,5,-103.6610115,30.3584919
+"Jun 30, 2010 at 1540 LT","Wiesbaden-Erbenheim AFB, Hesse",Beechcraft Super King Air 200,0,NA,NA
+"Jun 27, 2010 at 1730 LT","Alaska, Alaska",De Havilland DHC-2 Beaver,0,-149.4936733,64.2008413
+"Jun 27, 2010 at 1545 LT","Voskresensk, Moscow oblast",PZL-Mielec AN-2,0,38.6815132,55.3238424
+"Jun 24, 2010 at 1730 LT","Kokshetau, Akmola",PZL-Mielec AN-2,2,69.4047872,53.2948229
+"Jun 23, 2010 at 1050 LT","Puerto Barrios, Izabal",Piper PA-31-350 Navajo Chieftain,2,-88.5855173,15.695364
+"Jun 23, 2010 at 0603 LT","Quebec City, Quebec",Beechcraft King Air 100,7,-71.2079809,46.8138783
+"Jun 19, 2010 at 1703 LT","Plymouth, Massachusetts",Cessna 401,0,-70.6672621,41.9584457
+"Jun 19, 2010 at 1447 LT","Berlin, Berlin",Douglas DC-3,0,-75.2176892,38.3226153
+"Jun 19, 2010 at 1000 LT","Congo, Congo",Casa 212 Aviocar,11,21.758664,-4.038333
+"Jun 18, 2010 at 1930 LT","Chiclayo, Lambayeque",Dassault Falcon 20,0,-79.8442978,-6.7765974
+"Jun 15, 2010 at 0805 LT","Bankstown, New South Wales",Piper PA-31-350 Navajo Chieftain,2,151.03497,-33.91817
+"Jun 14, 2010 at 1730 LT","Felipe Carrillo Puerto, Quintana Roo",Cessna 208 Caravan,9,-88.0440957,19.5803342
+"Jun 13, 2010 at 1100 LT","Lanseria, Gauteng",Swearingen SA226AC Metro II,0,27.9263647,-25.9400168
+"Jun 12, 2010 at 0725 LT","La Carlota-Francisco de Miranda AFB (Caracas), Caracas Federal District",PZL-Mielec AN-28,3,-66.8455195,10.4880756
+"Jun 4, 2010 at 1200 LT","Sharana AFB, Parwan",Lockheed C-130 Hercules,0,NA,NA
+"May 26, 2010 at 0930 LT","Cartwright, Newfoundland & Labrador",Piper PA-31-350 Navajo Chieftain,2,-57.0233174,53.7070086
+"May 26, 2010 at 0855 LT","Guatemala City, Guatemala",Piper PA-31-350 Navajo Chieftain,4,-90.5068824,14.6349149
+"May 22, 2010 at 0605 LT","Mangalore, Karnataka",Boeing 737-800,158,74.8559568,12.9141417
+"May 21, 2010 at 0020 LT","Luanda, Luanda",Beechcraft Super King Air 200,3,13.2894368,-8.8399876
+"May 19, 2010 at 0530 LT","Cascavel, Paraná",Embraer EMB-110 Bandeirante,0,-53.4595112,-24.9577771
+"May 17, 2010 at 0937 LT","Afghanistan, Afghanistan",Antonov AN-24,44,67.709953,33.93911
+"May 15, 2010 at 1510 LT","Suriname, Suriname",PZL-Mielec AN-28,8,-56.027783,3.919305
+"May 12, 2010 at 1200 LT","Astrakhan, Astrakhan oblast",PZL-Mielec AN-2,0,48.0599345,46.3588045
+"May 12, 2010 at 0601 LT","Tripoli, Tripoli (طرابلس)",Airbus A330,103,35.836167,34.4345975
+"May 10, 2010 at 1719 LT","Alert AFB, Nunavut",De Havilland DHC-6 Twin Otter,0,NA,NA
+"May 6, 2010 at 1026 LT","Krasnodar, Krasnodar Krai",PZL-Mielec AN-2,0,38.9872209,45.0392674
+"May 6, 2010","Brize Norton AFB, Oxfordshire",Lockheed C-130 Hercules,0,-1.5842109,51.7613476
+"May 5, 2010 at 1049 LT","Mitú, Vaupés",Embraer ERJ-145,0,-70.233618,1.2521739
+"May 4, 2010 at 0817 LT","Odessa, Odessa Oblast",PZL-Mielec AN-2,0,30.7233095,46.482526
+"Apr 27, 2010 at 1830 LT","Arlit, Agadez",Beechcraft Super King Air 200,0,7.3894772,18.7390029
+"Apr 21, 2010 at 2050 LT","Mexico City, Pampanga",Antonov AN-12,3,120.7005044,15.0986624
+"Apr 20, 2010 at 1420 LT","Waipukurau, Hawke's Bay Regional Council",Fletcher FU-24,0,176.538624,-39.9921881
+"Apr 13, 2010 at 2318 LT","Monterrey, Nuevo León",Airbus A300,7,-100.3161126,25.6866142
+"Apr 13, 2010 at 1055 LT","Manokwari, Special Region of West Papua",Boeing 737-300,0,134.1197771,-0.8758091
+"Apr 12, 2010 at 1525 LT","Georgia, Georgia",Rockwell Sabreliner 65,4,43.356892,42.315407
+"Apr 10, 2010 at 1041 LT","Smolensk, Smolensk oblast",Tupolev TU-154,96,32.0503663,54.7903112
+"Apr 1, 2010 at 1300 LT","Bahias de Huatulco, Oaxaca",Learjet 25,0,-96.1398126,15.7731145
+"Mar 31, 2010 at 1400 LT","Indian Ocean, World",Grumman E-2C Hawkeye,1,81.826172,-33.137551
+"Mar 30, 2010 at 1400 LT","Ivanovo, Ivanovo oblast",Antonov AN-74,0,40.9766453,57.0050671
+"Mar 22, 2010 at 1009 LT","Darwin, Northern Territory",Embraer EMB-120 Brasília,2,130.8456418,-12.4634403
+"Mar 22, 2010 at 0235 LT","Moscow, Moscow oblast",Tupolev TU-204,0,37.6172999,55.755826
+"Mar 18, 2010 at 1018 LT","Tallinn, Harjumaa",Antonov AN-26,0,24.7535747,59.4369608

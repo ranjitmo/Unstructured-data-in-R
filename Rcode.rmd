@@ -1,5 +1,5 @@
 ---
-title: "workflow_test"
+title: "Playing with unstructured data in R"
 output: html_document
 ---
 
@@ -7,22 +7,149 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+### Getting unstructured data into R and doing something with it
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is a tutorial on using R to load, wrangle, analyze and visualize unstructured data. There is an abundance of publicly available unstructured data on the web and the two main ways to access it are scraping it directly from websites ('webscraping') or connecting to it via a website's API.
+In this part (Part 1) I go through an example of webscraping data from an aircraft accident archive website using Hadley's 'rvest' package. In Part 2 I will cover accessing twitter data via the twitter API.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### Part 1: Scraping data from a website
 
-```{r cars}
-summary(cars)
+We want to get some insight on aircraft accidents listed on http://www.baaa-acro.com/. The information on there is displayed in a way that is not easy to download and store for further analysis so we have to use webscraping functions provided in the 'rvest' package to connect to the site in R and extract the data we want from the underlying html document of that website.
+
+1. Required packages
+```{r, message = FALSE, warning = FALSE}
+library(rvest)       #provides the webscraping functions we need
+library(tidyverse)   #so we can work in the tidyverse way
 ```
 
-## Including Plots
+When you visit the site http://www.baaa-acro.com/ you will find that it lists all airplane accidents since 1918. We're interested in date, place, airplane model and no. fatalities for each accident but cannot get access to that information in a straight forward way as it is not available for download in, say a csv file or other format.
 
-You can also embed plots, for example:
+This is were webscraping comes into play and we will use three functions from the rvest package to get access to the data we want and then wrangle it into a format that allows us to further analyse and visualize it:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
++ read_html() *- to read the enire underlying html file of the site into an r object*
+
++ html_nodes() *- to select parts of the html file*
+
++ html_text() *- to get the raw data encapsulated in html tags*
+
+Let's first read in the underlying html file of the website
+```{r, message = FALSE, warning = FALSE}
+y <- read_html("http://www.baaa-acro.com")
+```
+The R object y now holds an xml document that in turn captures the html code of the website. Hidden in there is the data we are after which we now have to extract.
+
+Let's get the location of each air accident on the page. html_nodes() will help us extract the location if we pass it the correct argument. The argument we need is the name of the html node that holds the location. Let's run this first...
+```{r, message = FALSE, warning = FALSE}
+crashLocation <- y %>%  html_nodes("span:nth-child(5) a")
+
+crashLocation
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+How did we know we had to pass "span:nth-child(5) a" to html_nodes() to retrieve the above nodeset that holds location?
+Here is where a separate tool - http://selectorgadget.com/ - comes in handy as it is designed to help us select nodes from a html document that hold the desired information. See [here](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html) for Hadley's tutorial on installing and using SelectorGadget. 
+
+Finally we will use html_text() to read out the raw content that is still encapsulated by html tags in the above:
+```{r, message = FALSE, warning = FALSE}
+crashLocation <- y %>%  html_nodes("span:nth-child(5) a") %>% html_text()
+
+crashLocation
+```
+
+So far we have covered a method that allows us to access desired information from a html document via read_html(), html_nodes() and html_text(), all functions from the powerful rvest package.
+
+To speed things up let's build some code to not only extract *location* from one page of http://www.baaa-acro.com but loop through a larger number of its pages, also extract *date*, *plane model* and *no. of fatalities* and combine the extracted information into a data frame.
+
+```{r, message = FALSE, warning = FALSE}
+#first we create repositiry lists that will hold the results of date, location, plane model and fatalities
+crashDates <- list()
+crashLocations <-list()
+planeModels <- list()
+deaths <- list()
+
+#grid sets the page no. we want to start with up to the last page we want to access
+grid <- c(2:3) #just two pages scraped for illustration purposes
+
+#we loop through all pages set in grid and scrape date, location, plane model and fatalities into respective R objects
+for (i in seq_along( grid ) ) {
+  y <- read_html( paste0("http://www.baaa-acro.com/category/archives/page/", grid[i], "/") )
+  crashDate <- y %>% html_nodes(".list-crash-info span:nth-child(2)") %>% html_text()
+  crashLocation <- y %>%  html_nodes("span:nth-child(5) a") %>% html_text()
+  planeModel <- y %>%  html_nodes("span:nth-child(8) a") %>% html_text()
+  death <- y %>%  html_nodes(".list-crash-info strong") %>% html_text() %>% as.numeric()
+
+#the repository lists created above get filled at each iteration of the loop    
+  crashDates[[i]] <- crashDate
+  crashLocations[[i]] <-crashLocation
+  planeModels[[i]] <- planeModel
+  deaths[[i]] <- death
+  }
+
+#we build a data frame from the 4 repository lists we created *Note that base R 'data.frame' is used instead of tidyverse 'data_frame' as that resolves an issue with geocoding otherwise encountered
+crash_df <- data.frame( Date = unlist(crashDates), Location = unlist(crashLocations),
+                        'Airplane model' = unlist(planeModels), Fatalities = unlist(deaths), stringsAsFactors = FALSE )
+```
+
+What does the data frame we created look like?
+```{r, message = FALSE, warning = FALSE}
+library(knitr)
+kable(crash_df[1:5,]) #displays a data frame as a 'kable' (=knitr table)
+```
+
+To be able to display this information on airline crashes on a map, we need to geocode our variable 'Location', i.e. add longitude and latitude coordinates to each value of 'Location'. The geocode() function from the ggmap package does just that by querying googlemaps. Note that the number of such free googlemap queries is limitied to 2,500 a day.
+```{r, message = FALSE, warning = FALSE, results = 'hide'}
+library(ggmap)
+crash_df <- crash_df %>% mutate_geocode(Location)
+```
+
+What have we achieved?
+```{r, message = FALSE, warning = FALSE}
+kable(crash_df[1:5,])
+```
+
+Now let's visualize the locations of airline crashes via bubbles on a worldmap and let size of the bubbles represent the number of fatalities. We will use the 'leaflet' R package
+
+```{r, message = FALSE, warning = FALSE, include=FALSE}
+path <- getwd()
+crash_df <- read_csv( paste0(path, "/crash_data.csv") )
+mp <- NULL
+mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
+mp <- ggplot() + 
+  mapWorld + 
+  geom_point(aes(x=crash_df$lon, y=crash_df$lat), color="blue", size=sqrt(crash_df$Fatalities), alpha = 0.5) 
+
+mp
+
+```
+
+* next to expand, how can we get tooltips (leaflet)? put categorical variable in (airplane make), filter to 'big crashes'
+
+* filter to last 5 years? Fix big crashes with NA as lonlat - what causes this?
+
+
+
+```{r, message = FALSE, warning = FALSE}
+library(leaflet)
+library(htmltools)
+
+m <- leaflet(crash_df) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addCircles(lng = ~lon, lat = ~lat, stroke = FALSE, fillColor = "red", fillOpacity = 0.3,
+    radius = ~Fatalities * 1000, popup = paste(
+      paste0("<h3 style=","color:black;", ">", crash_df$Location, "</h3>"),
+      paste0("<h3 style=","color:black;", ">", crash_df$Fatalities, " Fatalities in ", crash_df$Date, "</h3>")
+      )
+  )
+  # addLabelOnlyMarkers(~lon, ~lat, label = ~htmlEscape(Location) #not using lables for now
+  
+m  # Print the map
+```
+
+
+So we are done here. It hasn't provided any amazing insight as such. We see that ... but at this point it would be interesting to put the crash location ... into context by taking into account ..We won't go there as this tutorial was more about the mechanics of getting unstructed data from the web and doing something with it. We achieved that by visualizing the locations of air crashes on a world map where bubble size represents no. fatalities of each crash.
+
+
+
+
+
+
+
