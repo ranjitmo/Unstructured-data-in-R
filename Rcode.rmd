@@ -14,7 +14,7 @@ In this part (Part 1) I go through an example of webscraping data from an aircra
 
 ### Part 1: Scraping data from a website
 
-We want to get some insight on aircraft accidents listed on http://www.baaa-acro.com/. The information on there is displayed in a way that is not easy to download and store for further analysis so we have to use webscraping functions provided in the 'rvest' package to connect to the site in R and extract the data we want from the underlying html document of that website.
+We want to get some insight on aircraft accidents listed on http://www.baaa-acro.com/. The information on there is displayed in a way that is not easy to download and store for further analysis so we have to use webscraping functions provided in the rvest package to connect to the site in R and extract the data we want from the underlying html document of that website.
 
 Required packages:
 ```{r, message = FALSE, warning = FALSE}
@@ -57,7 +57,7 @@ crashLocation
 
 So far we have covered a method that allows us to access desired information from an html document using read_html(), html_nodes() and html_text(), all functions from the powerful rvest package.
 
-To speed things up let's build some code to not only extract **location** from one page of http://www.baaa-acro.com but loop through a larger number of its pages, also extract **date**, **plane model** and **no. of fatalities** and combine the extracted information into a data frame.
+To speed things up let's build some code to extract data not only from that single page http://www.baaa-acro.com but loop through a larger number of its archive pages that capture info on air accidents going all the way back to 1918. At the same time we also want to extract **date**, **plane model** and **no. of fatalities** on top of **location** and combine the extracted information into a data frame.
 
 ```{r, message = FALSE, warning = FALSE}
 # first we create repository lists that will hold the results of date, location, plane model and fatalities
@@ -67,7 +67,8 @@ planeModels <- list()
 deaths <- list()
 
 # grid sets the page no. we want to start with up to the last page we want to access
-grid <- c(2:3) # just two pages scraped for illustration purposes
+# just two pages scraped for illustration purposes; starting with page 2 as page 1 is stored in root folder of the website (not the archives folder that we are accessing below)
+grid <- c(2:3) 
 
 # we loop through all pages set in grid and scrape date, location, plane model and fatalities into respective R objects
 for ( i in seq_along( grid ) ) {
@@ -85,14 +86,13 @@ for ( i in seq_along( grid ) ) {
   }
 
 # we build a data frame from the 4 repository lists we created 
-# Note that base R 'data.frame' is used instead of tidyverse 'data_frame' as that resolves an issue with geocoding we would otherwise encounter
+# Note that base R 'data.frame' is used instead of tidyverse 'data_frame' as that resolves an issue with subsequent geocoding we would otherwise encounter
 crash_df <- data.frame( Date = unlist(crashDates), Location = unlist(crashLocations),
                         'Airplane model' = unlist(planeModels), Fatalities = unlist(deaths), stringsAsFactors = FALSE )
 
 # we could write the resulting data frame to our working directory
 # path <- getwd()
 # write.csv( crash_df, paste0(path, "/crash_data.csv") ) 
-
 ```
 
 What does the data frame we created look like?
@@ -101,7 +101,7 @@ library(knitr)
 kable(crash_df[1:5,]) # displays a data frame as a 'kable' (=knitr table)
 ```
 
-To be able to display this information on airline crashes on a map, we need to geocode our variable 'Location', i.e. add longitude and latitude coordinates to each value of 'Location'. The geocode() function from David Kahle's ggmap package does just that by querying googlemaps. Note that the number of such free googlemap queries is limitied to 2,500 a day.
+To be able to display this information on airline crashes on a map, we need to geocode our variable 'Location', i.e. add longitude and latitude coordinates to each value of 'Location'. The geocode() function from David Kahle's ggmap package does just that by querying googlemaps. Note that the number of such free googlemaps queries is limitied to 2,500 a day.
 ```{r, message = FALSE, warning = FALSE, results = 'hide'}
 library(ggmap)
 crash_df <- crash_df %>% mutate_geocode(Location)
@@ -112,9 +112,9 @@ We can see the added columns **lon** (=longitude) and **lat** (=latitude) and wi
 kable(crash_df[1:5,])
 ```
 
-With the example code above we scraped only two out of the 2,500 or so pages across which all the airline accident data is spread if we really wanted to gather all of it going back to 1918. We are happy with roughly the past 20 years worth of data - 1997 to 2017 - and I scraped that in a separate session, geocoded location and wrote the resulting data frame into "crash_data.csv". We can now just read that back in and are ready to proceed.
+With the example code above we scraped only two out of the 2,500 or so archive pages across which all the airline accident data is spread if we really wanted to gather all of it going back to 1918. We are happy with roughly the past 20 years worth of data - 1997 to 2017 - and I scraped that in a separate session, geocoded location and wrote the resulting data frame into "crash_data.csv". We can now just read that back in and are ready to proceed.
 
-So let's visualize the locations of airline crashes via bubbles on a worldmap and let size of the bubbles represent the number of fatalities. We will use the package leaflet that provides zooming, panning and popups out of the box.
+So let's visualize the locations of airline crashes via bubbles on a worldmap and let size of the bubbles represent the number of fatalities. We will use the package leaflet that provides zooming, panning and popups out of the box. We'll also use the htmltools package to format the appearance of the popups.
 
 
 ```{r, message = FALSE, warning = FALSE}
@@ -122,14 +122,14 @@ library(leaflet)
 library(htmltools)
 
 path <- getwd()
-crash_df <- read_csv( paste0(path, "/crash_data.csv") ) # reading in past 10 years worth of air accident data
+crash_df <- read_csv( paste0(path, "/crash_data.csv") ) # reading in past 20 years worth of air accident data
 
 
 m <- leaflet(crash_df) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addCircles(lng = ~lon, lat = ~lat, stroke = FALSE, fillColor = "red", fillOpacity = 0.3,
     radius = ~Fatalities * 1000, popup = paste(                                               # we add some inline styling to format the 
-      paste0("<h3 style=","color:black;", ">", crash_df$Location, "</h3>"),                   # apperance of the popups
+      paste0("<h3 style=","color:black;", ">", crash_df$Location, "</h3>"),                   # appearance of the popups
       paste0("<h3 style=","color:black;", ">", crash_df$Fatalities, " Fatalities in ", crash_df$Date, "</h3>")
       )
   )
@@ -137,25 +137,32 @@ m <- leaflet(crash_df) %>%
 m  # Print the map
 ```
 
-So we are done here. It hasn't provided any amazing insight as such. We see that ... but at this point it would be interesting to put the crash location ... into context by taking into account ..We won't go there as this tutorial was more about the mechanics of getting unstructed data from the web and doing something with it. We achieved that by visualizing the locations of air crashes on a world map where bubble size represents no. fatalities of each crash.
+We see that the date in the popups is often too verbose, giving date as well as local time e.g. "Sep 10, 2017 at 1130 LT".
+Let's split these into separate columns using "at" as the separator and just show Date in the popup.
+```{r, message = FALSE, warning = FALSE}
+crash_df <- separate(crash_df, Date, into = c("Date", "Local time"), sep="at")
 
-
-* next to expand, how can we get tooltips (leaflet)? put categorical variable in (airplane make), filter to 'big crashes'
- 
-* filter to last 5 years? Fix big crashes with NA as lonlat - what causes this?
-
-```{r, message = FALSE, warning = FALSE, include=FALSE}
-path <- getwd()
-crash_df <- read_csv( paste0(path, "/crash_data.csv") ) # reading in past 10 years worth of air accident data
-mp <- NULL
-mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
-mp <- ggplot() + 
-  mapWorld + 
-  geom_point(aes(x=crash_df$lon, y=crash_df$lat), color="blue", size=sqrt(crash_df$Fatalities), alpha = 0.5) 
-
-mp
-
+#This is what we get
+kable(crash_df[1:5,])
 ```
+
+Run the map again - that's better.
+
+```{r, message = FALSE, warning = FALSE}
+m <- leaflet(crash_df) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addCircles(lng = ~lon, lat = ~lat, stroke = FALSE, fillColor = "red", fillOpacity = 0.3,
+    radius = ~Fatalities * 1000, popup = paste(                                               # we add some inline styling to format the 
+      paste0("<h3 style=","color:black;", ">", crash_df$Location, "</h3>"),                   # appearance of the popups
+      paste0("<h3 style=","color:black;", ">", crash_df$Fatalities, " Fatalities in ", crash_df$Date, "</h3>")
+      )
+  )
+  
+m  # Print the map
+```
+
+So we are done here. It hasn't provided any amazing insight as such but we have been able to visualize crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can be easily displayed on a world map.
+
 
 
 
