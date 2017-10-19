@@ -122,8 +122,7 @@ library(leaflet)
 library(htmltools)
 
 path <- getwd()
-crash_df <- read_csv( paste0(path, "/crash_data.csv") ) # reading in past 20 years worth of air accident data
-
+crash_df <- read.csv( paste0(path, "/crash_data_last20yrs_geocoded.csv"), stringsAsFactors = FALSE ) # reading in 20 years worth of air accident data (1997 to 2017)
 
 m <- leaflet(crash_df) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
@@ -133,7 +132,7 @@ m <- leaflet(crash_df) %>%
       paste0("<h3 style=","color:black;", ">", crash_df$Fatalities, " Fatalities in ", crash_df$Date, "</h3>")
       )
   )
-  
+
 m  # Print the map
 ```
 
@@ -162,7 +161,5 @@ m  # Print the map
 ```
 
 So we are done here. It hasn't provided any amazing insight as such but we have been able to visualize crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can be easily displayed on a world map.
-
-
 
 
