@@ -154,4 +154,4 @@ m <- leaflet(crash_df) %>%
 m  # Print the map
 ```
 
-So we are done here. We have been able to visualize air crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can easily be displayed on a world map.
+So we are done here. We have been able to visualize air crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can easily be displayed on a world map. test
