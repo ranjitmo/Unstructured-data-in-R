@@ -1,0 +1,616 @@
+"","Date","Location","Airplane.model","Fatalities","lon","lat"
+"1","Feb 19, 2003 at 1724 LT","Kerman, Kermanshah","Ilyushin II-76",275,NA,NA
+"2","Feb 16, 1998 at 2006 LT","Taipei, Taipei City ","Airbus A300-600",203,121.5654177,25.0329694
+"3","Jul 17, 2007 at 1854 LT","São Paulo, São Paulo","Airbus A320",199,-46.6333094,-23.5505199
+"4","Jul 28, 2010 at 0941 LT","Islamabad, Islamabad Capital Territory ","Airbus A321",152,73.0931461,33.7293882
+"5","Mar 24, 2015 at 1041 LT","Prads-Haute-Bléone, Alpes-de-Haute-Provence","Airbus A320",150,6.442807,44.219812
+"6","Apr 15, 2002 at 1121 LT","Busan, Busan ","Boeing 767-200",129,129.0756416,35.1795543
+"7","Apr 20, 2012 at 1840 LT","Islamabad, Islamabad Capital Territory ","Boeing 737-200",127,73.0931461,33.7293882
+"8","Aug 14, 2005 at 1203 LT","Athens, Attica / ","Boeing 737-300",121,23.7275388,37.9838096
+"9","Feb 2, 1998 at 1100 LT","Cagayán de Oro, Misamis Oriental","Douglas DC-9",104,124.6318977,8.4542363
+"10","Dec 11, 1998 at 1910 LT","Surat Thani, Surat Thani ","Airbus A310",101,99.3266976,9.1338851
+"11","Jan 28, 2002 at 1024 LT","Tulcán, Carchi","Boeing 727-100",94,-77.7165925,0.8150687
+"12","Sep 16, 2007 at 1540 LT","Phuket, Phuket ","McDonnell Douglas MD-82",90,98.3922504,7.8804479
+"13","Oct 31, 2000 at 2318 LT","Taipei, Taipei City ","Boeing 747-400",83,121.5654177,25.0329694
+"14","Feb 11, 2014 at 1138 LT","Aïn Kercha, Oum el-Bouaghi","Lockheed C-130 Hercules",76,6.6905458,35.9302835
+"15","May 26, 2003 at 0445 LT","Trabzon, Black Sea Region ","Yakovlev Yak-42",75,39.7167633,41.0026969
+"16","Jan 8, 2003 at 2019 LT","Diyarbakir, Southeastern Anatolia Region ","Avro RJ100",75,40.2109826,37.9249733
+"17","Oct 10, 1997 at 2210 LT","Nuevo Berlin, Río Negro","Douglas DC-9",74,-58.0470008,-32.9809545
+"18","Dec 17, 1997 at 2113 LT","Thessaloniki, Thessaly / Tessa","Yakovlev Yak-42",70,NA,NA
+"19","Jul 1, 2002 at 2335 LT","Konstanz, Baden-Württemberg","Tupolev TU-154",69,9.1732384,47.6779496
+"20","Nov 30, 2007 at 0136 LT","Isparta, Mediterranean Region ","McDonnell Douglas MD-83",57,30.553705,37.7626487
+"21","Sep 29, 1998 at 1354 LT","Palaly, Northern Province ","Antonov AN-24",55,80.0898085,9.7982377
+"22","Aug 16, 2015 at 1455 LT","Oksibil, Special Region of Papua","ATR42-300",54,NA,NA
+"23","Apr 20, 1998 at 1647 LT","Bogotá, Bogotá Capital District","Boeing 727-200",53,-74.072092,4.7109886
+"24","Jul 23, 2014 at 1906 LT","Makung, Penghu County ","ATR72-500",48,119.5774616,23.5706269
+"25","Dec 7, 2016 at 1616 LT","Havelian, Khyber Pakhtunkhwa ","ATR42-500",47,73.1438116,34.0465833
+"26","Feb 21, 2008 at 1700 LT","Mérida, Mérida","ATR42-300",46,-71.1804988,8.5698244
+"27","Feb 4, 2015 at 1054 LT","Taipei-Songshan, Taipei City ","ATR72-600",43,121.5638621,25.0541591
+"28","Nov 4, 2015 at 0900 LT","Juba, Central Equatoria ","Antonov AN-12",41,31.57125,4.859363
+"29","Mar 30, 2000","Anuradhapura, North Central Province ","Antonov AN-26",40,80.4036508,8.3113518
+"30","May 12, 1998 at 1930 LT","Néma, Hodh Ech Chargui","Xian Yunsunji Y-7-100",39,-7.2598913,16.6143698
+"31","May 8, 1997 at 2132 LT","Shenzhen, Guangdong","Boeing 737-300",35,114.057865,22.543096
+"32","Nov 29, 2003 at 1516 LT","Boende, Équateur","Antonov AN-26",33,20.8850949,-0.2842862
+"33","Aug 19, 2012 at 0800 LT","Talodi, South Kordofan ","Antonov AN-26",32,30.3839017,10.6377926
+"34","Jan 18, 2015","Abu Adh Dhuhur, Idlib Governorate ","Antonov AN-26",30,37.0480843,35.7369445
+"35","Oct 13, 2011 at 1717 LT","Madang, Madang","De Havilland Dash-8-100",28,145.7856324,-5.2218841
+"36","Mar 16, 2005 at 1353 LT","Varandey, Republic of Yamalia","Antonov AN-24",28,NA,NA
+"37","Jan 21, 1999 at 0810 LT","Bluefields, Región Autónoma del Atlántico Sur","Antonov AN-26",28,-83.7703693,12.0111402
+"38","Feb 12, 1998 at 0830 LT","Nasir, Upper Nile ","Antonov AN-32",27,33.0704605,8.6228644
+"39","May 7, 2011 at 1405 LT","Kaimana, Special Region of West Papua","Xian MA60",25,NA,NA
+"40","Jan 25, 2001 at 1815 LT","Ciudad Bolivar, Bolívar","Douglas DC-3",24,-63.5535552,8.0882791
+"41","Mar 15, 2016 at 1430 LT","Fátima, Pastaza","IAI Arava 201",22,-77.9988904,-1.4279679
+"42","May 18, 2011 at 2050 LT","Prahuaniyeu, Río Negro","Saab 340",22,-67.9423981,-41.2785416
+"43","Sep 2, 2011 at 1748 LT","Robinson Crusoe Island, Chile","Casa 212 Aviocar",21,-78.8460993,-33.6414001
+"44","Nov 5, 2010 at 0706 LT","Karachi, Sindh ","Beechcraft 1900C",21,67.0099388,24.8614622
+"45","Aug 24, 2003 at 0457 LT","Cap Haïtien, North","Let 410UVP",21,-72.2067681,19.7370362
+"46","Feb 11, 2006 at 0800 LT","Aweil, Northern Bahr el Ghazal ","Antonov AN-26",20,27.3998369,8.7670867
+"47","Mar 24, 2001 at 1628 LT","Saint-Barthélemy, Guadeloupe","De Havilland DHC-6 Twin Otter",20,-61.531419,16.2542883
+"48","Sep 12, 2001 at 1625 LT","Chichén Itzá, Yucatán","Let 410UVP",19,-88.5677826,20.6842849
+"49","Nov 9, 1999 at 1903 LT","Uruapan, Michoacán","Douglas DC-9",18,-102.0430476,19.4064492
+"50","Sep 14, 2011 at 1130 LT","Huambo, Huambo","Embraer EMB-120 Brasília",17,15.7468535,-12.7739761
+"51","Sep 13, 2010 at 0959 LT","Puerto Ordaz, Bolívar","ATR42-300",17,-62.7676633,8.2750921
+"52","Apr 12, 2005 at 1058 LT","Timika, Special Region of Papua","De Havilland DHC-6 Twin Otter",17,NA,NA
+"53","Feb 20, 2003 at 0915 LT","Kohat, Khyber Pakhtunkhwa ","Fokker F27 Friendship",17,71.4332193,33.5834014
+"54","Dec 16, 2001 at 1025 LT","Medellín, Antioquia","Let 410UVP",16,-75.5812119,6.244203
+"55","Mar 17, 2001 at 0823 LT","Lubango, Huíla","Beechcraft 1900C",16,13.5321234,-14.9186136
+"56","Aug 10, 1997 at 0833 LT","Matsu Island, Lienchiang County ","Dornier DO228",16,119.9516652,26.160243
+"57","Aug 2, 2009 at 1100 LT","Oksibil, Special Region of Papua","De Havilland DHC-6 Twin Otter",15,NA,NA
+"58","Feb 22, 2005 at 0715 LT","Sarmi, Special Region of Papua","Casa 212 Aviocar",15,NA,NA
+"59","Feb 14, 2011 at 0802 LT","Tegucigalpa, Francisco Morazán","Let 410UVP",14,-87.192136,14.0722751
+"60","Apr 4, 2001","Adar Yeil, Upper Nile ","Antonov AN-24",14,NA,NA
+"61","Aug 6, 2000","Puerto Montt, Región de Los Lagos","Casa 212 Aviocar",14,-72.9411364,-41.468917
+"62","Dec 18, 2016 at 0609 LT","Wamena, Special Region of Papua","Lockheed C-130 Hercules",13,138.9516853,-4.1001213
+"63","May 24, 2007 at 1745 LT","Pampa Hermosa, San Martín","De Havilland DHC-6 Twin Otter",13,-76.2739795,-6.1150231
+"64","Nov 17, 2003 at 1625 LT","Wau, Western Bahr el Ghazal ","Antonov AN-12",13,27.9834738,7.7091884
+"65","Mar 18, 1998 at 1932 LT","Hsinchu, Hsinchu City ","Saab 340",13,120.9674798,24.8138287
+"66","Dec 28, 2010 at 2130 LT","Tula, Tula oblast","Antonov AN-22",12,37.6184915,54.204836
+"67","Nov 28, 2010 at 0148 LT","Karachi, Sindh ","Ilyushin II-76",12,67.0099388,24.8614622
+"68","Jul 31, 2015 at 1430 LT","Agustín Codazzi, Cesar","Casa-Nurtanio CN235 (IPTN)",11,-73.237105,10.034716
+"69","Feb 21, 2014 at 0130 LT","Grombalia, Nabeul Governorate ","Antonov AN-26",11,10.5014909,36.6024831
+"70","Nov 1, 2009 at 0849 LT","Mirny, Republic of Yakutia ","Ilyushin II-76",11,NA,NA
+"71","Apr 16, 2008 at 1423 LT","Annobón Island, Annobón Province ","Antonov AN-32",11,5.6195112,-1.4221087
+"72","Sep 6, 2014 at 1450 LT","Araracuara, Caquetá","Piper PA-31-350 Navajo Chieftain",10,-72.3962907,-0.6013888
+"73","Mar 12, 2013 at 2030 LT","Almeirim, Pará","Embraer EMB-821 Carajá",10,-52.5785846,-1.5239568
+"74","Aug 24, 2008 at 0940 LT","Cabañas, Zacapa","Cessna 208 Caravan",10,-89.796633,14.9358752
+"75","Jul 5, 2007 at 0930 LT","Culiacán Rosales, Sinaloa","Rockwell Sabreliner 40R",10,-107.3940117,24.8090649
+"76","Mar 24, 2000 at 1804 LT","Colombo, Western Province ","Antonov AN-12",10,79.861243,6.9270786
+"77","Dec 31, 1997 at 0745 LT","Rio Sidra, Guna Yala","Britten-Norman Islander",10,NA,NA
+"78","Jun 16, 2016 at 1305 LT","B","Casa 212 Aviocar",9,49.5924134,37.2809455
+"79","Sep 4, 2010 at 1327 LT","Fox Glacier, West Coast Regional Council","Fletcher FU-24",9,NA,NA
+"80","Jul 10, 2008 at 1025 LT","Puerto Montt, Región de Los Lagos","Beechcraft 99",9,-72.9411364,-41.468917
+"81","Mar 26, 2005 at 0940 LT","Providencia Island, San Andrés, Providencia & Santa Catalina","Let 410UVP",9,-81.3729372,13.3387613
+"82","Aug 29, 1997","Puerto Inirida, Guainía","Pilatus PC-6 (Porter & Turbo Porter)",9,-67.923917,3.868297
+"83","May 1, 2017 at 1630 LT","Bogotá-Guaymaral, Bogotá Capital District","Cessna 208B Grand Caravan",8,-74.0709129,4.8164206
+"84","Apr 29, 2017","San Cristóbal, Artemisa","Antonov AN-26",8,-83.0415078,22.7129122
+"85","Jul 31, 2016 at 2100 LT","Londrina, Paraná","Embraer EMB-820 Navajo",8,-51.1695824,-23.3044524
+"86","Apr 20, 2014 at 1530 LT","Jämijärvi, Satakunta","Comp Air CA-8",8,22.6228262,61.8327572
+"87","Mar 22, 2012 at 0058 LT","Puerto Aguirre, Región Aysén del General Carlos Ibáñez del Campo","Beechcraft Super King Air 350",8,-73.5225084,-45.1566291
+"88","Mar 1, 2012 at 1200 LT","Quellón, Región de Los Lagos","Piper PA-31-350 Navajo Chieftain",8,-73.6138821,-43.1169327
+"89","Apr 11, 2008 at 2215 LT","Chi","Antonov AN-32",8,-96.0211039,41.321392
+"90","Nov 4, 2007 at 1409 LT","São Paulo, São Paulo","Learjet 35",8,-46.6333094,-23.5505199
+"91","Sep 1, 2005 at 1044 LT","Bogotá, Bogotá Capital District","Piper PA-31-350 Navajo Chieftain",8,-74.072092,4.7109886
+"92","Sep 13, 2003 at 1830 LT","Tecalitlán, Jalisco","Cessna 402",8,-103.3070959,19.4715159
+"93","Feb 24, 2003","Karachi, Sindh ","Cessna 402",8,67.0099388,24.8614622
+"94","Feb 7, 2002 at 0015 LT","Agadir, Souss-Massa-Drâa","Antonov AN-12",8,-9.5981072,30.4277547
+"95","Feb 19, 2001","Puerto López, Meta","Rockwell Gulfstream Commander 1000",8,-72.955918,4.091354
+"96","Oct 29, 2000","Bogotá, Bogotá Capital District","Piper PA-31-350 Navajo Chieftain",8,-74.072092,4.7109886
+"97","Jan 11, 1999 at 1545 LT","Arakkonam-Rajali NAS, Tamil Nadu","Hindustan Aeronautics HAL-748",8,NA,NA
+"98","Dec 11, 1997 at 1657 LT","Naryan Mar, Arkhangelsk oblast","Antonov AN-12",8,NA,NA
+"99","Oct 10, 1997","Taipei, Taipei City ","Lockheed C-130 Hercules",8,121.5654177,25.0329694
+"100","May 18, 2016 at 1900 LT","Camp Dwyer AFB, Helmand","Antonov AN-12",7,NA,NA
+"101","Mar 19, 2016 at 1523 LT","Campo de Marte AFB ","Comp Air CA-9",7,-46.6377697,-23.509422
+"102","Aug 13, 2014 at 1000 LT","Santos, São Paulo","Cessna 560XLS Citation Excel",7,-46.3264089,-23.9561304
+"103","Aug 14, 2011 at 1030 LT","Tzaneen, Limpopo","Piaggio P.166",7,30.1358346,-23.8319853
+"104","Apr 13, 2010 at 2318 LT","Monterrey, Nuevo León","Airbus A300",7,-100.3161126,25.6866142
+"105","Nov 27, 2008 at 1646 LT","Saint-Cyprien, Pyrénées-Orientales","Airbus A320",7,3.004182,42.61783
+"106","Oct 11, 2007 at 2022 LT","Bogotá, Bogotá Capital District","Beechcraft Super King Air 200",7,-74.072092,4.7109886
+"107","Nov 8, 2006 at 0950 LT","Nakhon Sawan, Nakhon Sawan ","Learjet 35",7,100.11996,15.6987382
+"108","Jul 2, 2004 at 1338 LT","Panama City, Panamá","IAI 1124 Westwind",7,-79.5198696,8.9823792
+"109","May 11, 2004","Dalang, South Kordofan ","Antonov AN-12",7,29.655711,12.0527239
+"110","Jan 17, 2003","Ndjolé, Moyen-Ogooué ","Antonov AN-26",7,10.7605239,-0.1882802
+"111","Dec 16, 2000 at 2130 LT","São Paulo, São Paulo","Rockwell Grand Commander 680",7,-46.6333094,-23.5505199
+"112","Oct 1, 1997 at 2145 LT","Chapecó, Santa Catarina","Embraer EMB-121 Xingu",7,-52.615699,-27.1009343
+"113","Jan 20, 2015 at 1540 LT","Shatyrkul, Jambyl","PZL-Mielec AN-2",6,NA,NA
+"114","Nov 19, 2013 at 1115 LT","Mouffy, Yonne","Socata TBM-700",6,3.514373,47.652129
+"115","Nov 9, 2012 at 1545 LT","Mende, Lozère","Casa C-295M",6,3.501873,44.517611
+"116","Jan 14, 2011 at 1750 LT","Goiânia, Goiás","Beechcraft Super King Air 200",6,-49.2647885,-16.6868824
+"117","Mar 1, 2010 at 1346 LT","Concepcion, Región del Biobío","Piper PA-31-350 Navajo Chieftain",6,-73.0443904,-36.8201352
+"118","Apr 9, 2009 at 0743 LT","Wamena, Special Region of Papua","BAe 146",6,138.9516853,-4.1001213
+"119","Apr 23, 2006 at 0455 LT","Kousséri, Far North","Antonov AN-74",6,15.0148322,12.087083
+"120","May 8, 2005 at 1927 LT","Córdoba, Córdoba","Piper PA-31-350 Navajo Chieftain",6,-64.1887761,-31.4200833
+"121","May 7, 2004 at 1500 LT","Jiech, Jonglei ","Let 410UVP",6,NA,NA
+"122","Nov 10, 1999 at 1200 LT","Mbandaka, Équateur","Antonov AN-12",6,18.2970692,0.0265717
+"123","Apr 7, 1999 at 0045 LT","Adana, Mediterranean Region ","Boeing 737-400",6,35.3308285,36.9914194
+"124","May 22, 1997","Serang, Banten","Casa-Nurtanio CN235 (IPTN)",6,106.1639749,-6.1103661
+"125","May 15, 1997","Gyandzha, Ganja-Gazakh","Yakovlev Yak-40",6,NA,NA
+"126","Aug 19, 2017 at 0016 LT","Naiguatá, Vargas","Learjet 25",5,-66.739712,10.6181274
+"127","Jul 5, 2017 at 1110 LT","Wamena, Special Region of Papua","Pilatus PC-6 (Porter & Turbo Porter)",5,138.9516853,-4.1001213
+"128","Apr 17, 2017 at 1213 LT","Cascais, Estremadura - Lisbon District","Piper PA-31 Cheyenne",5,-9.4207438,38.6967571
+"129","Dec 20, 2016 at 1723 LT","Puerto Carreño, Vichada","Boeing 727-200",5,-67.488462,6.184766
+"130","Jun 2, 2015 at 1435 LT","Santiago de Querétaro, Querétaro","Swearingen SA226AC Metro II",5,-100.3898881,20.5887932
+"131","Dec 12, 2014 at 0620 LT","Hokandara, Western Province ","Antonov AN-32",5,79.9696277,6.8743192
+"132","May 8, 2014 at 1202 LT","San Vincente del Caguán, Caquetá","Douglas DC-3",5,-74.7732056,2.1136446
+"133","Dec 4, 2013","Pukanu, Pará","Britten-Norman Islander",5,NA,NA
+"134","Feb 3, 2013 at 2030 LT","Cândido Mota, São Paulo","Beechcraft King Air 90",5,-50.3880476,-22.7466667
+"135","Dec 8, 2010 at 1200 LT","Ouarzazate, Souss-Massa-Drâa","Britten-Norman Islander",5,-6.937016,30.9335436
+"136","Nov 24, 2010 at 1436 LT","Monterrey, Nuevo León","Antonov AN-32",5,-100.3161126,25.6866142
+"137","Oct 24, 2008 at 1040 LT","Asunción, Distrito Capital","Cessna 402",5,-57.575926,-25.2637399
+"138","May 30, 2008 at 0940 LT","Tegucigalpa, Francisco Morazán","Airbus A320",5,-87.192136,14.0722751
+"139","Apr 8, 2008 at 0930 LT","Hanoi, Hà N","Antonov AN-26",5,105.8341598,21.0277644
+"140","Jun 11, 2006 at 1830 LT","Abéché, Ouaddaï","Lockheed C-130 Hercules",5,20.8433709,13.8359124
+"141","Dec 14, 2004 at 1230 LT","Monterrey, Nuevo León","Rockwell Aero Commander 685",5,-100.3161126,25.6866142
+"142","Aug 15, 2002 at 1235 LT","Colombo, Western Province ","Harbin Yunsunji Y-8",5,79.861243,6.9270786
+"143","Sep 17, 1999","Santa Lucia AFB, Los Reyes Acozac, México","Lockheed C-130 Hercules",5,-99.0129947,19.7513358
+"144","Apr 8, 1999 at 1130 LT","Málaga, Santander","De Havilland DHC-6 Twin Otter",5,-72.729891,6.703858
+"145","Apr 7, 1999 at 1147 LT","Ribeirão Preto, São Paulo","Learjet 24",5,-47.8103238,-21.1704008
+"146","Sep 10, 1998","Chaklala AFB ","Lockheed C-130 Hercules",5,NA,NA
+"147","Aug 19, 1998 at 1643 LT","Halfmoon Bay ","Cessna 402",5,-122.4285862,37.4635519
+"148","Mar 2, 1998 at 1505 LT","Chaitén, Región de Los Lagos","Cessna 401",5,-72.7167,-42.9167
+"149","Dec 20, 1997 at 0930 LT","Tanagra, Central Greece / Ste","Lockheed C-130 Hercules",5,NA,NA
+"150","Aug 20, 2015 at 0923 LT","Vršatec, Trencín Region","Let 410UVP",4,18.147161,49.067989
+"151","May 20, 2015","Puerto Colombia, Atlántico","Hawker 800XP",4,-74.950761,11.001004
+"152","Aug 23, 2014 at 1355 LT","Mulume Munene, Sud-Kivu","Let 410UVP",4,NA,NA
+"153","Jan 11, 2014 at 1200 LT","Trier-Föhren, Rhineland-Palatinate","Cessna 501 Citation I",4,6.7862758,49.8633681
+"154","Oct 5, 2013 at 0100 LT","Acandí, Chocó","De Havilland Dash-8-200",4,-77.27898,8.510109
+"155","Sep 24, 2013 at 1040 LT","Lyon-Bron, Rhône","Cessna 421C Golden Eagle III",4,4.911927,45.733316
+"156","Nov 6, 2012 at 1900 LT","Curitiba, Paraná","Piper PA-31 Cheyenne",4,-49.2653819,-25.4244287
+"157","Aug 24, 2012 at 1800 LT","Montbéliard, Doubs","Pilatus PC-12",4,6.798466,47.510356
+"158","Oct 25, 2011","Al Anad AFB ","Antonov",4,NA,NA
+"159","Apr 2, 2011 at 0934 LT","Roswell, New Mexico","Gulfstream G650",4,-104.5230242,33.3942655
+"160","Mar 31, 2009 at 1645 LT","Gdynia-Babie Doly AFB, Pomeranian Voivodeship ","PZL-Mielec AN-28",4,NA,NA
+"161","Jun 29, 2007 at 1033 LT","Bouaké, Vallée du Bandama","Fokker 100",4,-5.0390536,7.690466
+"162","Oct 26, 2006 at 1326 LT","Malmö, Skåne","Casa 212 Aviocar",4,13.003822,55.604981
+"163","Oct 19, 2006 at 0042 LT","Besançon, Doubs","Beechcraft King Air 90",4,6.0240539,47.237829
+"164","Mar 29, 2006","Chanthaburi, Chanthaburi ","Pilatus PC-6 (Porter & Turbo Porter)",4,102.1037806,12.6112485
+"165","Jul 13, 2003 at 1415 LT","San Cristobal, Táchira","Let 410UVP",4,-72.2261466,7.7713572
+"166","Jul 1, 2003 at 2330 LT","Belém, Pará","Mitsubishi MU-2 Marquise",4,-48.4901968,-1.4557794
+"167","May 21, 2003 at 1125 LT","Iwakuni AFB, Chugoku","Learjet 36",4,NA,NA
+"168","Aug 29, 2001 at 1016 LT","Málaga, Andalusia","Casa-Nurtanio CN235 (IPTN)",4,-4.4213988,36.7212737
+"169","May 18, 2001 at 1200 LT","Ankara, Central Anatolia Region ","Casa-Nurtanio CN235 (IPTN)",4,32.8597419,39.9333635
+"170","Oct 24, 2000 at 1716 LT","Donaueschingen, Baden-Württemberg","Beechcraft Super King Air 300",4,8.4979461,47.9521523
+"171","Jan 24, 2000","Ankara, Central Anatolia Region ","Beechcraft King Air 90",4,32.8597419,39.9333635
+"172","Jan 15, 2000 at 1310 LT","San José, San José ","Let 410UVP",4,-84.0907246,9.9280694
+"173","Jul 9, 1999 at 0430 LT","Toluca, México","BAe 125",4,-99.6556653,19.2826098
+"174","Apr 24, 1999","Haifa ","Pilatus PC-6 (Porter & Turbo Porter)",4,34.989571,32.7940463
+"175","Oct 21, 1998 at 0851 LT","Fortaleza, Ceará","Embraer EMB-120 Brasília",4,-38.5267393,-3.7319029
+"176","May 20, 1997 at 1835 LT","Mexico, Mexico","Rockwell 1121 Jet Commander",4,-99.133208,19.4326077
+"177","Mar 20, 1997","Juba, Central Equatoria ","Antonov AN-24",4,31.57125,4.859363
+"178","Feb 21, 1997 at 1045 LT","Colombo, Western Province ","Antonov AN-32",4,79.861243,6.9270786
+"179","Jan 20, 1997 at 0515 LT","Palaly, Northern Province ","Harbin Yunsunji Y-12",4,80.0898085,9.7982377
+"180","Feb 9, 2017","Thebephatshwa AFB, Kweneng District","Casa 212 Aviocar",3,NA,NA
+"181","Oct 9, 2016 at 1000 LT","Uchuquinua, Cajamarca","Cessna 207 Skywagon",3,NA,NA
+"182","Aug 20, 2015 at 0923 LT","Vršatec, Trencín Region","Let 410UVP",3,18.147161,49.067989
+"183","Aug 8, 2015 at 1003 LT","Cajicá, Cundinamarca","Cessna 402",3,-74.024773,4.917531
+"184","Aug 8, 2013 at 0940 LT","Clermont-Ferrand, Puy-de-Dôme","Socata TBM-850",3,3.087025,45.777222
+"185","Oct 12, 2012 at 1740 LT","Kacha NAS, Autonomous Republic of Crimea","Beriev Be-12",3,NA,NA
+"186","Aug 30, 2012 at 0915 LT","Hualien, Hualien County ","Britten-Norman Islander",3,121.6111949,23.9910732
+"187","Sep 22, 2011 at 1313 LT","Wamena, Special Region of Papua","Pilatus PC-6 (Porter & Turbo Porter)",3,138.9516853,-4.1001213
+"188","Sep 20, 2011 at 1630 LT","Cap Haïtien, North","Beechcraft 99",3,-72.2067681,19.7370362
+"189","Mar 10, 2010 at 1405 LT","Tegucigalpa, Francisco Morazán","Cessna 421 Golden Eagle",3,-87.192136,14.0722751
+"190","Jun 29, 2009 at 1601 LT","Wamena, Special Region of Papua","De Havilland DHC-6 Twin Otter",3,138.9516853,-4.1001213
+"191","Oct 17, 2008 at 1200 LT","Monterrey, Nuevo León","Cessna 402",3,-100.3161126,25.6866142
+"192","Jul 7, 2008 at 0352 LT","Bogotá, Bogotá Capital District","Boeing 747-200",3,-74.072092,4.7109886
+"193","Jul 2, 2008 at 1430 LT","Cochamó, Región de Los Lagos","De Havilland DHC-6 Twin Otter",3,-72.3084312,-41.4923218
+"194","Nov 18, 2005 at 1030 LT","Privacion, Belize","Britten-Norman Islander",3,NA,NA
+"195","Nov 4, 2005 at 0845 LT","Hanoi, Hà N","PZL-Mielec AN-28",3,105.8341598,21.0277644
+"196","Dec 24, 2004 at 0933 LT","Montpellier, Hérault","Beechcraft King Air 90",3,3.876716,43.610769
+"197","Oct 15, 2004 at 0746 LT","Medellín, Antioquia","Douglas DC-3",3,-75.5812119,6.244203
+"198","Dec 18, 2003 at 1700 LT","Mitú, Vaupés","Douglas DC-9",3,-70.233618,1.2521739
+"199","Sep 27, 2003 at 1857 LT","Gaspé, Quebec","Piper PA-31-350 Navajo Chieftain",3,-64.4869017,48.8316351
+"200","Dec 26, 2002 at 1120 LT","Curitiba, Paraná","Embraer EMB-110 Bandeirante",3,-49.2653819,-25.4244287
+"201","Apr 19, 2002 at 0853 LT","Popayán, Cauca","Antonov AN-32",3,-76.6147395,2.4448143
+"202","Nov 29, 2001 at 1148 LT","Quepos, Puntarenas ","Cessna 208 Caravan",3,-84.1619076,9.4318681
+"203","Feb 14, 2001 at 2300 LT","Kousséri, Far North","Piper PA-31 Cheyenne",3,15.0148322,12.087083
+"204","Jan 19, 2001 at 1100 LT","Kayseri, Central Anatolia Region ","Casa-Nurtanio CN235 (IPTN)",3,35.7406882,38.6256854
+"205","May 18, 2000 at 0947 LT","Moanda, Haut-Ogooué ","Beechcraft 1900C",3,13.2432632,-1.5370282
+"206","Jul 16, 1998 at 2140 LT","Córdoba, Córdoba","Rockwell Sabreliner 60",3,-64.1887761,-31.4200833
+"207","Mar 12, 1998","Valladolid, Castile and León","Casa 212 Aviocar",3,-4.7245321,41.652251
+"208","May 16, 1997 at 1600 LT","Monterrey, Nuevo León","Rockwell Sabreliner 40R",3,-100.3161126,25.6866142
+"209","Apr 1, 1997 at 1200 LT","Tegucigalpa, Francisco Morazán","Lockheed C-130 Hercules",3,-87.192136,14.0722751
+"210","Aug 14, 2017 at 1215 LT","Zemyo, Kansai","Socata TBM-700",2,NA,NA
+"211","Aug 8, 2017 at 1152 LT","Mainau Island, Baden-Württemberg","Piper PA-46 Malibu Meridian (Malibu Mirage)",2,9.195575,47.7054864
+"212","May 17, 2017 at 1526 LT","Toluca, México","Learjet 25",2,-99.6556653,19.2826098
+"213","Mar 31, 2017 at 1442 LT","Sorocaba, São Paulo","Piper PA-42 Cheyenne",2,-47.4525944,-23.5015338
+"214","Aug 1, 2016 at 0730 LT","Canaima, Bolívar","Piper PA-31-350 Navajo Chieftain",2,-62,5.5
+"215","Feb 1, 2016 at 0518 LT","Florianópolis, Santa Catarina","Socata TBM-900",2,-48.5482195,-27.5948698
+"216","Nov 17, 2015 at 1001 LT","Acandí, Chocó","Cessna 402",2,-77.27898,8.510109
+"217","Oct 3, 2015","Bogotá-Guaymaral, Bogotá Capital District","Piper PA-31-310 Navajo",2,-74.0709129,4.8164206
+"218","Dec 19, 2014","Champotón, Campeche","Learjet 25",2,-90.7200237,19.3471645
+"219","Nov 14, 2014 at 1020 LT","Panyagor, Jonglei ","Avro 748",2,31.4157958,7.3331109
+"220","Apr 9, 2014 at 0940 LT","Doyo Baru, Special Region of Papua","Quest Kodiak 100",2,NA,NA
+"221","Sep 9, 2013 at 0950 LT","Viña del Mar, Región de Valparaíso","Dornier DO228",2,-71.5500276,-33.0153481
+"222","Aug 5, 2013 at 1329 LT","Akureyri, Northeastern Region ","Beechcraft Super King Air 200",2,-18.1261694,65.6884921
+"223","Jun 25, 2013","Jérémie, Grand'Anse","Piper PA-31-350 Navajo Chieftain",2,-74.1181234,18.6389698
+"224","May 29, 2013 at 1540 LT","Sorocaba, São Paulo","Comp Air CA-8",2,-47.4525944,-23.5015338
+"225","Mar 6, 2013 at 1727 LT","Roskilde, Sjælland","Partenavia P.68",2,12.087845,55.64191
+"226","Feb 21, 2013","Santa Lucia AFB, Los Reyes Acozac, México","Pilatus PC-6 (Porter & Turbo Porter)",2,-99.0129947,19.7513358
+"227","Oct 3, 2012 at 1115 LT","Korupun, Special Region of West Papua","PAC 750XL - Pacific Aerospace Corporation",2,NA,NA
+"228","May 18, 2012 at 0150 LT","Iquique, Región de Tarapacá","Rockwell Shrike Commander 500S",2,-70.1356692,-20.2307033
+"229","Dec 17, 2011 at 0740 LT","Abmisibil, Special Region of Papua","PAC 750XL - Pacific Aerospace Corporation",2,NA,NA
+"230","Oct 4, 2011 at 1140 LT","Lutsel K'e, Northwest Territories","Cessna 208B Grand Caravan",2,-110.736935,62.405494
+"231","Sep 12, 2011 at 1345 LT","Del Norte, Nuevo León","Piper PA-31-350 Navajo Chieftain",2,-100.303487,25.7123781
+"232","Jul 28, 2011 at 0412 LT","Jeju, Jeju ","Boeing 747-400",2,126.5311884,33.4996213
+"233","Dec 19, 2010 at 1502 LT","Samedan, Graubünden","Raytheon 390 Premier I",2,9.8729339,46.5339944
+"234","Nov 4, 2010 at 1620 LT","Aix-en-Provence, Bouches-du-Rhône","Beechcraft King Air 90",2,5.447427,43.529742
+"235","Aug 16, 2010 at 0147 LT","San Andrés, Antioquia","Boeing 737-700",2,-75.67556,6.913245
+"236","Jan 25, 2010 at 1430 LT","Senador José Porfírio, Pará","Embraer EMB-110 Bandeirante",2,-51.9491551,-2.5863778
+"237","Mar 23, 2009 at 0649 LT","Tokyo-Narita, Kanto","McDonnell Douglas MD-11",2,140.3928501,35.7719867
+"238","Feb 12, 2009 at 1612 LT","Samedan, Graubünden","Dassault Falcon 10",2,9.8729339,46.5339944
+"239","Dec 3, 2008 at 1200 LT","Monteria, Córdoba","Rockwell Shrike Commander 500S",2,-75.8785348,8.750983
+"240","Mar 31, 2008 at 0700 LT","Lençois, Maranhão","Neiva NE-821 Carajá",2,-43.128407,-2.4859385
+"241","Nov 4, 2007 at 1200 LT","Santa Elena, Petén","Beechcraft King Air 100",2,-89.8926065,16.9181251
+"242","Oct 7, 2007 at 2140 LT","Santo Domingo, Mérida","Gulfstream GII",2,-70.6915699,8.8634466
+"243","Aug 22, 2007 at 0038 LT","Curitiba, Paraná","Embraer EMB-110 Bandeirante",2,-49.2653819,-25.4244287
+"244","Jul 23, 2007 at 1546 LT","Eubee Island, Central Greece / Ste","Canadair CL-415",2,NA,NA
+"245","Jul 5, 2007 at 1449 LT","Aerfort na Minna ","Cessna 208 Caravan",2,NA,NA
+"246","Dec 30, 2006 at 1730 LT","Culiacán Rosales, Sinaloa","Rockwell Sabreliner 40R",2,-107.3940117,24.8090649
+"247","Aug 11, 2006 at 1700 LT","Caño Negro, Cojedes","Cessna 207 Skywagon",2,-68.3613589,8.670116
+"248","Aug 11, 2006 at 1115 LT","La Serena, Región de Coquimbo","Piper PA-31-350 Navajo Chieftain",2,-71.2519374,-29.9026691
+"249","Feb 12, 2006 at 2115 LT","El Petén, Petén","Grumman G-159 Gulfstream GI",2,-90.2995785,16.912033
+"250","Jan 12, 2006 at 1826 LT","Freiburg im Breisgau, Baden-Württemberg","Beechcraft Super King Air 350",2,7.8421043,47.9990077
+"251","Aug 20, 2005 at 1000 LT","Aubenas, Ardèche","Grumman S-2 Tracker",2,4.389863,44.620909
+"252","Mar 8, 2005 at 1200 LT","La Paragua, Bolívar","PZL-Mielec AN-2",2,-63.3505606,6.8352019
+"253","Feb 22, 2005 at 1343 LT","Bimin, Western ","De Havilland DHC-6 Twin Otter",2,-80.1810802,26.7080111
+"254","Feb 11, 2005 at 2110 LT","Toluca, México","Rockwell Aero Commander 685",2,-99.6556653,19.2826098
+"255","Dec 21, 2004 at 1219 LT","Galapagos Islands, Galápagos","Partenavia P.68",2,-90.9656019,-0.9537691
+"256","Oct 16, 2004 at 1530 LT","Coron Island, Palawan","Britten-Norman Islander",2,120.2397336,11.9283293
+"257","Aug 3, 2004","La Ceiba, Atlántida","Rockwell Aero Commander 700",2,-86.7919009,15.770288
+"258","Jun 28, 2004 at 1710 LT","São Sebastião, Nampula","Beechcraft Super King Air 200",2,40.7435752,-15.0288462
+"259","May 5, 2004 at 1630 LT","Vallecillos, Nuevo León","Britten-Norman Islander",2,-99.9872936,26.6595908
+"260","Feb 23, 2004","Teresina, Piauí","Embraer EMB-820 Navajo",2,-42.8037597,-5.0920108
+"261","Aug 12, 2003","Seoul, Seoul ","Beechcraft Super King Air 200",2,126.9779692,37.566535
+"262","Feb 13, 2003 at 0843 LT","Florencia, Caquetá","Cessna 208 Caravan",2,-75.6042364,1.6153858
+"263","Dec 21, 2002 at 0152 LT","Makung, Penghu County ","ATR72-200",2,119.5774616,23.5706269
+"264","Jul 1, 2002 at 2335 LT","Konstanz, Baden-Württemberg","Boeing 757",2,9.1732384,47.6779496
+"265","Feb 14, 2002 at 1720 LT","Samedan, Graubünden","Beechcraft Super King Air 300",2,9.8729339,46.5339944
+"266","Dec 20, 2001 at 2206 LT","Zurich, Zurich","Cessna 560 Citation V",2,8.541694,47.3768866
+"267","Mar 6, 2001 at 0857 LT","Keflavik, Southern Peninsula ","Rockwell Aero Commander 500",2,-22.5582716,63.9997549
+"268","Jan 11, 2001","Jequié, Bahia","Embraer EMB-820 Navajo",2,-40.0837763,-13.8590592
+"269","Sep 6, 2000 at 0903 LT","Aubenas, Ardèche","Lockheed C-130 Hercules",2,4.389863,44.620909
+"270","Jul 15, 2000","Volos, Thessaly / Tessa","Canadair CL-215",2,NA,NA
+"271","May 2, 2000 at 1439 LT","Lyon, Rhône","Learjet 35",2,4.835659,45.764043
+"272","Apr 2, 2000 at 1440 LT","Münster-Osnabrück, North Rhine-Westphalia","Cessna 441 Conquest",2,7.6861545,52.1336691
+"273","Dec 22, 1999 at 1830 LT","Monterrey, Nuevo León","Cessna 414 Chancellor",2,-100.3161126,25.6866142
+"274","Sep 14, 1999 at 2130 LT","Monte Dourado, Pará","Embraer EMB-110 Bandeirante",2,-52.5349937,-0.8678172
+"275","Sep 5, 1999 at 1700 LT","Issoire, Puy-de-Dôme","Dassault M.D.315 Flamant",2,3.248128,45.54151
+"276","Jun 30, 1999 at 0441 LT","Liège, Liège","Beechcraft 99",2,5.5796662,50.6325574
+"277","Mar 23, 1999 at 1910 LT","Franca, São Paulo","Beechcraft King Air 90",2,-47.4013437,-20.5393288
+"278","Dec 16, 1998 at 0730 LT","Tegucigalpa, Francisco Morazán","Piper PA-31-350 Navajo Chieftain",2,-87.192136,14.0722751
+"279","Dec 5, 1998 at 1210 LT","Istanbul, Marmara Region ","Beechcraft Super King Air 350",2,28.9783589,41.0082376
+"280","Sep 18, 1998","San José, San José ","Piper PA-31-350 Navajo Chieftain",2,-84.0907246,9.9280694
+"281","May 26, 1998 at 0615 LT","Brno, Moravian-Silesian Region ","Pilatus PC-12",2,18.007394,49.6060661
+"282","May 1, 1998 at 1630 LT","Alençon, Orne","Beechcraft King Air 90",2,0.091266,48.432856
+"283","Jan 13, 1998 at 1832 LT","Brno, Moravian-Silesian Region ","Let 410UVP",2,18.007394,49.6060661
+"284","Jul 21, 1997 at 1308 LT","Ranong, Ranong ","Learjet 31",2,98.6084641,9.9528702
+"285","Feb 1, 1997","Cagayán de Oro, Misamis Oriental","Cessna 500 Citation",2,124.6318977,8.4542363
+"286","Jul 25, 2017 at 1748 LT","Eteringbang, Guyana","Britten-Norman Islander",1,NA,NA
+"287","Apr 12, 2017 at 1245 LT","Oksibil, Special Region of Papua","Cessna 208 Caravan",1,NA,NA
+"288","Mar 5, 2017 at 1916 LT","Kamphaeng Saen, Nakhon Pathom ","Pilatus PC-12",1,99.9465077,14.0340841
+"289","Nov 24, 2016 at 1200 LT","Zielona Góra-Przylep, Lubusz Voivodeship ","Piper PA-31-310 Navajo",1,15.4496511,51.9686735
+"290","Aug 12, 2015 at 0845 LT","Ninia, Special Region of Papua","PAC 750XL - Pacific Aerospace Corporation",1,NA,NA
+"291","Aug 9, 2015 at 1415 LT","Barkárdal, Northeastern Region ","De Havilland DHC-2 Beaver",1,NA,NA
+"292","Aug 1, 2015 at 0740 LT","Stancu","PZL-Mielec AN-2",1,-87.695534,41.8608202
+"293","Jun 20, 2015 at 1256 LT","Nuquí, Chocó","Cessna 303 Crusader",1,-77.2666969,5.709563
+"294","Jun 8, 2015 at 1700 LT","Ukrainka AFB, Amur oblast","Tupolev TU-95",1,NA,NA
+"295","Aug 1, 2013 at 1200 LT","Eilat ","Piper PA-31-350 Navajo Chieftain",1,34.951925,29.557669
+"296","Jun 10, 2013 at 1000 LT","N'Gaoundéré, Adamaoua","Cessna 208 Caravan",1,13.5668302,7.3381488
+"297","Apr 7, 2013 at 1613 LT","Sao Tomé, Água Grande","Beechcraft 1900C",1,6.733343,0.3301924
+"298","Jul 22, 2012 at 1200 LT","Bolshoe Gryzlovo, Moscow oblast","Let 410UVP",1,NA,NA
+"299","Apr 20, 2012 at 1430 LT","Jundiaí, São Paulo","Beechcraft King Air 90",1,-46.8978057,-23.1857076
+"300","Nov 23, 2011 at 0942 LT","Bilogai-Sugapa, Special Region of Papua","Cessna 208B Grand Caravan",1,NA,NA
+"301","Nov 10, 2011 at 1414 LT","Ecuvillens, Fribourg","Piper PA-31-350 Navajo Chieftain",1,7.083334,46.750004
+"302","Nov 9, 2011 at 0915 LT","Lyon, Rhône","Socata TBM-700",1,4.835659,45.764043
+"303","Sep 3, 2011 at 1200 LT","Vinnitsa, Vinnytsia Oblast","PZL-Mielec AN-2",1,28.4682169,49.233083
+"304","Aug 22, 2011 at 1200 LT","Choigan-Khole Lake, Republic of Tuva","PZL-Mielec AN-2",1,NA,NA
+"305","May 2, 2011 at 0809 LT","Miami-Opa Locka, Florida","Beechcraft E18",1,-80.2503271,25.9023168
+"306","Dec 20, 2010 at 1700 LT","Wynella Station, Queensland","Fletcher FU-24",1,NA,NA
+"307","Aug 5, 2010 at 2216 LT","Bequia Island, SV&G","Cessna 402",1,NA,NA
+"308","Feb 12, 2010 at 1700 LT","Cascais, Estremadura - Lisbon District","PAC 750XL - Pacific Aerospace Corporation",1,-9.4207438,38.6967571
+"309","Oct 6, 2009 at 1938 LT","Umgalala, White Nile ","PZL-Mielec AN-2",1,NA,NA
+"310","Aug 4, 2009 at 1430 LT","Koh Samui, Surat Thani ","ATR72-200",1,100.0135929,9.5120168
+"311","Jun 6, 2009 at 1300 LT","Santa Rosa del Toachi, Santo Domingo de los Tsáchilas","Cessna 303 Crusader",1,-79.1578704,-0.2488603
+"312","May 10, 2009 at 0200 LT","Útila, Islas de la Bahía","BAe Jetstream 31",1,-86.9273532,16.0949604
+"313","Apr 17, 2009 at 1532 LT","Canaima, Bolívar","Cessna 208 Caravan",1,-62,5.5
+"314","Mar 6, 2009 at 1000 LT","Lop Buri AFB, Lop Buri ","GAF Nomad N22",1,100.6634116,14.8745747
+"315","Dec 14, 2008 at 1200 LT","Tarata, Taranaki Regional Council","PAC Cresco 08-600",1,NA,NA
+"316","Oct 12, 2008 at 1200 LT","Bauru, São Paulo","Beechcraft King Air 100",1,-49.0586951,-22.314459
+"317","Aug 16, 2008 at 1030 LT","Tukums, Semigallia ","Piper PA-31-350 Navajo Chieftain",1,NA,NA
+"318","Aug 9, 2008 at 2000 LT","Ndundu, Special Region of Papua","Pilatus PC-6 (Porter & Turbo Porter)",1,NA,NA
+"319","Jun 7, 2008 at 1345 LT","Yeco, Región de Valparaíso","Cessna 208 Caravan",1,-71.6450828,-33.3073363
+"320","Jan 11, 2008 at 1200 LT","Trbovlje, Central Sava ","PZL-Mielec AN-2",1,NA,NA
+"321","Feb 12, 2007 at 1020 LT","Zweibrücken, Rhineland-Palatinate","Piper PA-31 Cheyenne",1,7.3634022,49.2450528
+"322","Jan 25, 2007 at 1124 LT","Pau, Pyrénées-Atlantiques","Fokker 100",1,-0.370797,43.2951
+"323","Jan 7, 2007 at 2002 LT","Sandy Bay, Saskatchewan","Beechcraft King Air 100",1,-102.315742,55.525592
+"324","Apr 16, 2006 at 1137 LT","Guayaramerín, Beni","Fokker F27 Friendship",1,-65.3688335,-10.8237579
+"325","Sep 1, 2005 at 1630 LT","Elross Lake, Quebec","De Havilland DHC-2 Beaver",1,NA,NA
+"326","Mar 29, 2005","Itaituba, Pará","Cessna 208 Caravan",1,-55.9931173,-4.2670701
+"327","Aug 20, 2004 at 1334 LT","Clarkson-Ledgedale, New York","Piper PA-31-350 Navajo Chieftain",1,NA,NA
+"328","May 19, 2004 at 1040 LT","Bozoy, Aktobe","PZL-Mielec AN-2",1,NA,NA
+"329","Jan 28, 2004 at 2055 LT","Ghardaïa, Ghardaïa","Beechcraft 1900D",1,3.6738412,32.4902246
+"330","Oct 11, 2003 at 1600 LT","Urimán, Bolívar","PZL-Mielec AN-2",1,-62.65,5.35
+"331","Aug 8, 2003 at 0932 LT","Tocomita ","Cessna 208 Caravan",1,-63.2752175,7.4274505
+"332","Jul 23, 2003 at 0840 LT","Sorocaba, São Paulo","Cessna 551 Citation II",1,-47.4525944,-23.5015338
+"333","Jun 22, 2003 at 2351 LT","Brest, Finistère","Canadair RegionalJet CRJ-100",1,-4.486076,48.390394
+"334","Feb 28, 2003 at 1115 LT","Uyuni, Potosí","Cessna 411",1,-66.8260649,-20.4603534
+"335","Dec 27, 2002 at 1215 LT","Mutsamudu, Comoros Islands","Let 410UVP",1,NA,NA
+"336","Nov 25, 2000 at 0604 LT","Córdoba, Andalusia","Aérospatiale SN.601 Corvette",1,-4.7793835,37.8881751
+"337","Oct 20, 2000 at 0800 LT","Mannheim, Baden-Württemberg","Cessna 303 Crusader",1,8.4660395,49.4874592
+"338","Sep 9, 2000 at 1800 LT","Manta, Manabí","Dornier DO.28D Skyservant",1,-80.7089101,-0.9676533
+"339","Jul 8, 2000 at 0455 LT","Antillean Sea, World","Cessna 402",1,NA,NA
+"340","Jun 29, 2000","Kamina, Gulf","Cessna 402",1,NA,NA
+"341","Apr 1, 2000 at 0800 LT","Estancia Las Cruces, Buenos Aires province","Cessna 208 Caravan",1,NA,NA
+"342","Mar 21, 2000","Bursa, Marmara Region ","Beechcraft King Air 90",1,29.2320784,40.0655459
+"343","Oct 2, 1998 at 0945 LT","Canaima, Bolívar","Douglas DC-3",1,-62,5.5
+"344","Sep 18, 1998 at 1428 LT","Antillean Sea, World","GAF Nomad N22",1,NA,NA
+"345","Nov 17, 1997 at 1200 LT","Marseille, Bouches-du-Rhône","Canadair CL-415",1,5.36978,43.296482
+"346","Feb 14, 1997 at 1234 LT","Carajas, Pará","Boeing 737-200",1,-50.0666951,-6.0703064
+"347","Jul 29, 2017 at 0910 LT","Sao Tomé, Água Grande","Antonov AN-74",0,6.733343,0.3301924
+"348","Jul 18, 2017 at 1239 LT","Wamena, Special Region of Papua","Boeing 737-300",0,138.9516853,-4.1001213
+"349","Jun 3, 2017 at 1030 LT","Garbaharey, Geedo ","Fokker F27 Friendship",0,42.2189781,3.3304072
+"350","Apr 1, 2017 at 1030 LT","Yei, Central Equatoria ","Let 410UVP",0,30.6775054,4.0952713
+"351","Mar 30, 2017","La Paragua, Bolívar","PZL-Mielec AN-2",0,-63.3505606,6.8352019
+"352","Mar 28, 2017 at 1628 LT","Jauja, Junín","Boeing 737-300",0,-75.4869033,-11.7806236
+"353","Mar 20, 2017 at 1500 LT","Wau, Western Bahr el Ghazal ","Antonov AN-26",0,27.9834738,7.7091884
+"354","Feb 15, 2017 at 2000 LT","Chichén Itzá, Yucatán","Piper PA-46 Malibu Meridian (Malibu Mirage)",0,-88.5677826,20.6842849
+"355","Oct 11, 2016 at 1638 LT","Belaya Gora, Republic of Yakutia ","Antonov AN-26",0,146.229003,68.5561496
+"356","Sep 13, 2016","Wamena, Special Region of Papua","Boeing 737-300",0,138.9516853,-4.1001213
+"357","Jun 26, 2016 at 1109 LT","Dervenochoria, Central Greece / Ste","Canadair CL-215",0,NA,NA
+"358","Jun 14, 2016 at 0758 LT","Lolat, Special Region of Papua","Cessna 208B Grand Caravan",0,NA,NA
+"359","Apr 6, 2016 at 0625 LT","Puerto Gaitán, Casanare","Douglas DC-3",0,-71.45001,6.25002
+"360","Mar 18, 2016 at 1630 LT","Oeiras, Piauí","Beechcraft King Air 90",0,-42.1572702,-7.0386232
+"361","Jan 30, 2016 at 0738 LT","Santiago de Querétaro, Querétaro","Rockwell Sabreliner 75",0,-100.3898881,20.5887932
+"362","Nov 2, 2015","Koussané, Kayes","Fokker F27 Friendship",0,-11.2339605,14.8849445
+"363","Oct 12, 2015 at 1930 LT","Afgooye, Shabeellaha Hoose ","Airbus A300",0,45.1167167,2.1426226
+"364","Sep 30, 2015 at 1016 LT","Saarbrücken, Saarland","De Havilland Dash-8-400",0,6.9969327,49.2401572
+"365","Sep 25, 2015 at 1200 LT","Déline, Northwest Territories","Curtiss C-46",0,-123.4227517,65.1888507
+"366","Jul 2, 2015 at 1709 LT","Kuredu Island, North Central Province","De Havilland DHC-6 Twin Otter",0,NA,NA
+"367","Jun 25, 2015 at 1309 LT","Okcheon, North Chungcheong ","Antonov AN-2",0,127.5712809,36.3063646
+"368","May 21, 2015","Monterrey-Del Norte, Nuevo León","Cessna 421 Golden Eagle",0,-100.303487,25.7123781
+"369","May 19, 2015","Mandeng, Upper Nile ","Cessna 208 Caravan",0,NA,NA
+"370","Apr 25, 2015 at 1041 LT","Istanbul-Atatürk, Marmara Region ","Airbus A320",0,28.8104425,40.9829888
+"371","Mar 4, 2015 at 1515 LT","Wamena, Special Region of Papua","BAe ATP",0,138.9516853,-4.1001213
+"372","Jul 28, 2014 at 1500 LT","Foz do Iguaçu, Paraná","Embraer EMB-110 Bandeirante",0,-54.5853764,-25.5163356
+"373","Jun 13, 2014","Aruanã, Goiás","Cessna 525 CJ1",0,-51.075466,-14.9170433
+"374","Jun 2, 2014 at 1700 LT","Bahía Solano, Chocó","Beechcraft Super King Air 200",0,-77.401154,6.222552
+"375","Apr 27, 2014","Deán Funes, Córdoba","Piper PA-31-350 Navajo Chieftain",0,-64.349403,-30.4240924
+"376","Apr 20, 2014","Guriceel, Galgaduud ","Fokker 50",0,45.8802073,5.303435
+"377","Dec 19, 2013 at 2100 LT","Viña del Mar, Región de Valparaíso","Beechcraft King Air 90",0,-71.5500276,-33.0153481
+"378","Nov 30, 2013","Omega AFB, Kavango Region","Antonov AN-26",0,NA,NA
+"379","Aug 25, 2013 at 1604 LT","Guriceel, Galgaduud ","Antonov AN-26",0,45.8802073,5.303435
+"380","Jul 21, 2013 at 0635 LT","Pyatikhatki, Autonomous Republic of Crimea","PZL-Mielec AN-2",0,NA,NA
+"381","Jul 19, 2013 at 1234 LT","Panama City, Panamá","Britten-Norman Islander",0,-79.5198696,8.9823792
+"382","May 31, 2013 at 0709 LT","Wamena, Special Region of Papua","BAe ATP",0,138.9516853,-4.1001213
+"383","Apr 6, 2013 at 1200 LT","Morelia, Michoacán","Cessna 421B Golden Eagle II",0,-101.1949825,19.7059504
+"384","Feb 28, 2013","Wau, Western Bahr el Ghazal ","Let 410UVP",0,27.9834738,7.7091884
+"385","Dec 31, 2012 at 1014 LT","San Pedro Sula, Cortés","BAe Jetstream 31",0,-87.9922684,15.5149204
+"386","Nov 21, 2012 at 1331 LT","Deputatsky, Republic of Yakutia ","Antonov AN-26",0,NA,NA
+"387","Nov 19, 2012","Yida, Unity ","Antonov AN-26",0,30.0829075,10.1055751
+"388","Nov 15, 2012 at 1700 LT","Aweil, Northern Bahr el Ghazal ","Fokker 50",0,27.3998369,8.7670867
+"389","Nov 11, 2012 at 1727 LT","São Paulo, São Paulo","Cessna 525 CJ3",0,-46.6333094,-23.5505199
+"390","Oct 28, 2012 at 1200 LT","Bir Kalait, Wadi Fira","Beechcraft 1900D",0,NA,NA
+"391","Oct 14, 2012 at 0400 LT","Antalya, Mediterranean Region ","Boeing 737-800",0,30.7133233,36.8968908
+"392","Oct 13, 2012 at 1954 LT","Campinas-Viracopos, São Paulo","McDonnell Douglas MD-11",0,-47.1375685,-23.008205
+"393","Sep 15, 2012 at 1340 LT","Rønne ","Learjet 24",0,14.708329,55.101017
+"394","Jul 24, 2012 at 1610 LT","Jacarepaguá, Rio de Janeiro","Piper PA-31-350 Navajo Chieftain",0,-43.3907025,-22.9681736
+"395","Jul 4, 2012 at 1900 LT","El Palomar AFB, Buenos Aires province","Rockwell Sabreliner 75",0,NA,NA
+"396","Jul 1, 2012 at 1045 LT","Bollullos de la Mitación-La Juliana, Andalusia","Technoavia SM-92 Turbo Finist",0,-6.169176,37.314636
+"397","May 25, 2012 at 1710 LT","Lézignan-Corbières, Aude","Cessna 208B Grand Caravan",0,2.7577759,43.200503
+"398","May 23, 2012 at 1150 LT","Cáslav, Central Bohemian Region ","Antonov AN-30",0,15.3907936,49.9108953
+"399","Apr 15, 2012","Yida, Unity ","Fokker F27 Friendship",0,30.0829075,10.1055751
+"400","Apr 2, 2012","Doro, Upper Nile ","Avro 748",0,32.2749747,30.5976048
+"401","Mar 29, 2012 at 0945 LT","Wau, Western Bahr el Ghazal ","Fokker 50",0,27.9834738,7.7091884
+"402","Mar 23, 2012 at 1500 LT","Phanom Thuan, Kanchanaburi ","Pilatus PC-6 (Porter & Turbo Porter)",0,99.6786894,14.136869
+"403","Feb 9, 2012 at 1200 LT","Punto Fijo, Falcón","Cessna 402",0,-70.1813018,11.711511
+"404","Dec 18, 2011 at 1502 LT","Walan Rabat, Zabul","PZL-Mielec AN-28",0,NA,NA
+"405","Oct 12, 2011 at 0800 LT","Port Gentil, Ogooué-Maritime ","Embraer EMB-120 Brasília",0,8.7591311,-0.7351026
+"406","Oct 10, 2011 at 1315 LT","Antalya, Mediterranean Region ","Boeing 737-400",0,30.7133233,36.8968908
+"407","Oct 7, 2011 at 1730 LT","Manhuaçu, Minas Gerais","Cessna 550 Citation II",0,-42.030947,-20.2555875
+"408","Oct 3, 2011","Newnan, Georgia","Dassault Falcon 20",0,-84.7996573,33.3806716
+"409","Sep 26, 2011 at 0855 LT","Puerto Ordaz, Bolívar","Douglas DC-9",0,-62.7676633,8.2750921
+"410","Sep 4, 2011 at 1535 LT","Ottawa, Ontario","Embraer ERJ-145",0,-75.6971931,45.4215296
+"411","Aug 8, 2011 at 1420 LT","Blagoveshchensk, Amur oblast","Antonov AN-24",0,127.5404017,50.2727763
+"412","Jul 30, 2011 at 0132 LT","Georgetown, Guyana","Boeing 737-800",0,-58.1551255,6.8012793
+"413","Jul 14, 2011","Port Harcourt, Rivers","Cessna 560XLS Citation Excel",0,7.0498442,4.815554
+"414","Jun 16, 2011 at 0950 LT","Zaraza, Guárico","Piper PA-31-350 Navajo Chieftain",0,-65.3261218,9.3507596
+"415","Apr 20, 2011","Bahía Blanca, Buenos Aires province","Grumman S-2 Tracker",0,-62.2663478,-38.7183177
+"416","Apr 15, 2011 at 1200 LT","Valparaíso, Región de Valparaíso","Piper PA-31-350 Navajo Chieftain",0,-71.6126885,-33.047238
+"417","Mar 4, 2011 at 1609 LT","Nuuk ","De Havilland Dash-8-100",0,-51.6941381,64.1814099
+"418","Feb 25, 2011 at 1700 LT","Arapongas, Paraná","Embraer EMB-820 Navajo",0,-51.4264048,-23.4157731
+"419","Feb 21, 2011 at 1930 LT","Altamira, Pará","ATR72-200",0,-52.2104006,-3.1986664
+"420","Jan 19, 2011","Tharjath, Unity ","Cessna 208B Grand Caravan",0,30.316667,8.466667
+"421","Dec 12, 2010 at 2140 LT","Londrina, Paraná","Beechcraft King Air 90",0,-51.1695824,-23.3044524
+"422","Nov 13, 2010 at 1602 LT","Andahuaylas, Apurímac","Swearingen SA227AC Metro III",0,-73.3767641,-13.6616515
+"423","Nov 5, 2010 at 1423 LT","Huánuco, Huánuco","Swearingen SA227AC Metro III",0,-76.2432653,-9.9298454
+"424","Sep 5, 2010 at 1526 LT","Pointe-à-Pitre, Guadeloupe","Cessna 208B Grand Caravan",0,-61.5340424,16.2376869
+"425","Aug 25, 2010 at 1440 LT","Vitória da Conquista, Bahia","Embraer ERJ-145",0,-40.8445346,-14.8619237
+"426","Jul 28, 2010 at 1200 LT","Camp Dwyer AFB, Helmand","Antonov AN-12",0,NA,NA
+"427","Jul 27, 2010 at 1138 LT","Riyadh, Mantiqat ar Riya","McDonnell Douglas MD-11",0,46.6752957,24.7135517
+"428","Jun 4, 2010 at 1200 LT","Sharana AFB, Parwan","Lockheed C-130 Hercules",0,NA,NA
+"429","May 19, 2010 at 0530 LT","Cascavel, Paraná","Embraer EMB-110 Bandeirante",0,-53.4595112,-24.9577771
+"430","May 10, 2010 at 1719 LT","Alert AFB, Nunavut","De Havilland DHC-6 Twin Otter",0,NA,NA
+"431","May 5, 2010 at 1049 LT","Mitú, Vaupés","Embraer ERJ-145",0,-70.233618,1.2521739
+"432","Jan 28, 2010 at 1251 LT","Wamena, Special Region of Papua","Antonov AN-26",0,138.9516853,-4.1001213
+"433","Jan 15, 2010 at 1407 LT","Les Eplatures, Neuchâtel","Beechcraft King Air 90",0,6.7967059,47.0850198
+"434","Jan 4, 2010 at 0910 LT","Heglig, South Kordofan ","Antonov AN-12",0,29.4063234,10.002559
+"435","Dec 1, 2009 at 1200 LT","São Paulo, São Paulo","Boeing 727-200",0,-46.6333094,-23.5505199
+"436","Nov 5, 2009 at 1534 LT","Fort Pierce, Florida","Grumman G-64 Albatross",0,-80.3256056,27.4467056
+"437","Oct 16, 2009 at 1140 LT","Kangerlussuaq ","Piaggio P.180 Avanti",0,-50.7211501,67.0094782
+"438","Sep 28, 2009 at 1240 LT","Ozuki AFB, Chugoku","NAMC YS-11",0,NA,NA
+"439","Jul 6, 2009 at 0950 LT","Sarif-Umra, North Darfur ","PZL-Mielec AN-28",0,NA,NA
+"440","Jun 27, 2009","Salerno AFB, Khost","BAe Jetstream 31",0,NA,NA
+"441","Jun 26, 2009 at 1726 LT","Capurganá, Chocó","Let 410UVP",0,-77.343621,8.634648
+"442","Jun 9, 2009 at 1300 LT","Kadamdzhayskom, Batken Province","PZL-Mielec AN-2",0,NA,NA
+"443","May 28, 2009 at 1055 LT","Quevedo, Los Ríos","De Havilland DHC-5 Buffalo",0,-79.4604035,-1.0225124
+"444","May 8, 2009 at 1556 LT","Riyadh, Mantiqat ar Riya","McDonnell Douglas MD-90",0,46.6752957,24.7135517
+"445","May 4, 2009 at 1430 LT","Seongnam AFB ","Antonov AN-2",0,127.1081565,37.4420547
+"446","Mar 26, 2009","Dolinsk-Sokol AFB, Sakhalin oblast","Tupolev TU-134",0,NA,NA
+"447","Feb 18, 2009 at 1510 LT","Medellín, Antioquia","Basler BT-67",0,-75.5812119,6.244203
+"448","Feb 12, 2009 at 1825 LT","Heraklion, Crete / ","BAe Jetstream 31",0,25.1442126,35.3387352
+"449","Nov 6, 2008 at 1033 LT","Fakfak, Special Region of West Papua","Dornier DO328",0,NA,NA
+"450","Sep 3, 2008 at 1436 LT","São Paulo, São Paulo","Beechcraft King Air 90",0,-46.6333094,-23.5505199
+"451","Aug 31, 2008 at 0735 LT","Yaxcaba, Yucatán","Cessna 208 Caravan",0,-88.8276919,20.5478862
+"452","Aug 29, 2008","Osinovy Mys, Krasnoyarsk Krai","PZL-Mielec AN-2",0,NA,NA
+"453","Jul 26, 2008","San Andrés, Antioquia","Cessna 414 Chancellor",0,-75.67556,6.913245
+"454","Jul 15, 2008","São José dos Campos, São Paulo","Beechcraft Beechjet 400",0,-45.9009074,-23.223701
+"455","Jul 1, 2008","Divinópolis, Minas Gerais","Cessna 208B Grand Caravan",0,-44.8916447,-20.1451261
+"456","Mar 19, 2008 at 1745 LT","Mannheim, Baden-Württemberg","Dornier DO328",0,8.4660395,49.4874592
+"457","Mar 6, 2008 at 0920 LT","Wamena, Special Region of Papua","Transall C-160",0,138.9516853,-4.1001213
+"458","Feb 2, 2008","Lomé, Maritime","Boeing 747-200",0,1.2313618,6.1724969
+"459","Jan 28, 2008 at 2302 LT","Bogotá, Bogotá Capital District","De Havilland Dash-8-200",0,-74.072092,4.7109886
+"460","Jan 3, 2008 at 1125 LT","Bahia Piña, Darién","Britten-Norman Islander",0,-78.2011484,7.5851775
+"461","Nov 5, 2007 at 0850 LT","Culiacán Rosales, Sinaloa","Cessna 208 Caravan",0,-107.3940117,24.8090649
+"462","Oct 31, 2007 at 1540 LT","Panama City, Panamá","Fokker F27 Friendship",0,-79.5198696,8.9823792
+"463","Oct 11, 2007 at 1929 LT","Istanbul, Marmara Region ","McDonnell Douglas MD-83",0,28.9783589,41.0082376
+"464","Oct 4, 2007 at 1844 LT","Istanbul, Marmara Region ","Canadair CL-215",0,28.9783589,41.0082376
+"465","Sep 24, 2007 at 1200 LT","Tixkokob, Yucatán","Gulfstream GII",0,-89.393793,21.0032395
+"466","Sep 12, 2007 at 0136 LT","Vilnius, Dzukija ","De Havilland Dash-8-400",0,25.2645288,54.6481364
+"467","Sep 3, 2007","San José, San José ","Rockwell Sabreliner 75",0,-84.0907246,9.9280694
+"468","Aug 27, 2007 at 0950 LT","Mitú, Vaupés","Antonov AN-32",0,-70.233618,1.2521739
+"469","Aug 26, 2007 at 1200 LT","La Ceiba, Atlántida","Britten-Norman Islander",0,-86.7919009,15.770288
+"470","Aug 22, 2007 at 1510 LT","Pasto, Nariño","Antonov AN-26",0,-77.285787,1.2058837
+"471","Aug 12, 2007 at 0938 LT","Busan, Busan ","De Havilland Dash-8-400",0,129.0756416,35.1795543
+"472","Jul 21, 2007 at 1655 LT","Rio Antabari, Bolívar","Cessna 208 Caravan",0,NA,NA
+"473","Jul 16, 2007 at 1242 LT","São Paulo, São Paulo","ATR42-300",0,-46.6333094,-23.5505199
+"474","Apr 9, 2007 at 1130 LT","Ouani, Comoros Islands","Let 410UVP",0,NA,NA
+"475","Mar 23, 2007 at 1349 LT","Istanbul, Marmara Region ","Airbus A300",0,28.9783589,41.0082376
+"476","Dec 19, 2006","Monterrey, Nuevo León","Rockwell Sabreliner 40R",0,-100.3161126,25.6866142
+"477","Dec 12, 2006","Kenana, West Kurdufan ","Fokker 50",0,29.083333,12.383333
+"478","Nov 15, 2006","Mérida, Yucatán","Casa 212 Aviocar",0,-89.5925857,20.9673702
+"479","Oct 30, 2006 at 1430 LT","Punta Pájaros, Quintana Roo","Cessna 208 Caravan",0,NA,NA
+"480","Oct 15, 2006","Alek, South Sudan","Avro 748",0,NA,NA
+"481","Oct 10, 2006 at 1400 LT","Mamit, Special Region of Papua","De Havilland DHC-4 Caribou",0,NA,NA
+"482","Aug 17, 2006 at 0054 LT","Bogotá, Bogotá Capital District","Boeing 727-200",0,-74.072092,4.7109886
+"483","Jul 10, 2006 at 1200 LT","Simferopol-Gvardeyskoye AFB, Autonomous Republic of Crimea","Tupolev TU-134",0,NA,NA
+"484","Jun 26, 2006 at 0958 LT","Barcelona, Anzoátegui","BAe 125",0,-64.67768,10.1445691
+"485","Jun 7, 2006 at 0702 LT","Medellín, Antioquia","Boeing 747-200",0,-75.5812119,6.244203
+"486","Jun 1, 2006 at 0755 LT","Bocas del Toro, Colón","BAe Jetstream 31",0,-82.269193,9.4047951
+"487","May 6, 2006 at 2000 LT","Mersin, Mediterranean Region ","PZL-Mielec AN-2",0,34.6414811,36.8121041
+"488","Mar 23, 2006","Talil AFB, Dhi Qar ","Antonov AN-24",0,46.0906532,30.9354623
+"489","Mar 17, 2006 at 0930 LT","Old Fangak, Jonglei ","Avro 748",0,30.8829082,9.0695553
+"490","Feb 3, 2006 at 1020 LT","Ohakea AFB ","De Havilland DH.104 Dove",0,175.3848265,-40.2017524
+"491","Jan 26, 2006","Padak, Jonglei ","Let 410UVP",0,NA,NA
+"492","Jan 15, 2006","Cap Haïtien, North","BAe Jetstream 31",0,-72.2067681,19.7370362
+"493","Nov 18, 2005 at 1407 LT","Sangar, Republic of Yakutia ","PZL-Mielec AN-2",0,NA,NA
+"494","Oct 19, 2005 at 1057 LT","Labozhskoe, Arkhangelsk oblast","PZL-Mielec AN-2",0,NA,NA
+"495","Sep 11, 2005 at 0900 LT","Mae Sot, Tak ","NAMC YS-11",0,98.704075,16.7751826
+"496","Sep 8, 2005 at 0815 LT","Murandi, Nord-Kivu","De Havilland DHC-6 Twin Otter",0,NA,NA
+"497","Sep 2, 2005 at 1200 LT","Zielona Góra, Lubusz Voivodeship ","PZL-Mielec AN-2",0,15.5061862,51.9356214
+"498","Jun 30, 2005","Kapoeta, Western Equatoria ","Hawker-Siddeley Andover C.1",0,33.5923941,4.7713162
+"499","Jun 28, 2005 at 1745 LT","Matemo Island, Manica","Cessna 208 Caravan",0,NA,NA
+"500","Jun 6, 2005 at 0740 LT","Miraflores, Boyacá","Douglas DC-3",0,-73.143061,5.196395
+"501","Mar 29, 2005","Lake Garda, Trentino-Alto Adige / Südtirol","Grumman G-44 Widgeon",0,10.6351414,45.6049385
+"502","Mar 18, 2005 at 1625 LT","Punto Fijo, Falcón","Piper PA-31-350 Navajo Chieftain",0,-70.1813018,11.711511
+"503","Feb 15, 2005","Old Fangak, Jonglei ","Hawker-Siddeley Andover C.1",0,30.8829082,9.0695553
+"504","Jan 24, 2005 at 0605 LT","Düsseldorf, North Rhine-Westphalia","Boeing 747-200",0,6.7734556,51.2277411
+"505","Nov 19, 2004","Menzel Lejmat, Illizi","De Havilland DHC-6 Twin Otter",0,NA,NA
+"506","Oct 6, 2004","Urimán, Bolívar","Cessna 207 Skywagon",0,-62.65,5.35
+"507","Sep 25, 2004 at 1523 LT","Fullerton, California","Bushmaster 2000",0,-117.9242123,33.8703645
+"508","Aug 16, 2004 at 0835 LT","Panama City, Panamá","Cessna 208 Caravan",0,-79.5198696,8.9823792
+"509","Jul 24, 2004 at 1200 LT","Punto Fijo, Falcón","Beechcraft Super King Air 350",0,-70.1813018,11.711511
+"510","Jul 23, 2004 at 0930 LT","El Jaguey, La Unión","Basler BT-67",0,-87.9065098,13.1626662
+"511","Jul 16, 2004 at 1324 LT","Østre Æra, Hedmark","PZL-Mielec AN-28",0,11.6702101,61.2581004
+"512","Jun 26, 2004 at 1852 LT","Wau, Western Bahr el Ghazal ","Antonov AN-12",0,27.9834738,7.7091884
+"513","Jun 23, 2004 at 1940 LT","Siglufjörður, Northeastern Region ","Dornier DO228",0,-18.9112652,66.1511755
+"514","Jun 16, 2004","Chitral, Khyber Pakhtunkhwa ","Fokker F27 Friendship",0,71.7871069,35.8522867
+"515","Apr 28, 2004 at 0356 LT","Bogotá, Bogotá Capital District","Douglas DC-10",0,-74.072092,4.7109886
+"516","Feb 4, 2004 at 2233 LT","Colombo, Western Province ","Ilyushin II-18",0,79.861243,6.9270786
+"517","Dec 4, 2003 at 0909 LT","Bodø, Nordland","Dornier DO228",0,14.404916,67.2803556
+"518","Oct 20, 2003","Tarauacá, Acre","Fokker F27 Friendship",0,-71.3824374,-8.2132323
+"519","Oct 13, 2003","Urimán, Bolívar","PZL-Mielec AN-2",0,-62.65,5.35
+"520","Sep 24, 2003","Wau, Western Bahr el Ghazal ","Antonov AN-12",0,27.9834738,7.7091884
+"521","Sep 17, 2003 at 1828 LT","Luleå, Norrbotten","BAe Jetstream 31",0,22.1567026,65.584819
+"522","Aug 26, 2003 at 1730 LT","Trollhättan, Västergötland","PZL-Mielec AN-2",0,12.2858206,58.2834894
+"523","Aug 19, 2003","Old Fangak, Jonglei ","Cessna 208 Caravan",0,30.8829082,9.0695553
+"524","Jun 16, 2003 at 0630 LT","Adar Yeil, Upper Nile ","Fokker 50",0,NA,NA
+"525","Apr 30, 2003","Ocaña, Norte de Santander","Basler BT-67",0,-73.3532199,8.25205
+"526","Apr 27, 2003","Democratic Republic of Congo, DRC","Vickers Viscount",0,21.758664,-4.038333
+"527","Mar 23, 2003","Santos, São Paulo","Mitsubishi MU-300 Diamond",0,-46.3264089,-23.9561304
+"528","Mar 22, 2003 at 2235 LT","Tainan, Tainan City ","Airbus A321",0,120.2270277,22.9997281
+"529","Mar 15, 2003 at 1725 LT","Samedan, Graubünden","PZL-Mielec AN-2",0,9.8729339,46.5339944
+"530","Feb 19, 2003 at 1200 LT","Karachi, Sindh ","Dornier DO228",0,67.0099388,24.8614622
+"531","Feb 14, 2003","Brasschaat AFB, Antwerp","Britten-Norman Islander",0,NA,NA
+"532","Jan 14, 2003 at 1300 LT","Pattaya, Chonburi ","Britten-Norman Islander",0,100.8770813,12.9276082
+"533","Dec 27, 2002","Ust-Kuyga, Republic of Yakutia ","Antonov AN-26",0,NA,NA
+"534","Nov 9, 2002 at 1900 LT","Antalya, Mediterranean Region ","Antonov AN-26",0,30.7133233,36.8968908
+"535","Oct 31, 2002 at 2215 LT","Monterrey, Nuevo León","Douglas DC-9",0,-100.3161126,25.6866142
+"536","Sep 15, 2002","Negage, Uíge","Ilyushin II-18",0,15.2721456,-7.7606204
+"537","Aug 30, 2002 at 1205 LT","São Paulo, São Paulo","Fokker 100",0,-46.6333094,-23.5505199
+"538","Aug 13, 2002 at 0815 LT","Muyowosi-Murungi, Kigoma Region","Cessna 406 Caravan",0,NA,NA
+"539","Apr 30, 2002","Heglig, South Kordofan ","Antonov AN-12",0,29.4063234,10.002559
+"540","Apr 21, 2002 at 0913 LT","Wamena, Special Region of Papua","Antonov AN-72",0,138.9516853,-4.1001213
+"541","Feb 27, 2002 at 0915 LT","Heglig, South Kordofan ","Antonov AN-26",0,29.4063234,10.002559
+"542","Jan 29, 2002 at 1130 LT","Canaima, Bolívar","PZL-Mielec AN-28",0,-62,5.5
+"543","Jan 22, 2002","Guayaramerín, Beni","Fokker F27 Friendship",0,-65.3688335,-10.8237579
+"544","Nov 27, 2001 at 1545 LT","Playa del Carmen, Yucatán","Let 410UVP",0,-87.0738851,20.6295586
+"545","Nov 27, 2001 at 0538 LT","Bahía Blanca, Buenos Aires province","Swearingen SA226AC Metro II",0,-62.2663478,-38.7183177
+"546","Sep 16, 2001 at 1053 LT","Goiânia, Goiás","Boeing 737-200",0,-49.2647885,-16.6868824
+"547","Jul 12, 2001","Veydelev, Russia","PZL-Mielec AN-2",0,NA,NA
+"548","Jul 6, 2001 at 1856 LT","Lyon, Rhône","Lockheed L-1011 TriStar",0,4.835659,45.764043
+"549","Jun 18, 2001 at 1200 LT","Tel Aviv ","ATR42-300",0,34.7817676,32.0852999
+"550","Jun 14, 2001 at 1608 LT","Båtsfjord, Finnmark","De Havilland Dash-8-100",0,29.7118032,70.6304931
+"551","Mar 22, 2001 at 1835 LT","Orléans, Loiret","Piper PA-31-350 Navajo Chieftain",0,1.909251,47.902964
+"552","Mar 7, 2001 at 0032 LT","São Paulo, São Paulo","Boeing 707",0,-46.6333094,-23.5505199
+"553","Feb 10, 2001","Macapá, Amapá","Mitsubishi MU-2 Marquise",0,-51.070535,0.0355735
+"554","Jan 9, 2001","Palacios, Copán","IAI Arava 201",0,-5.9350887,37.1626616
+"555","Nov 9, 2000","Chilanga, Morazán","Basler BT-67",0,-88.1218171,13.7189252
+"556","Nov 1, 2000 at 1745 LT","Sao Tomé, Água Grande","Rockwell Aero Commander 690",0,6.733343,0.3301924
+"557","Sep 14, 2000 at 1100 LT","Panama City, Panamá","Rockwell Gulfstream Jetprop 840",0,-79.5198696,8.9823792
+"558","Jul 4, 2000 at 1715 LT","Thessaloniki, Thessaly / Tessa","Tupolev TU-154",0,NA,NA
+"559","May 30, 2000","Goiânia, Goiás","Beechcraft King Air 90",0,-49.2647885,-16.6868824
+"560","Apr 30, 2000 at 1535 LT","Ciudad Bolivar, Bolívar","PZL-Mielec AN-2",0,-63.5535552,8.0882791
+"561","Apr 22, 2000 at 1405 LT","Siirt, Southeastern Anatolia Region ","Avro RJ70",0,42.1494523,37.8658862
+"562","Dec 31, 1999 at 1055 LT","Saint-Barthélemy, Guadeloupe","Beechcraft 99",0,-61.531419,16.2542883
+"563","Dec 8, 1999","João Pessoa, Paraíba","Cessna 208 Caravan",0,-34.8450118,-7.1194958
+"564","Aug 24, 1999 at 1236 LT","Hualien, Hualien County ","McDonnell Douglas MD-90",0,121.6111949,23.9910732
+"565","Aug 17, 1999","Lubotu, Maniema","De Havilland DHC-6 Twin Otter",0,NA,NA
+"566","Aug 14, 1999","Juba, Central Equatoria ","Boeing 707",0,31.57125,4.859363
+"567","Aug 2, 1999","Malargüe, Mendoza","Pilatus PC-6 (Porter & Turbo Porter)",0,-69.5797495,-35.484462
+"568","Jul 28, 1999","Rhodes, South Aegean / ","Swearingen SA227AC Metro III",0,27.9717606,36.2432553
+"569","Jun 11, 1999","Kukës, Kukës","Lockheed C-130 Hercules",0,20.4142923,42.0807464
+"570","May 19, 1999","Berberati, Mambéré-Kadéï","Yakovlev Yak-40",0,15.7879371,4.2571092
+"571","Mar 24, 1999 at 1210 LT","Rhodes, South Aegean / ","Airbus A300",0,27.9717606,36.2432553
+"572","Mar 15, 1999 at 1155 LT","Pohang, North Gyeongsang ","McDonnell Douglas MD-83",0,129.3434808,36.0190178
+"573","Mar 4, 1999 at 1912 LT","Biarritz, Pyrénées-Atlantiques","Boeing 737-200",0,-1.558626,43.4831519
+"574","Feb 23, 1999","La Serena, Región de Coquimbo","Piper PA-31-350 Navajo Chieftain",0,-71.2519374,-29.9026691
+"575","Feb 2, 1999","Porto Velho, Rondônia","Britten-Norman Islander",0,-63.9004303,-8.7611605
+"576","Jan 9, 1999 at 0920 LT","Valdepeñas, Castile-La Mancha","Beechcraft Queen Air 80",0,-3.4599326,38.8113074
+"577","Dec 28, 1998 at 0847 LT","Curitiba, Paraná","Embraer ERJ-145",0,-49.2653819,-25.4244287
+"578","Nov 23, 1998 at 1445 LT","Río Gallegos, Santa Cruz","Swearingen SA226AC Metro II",0,-69.2168291,-51.6230485
+"579","Sep 10, 1998","Chaklala AFB ","Lockheed C-130 Hercules",0,NA,NA
+"580","Aug 5, 1998 at 2201 LT","Seoul, Seoul ","Boeing 747-400",0,126.9779692,37.566535
+"581","Jul 26, 1998 at 2355 LT","Keflavik, Southern Peninsula ","Fairchild-Hiller FH-227",0,-22.5582716,63.9997549
+"582","Apr 23, 1998 at 0800 LT","Lopé National Park, Ogooué-Ivindo ","Short 330",0,11.5248055,-0.4411596
+"583","Mar 7, 1998 at 1000 LT","La Ceiba, Atlántida","Let 410UVP",0,-86.7919009,15.770288
+"584","Feb 11, 1998 at 0924 LT","Samedan, Graubünden","Junkers JU.52",0,9.8729339,46.5339944
+"585","Feb 6, 1998 at 1239 LT","Chambéry, Savoie","Gulfstream GIII",0,5.917781,45.564601
+"586","Jan 11, 1998 at 1458 LT","Samsun, Black Sea Region ","Avro RJ100",0,36.3360667,41.2797031
+"587","Dec 31, 1997","Gogrial, Warrap ","Antonov AN-26",0,28.0991001,8.5323992
+"588","Nov 27, 1997 at 1200 LT","Sangafa-Siwo, Emae Island, Vanuatu","Britten-Norman Islander",0,NA,NA
+"589","Nov 24, 1997","La Ceiba, Atlántida","GAF Nomad N24",0,-86.7919009,15.770288
+"590","Nov 19, 1997","La Ceiba, Atlántida","GAF Nomad N24",0,-86.7919009,15.770288
+"591","Oct 18, 1997","São Paulo, São Paulo","Cessna 208 Caravan",0,-46.6333094,-23.5505199
+"592","Sep 23, 1997","Chania, Crete / ","Lockheed P-3 Orion",0,24.0180367,35.5138298
+"593","Sep 6, 1997 at 0945 LT","Najran, Najran ","Boeing 737-200",0,44.2289441,17.5656036
+"594","Aug 22, 1997 at 1438 LT","Galapagos Islands, Galápagos","Boeing 727-200",0,-90.9656019,-0.9537691
+"595","Aug 12, 1997 at 1741 LT","Thessaloniki, Thessaly / Tessa","Boeing 727-200",0,NA,NA
+"596","Jul 8, 1997","Córdoba, Córdoba","Rockwell Aero Commander 500",0,-64.1887761,-31.4200833
+"597","Jun 25, 1997 at 0122 LT","Bogotá, Bogotá Capital District","Boeing 727-100",0,-74.072092,4.7109886
+"598","May 29, 1997","Saskatoon, Saskatchewan","De Havilland DHC-2 Beaver",0,-106.6700458,52.1332144
+"599","May 28, 1997","Luanda, Luanda","Beechcraft Super King Air 200",0,13.2894368,-8.8399876
+"600","May 22, 1997 at 1530 LT","Luquillo, Puerto Rico","Convair CV-240",0,-65.7206559,18.3789857
+"601","May 16, 1997 at 1314 LT","Great Falls, Montana","Learjet 35",0,-111.2833449,47.4941836
+"602","May 14, 1997 at 1628 LT","Porto, Douro Litoral","Saab 340",0,-8.6186483,41.1440126
+"603","May 10, 1997 at 1700 LT","South Africa, South Africa","Beechcraft Super King Air 200",0,22.937506,-30.559482
+"604","May 2, 1997 at 1722 LT","Paros Island, South Aegean / ","Dornier DO228",0,25.1515337,37.0853941
+"605","Apr 24, 1997 at 1710 LT","Bronson Creek, British Columbia","Bristol 170 Freighter",0,-131,56.7
+"606","Apr 22, 1997 at 1200 LT","Reykjavik, Capital Region ","Piper PA-31-350 Navajo Chieftain",0,-21.8174392,64.1265206
+"607","Apr 21, 1997","Colombo, Western Province ","Antonov AN-32",0,79.861243,6.9270786
+"608","Apr 13, 1997 at 1132 LT","Verkhnevilyuisk, Republic of Yakutia ","Antonov AN-12",0,NA,NA
+"609","Mar 7, 1997 at 1210 LT","Pesqueria, Nuevo León","Beechcraft King Air 90",0,-100.0502741,25.7842519
+"610","Mar 3, 1997 at 0700 LT","La Ceiba, Atlántida","Let 410UVP",0,-86.7919009,15.770288
+"611","Mar 3, 1997 at 0044 LT","Vilhena, Rondônia","Embraer EMB-120 Brasília",0,-60.1304566,-12.7414031
+"612","Feb 19, 1997","Semipalatinsk, Pavlodar","Yakovlev Yak-40",0,NA,NA
+"613","Feb 4, 1997","Uruapan, Michoacán","Swearingen SA226AC Metro II",0,-102.0430476,19.4064492
+"614","Jan 25, 1997 at 1238 LT","Chokurdakh, Republic of Yakutia ","Antonov AN-26",0,NA,NA
+"615","Jan 11, 1997 at 1900 LT","Djerba, Gabès Governorate ","Swearingen SA227AC Metro III",0,NA,NA

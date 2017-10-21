@@ -87,12 +87,9 @@ for ( i in seq_along( grid ) ) {
 
 # we build a data frame from the 4 repository lists we created 
 # Note that base R 'data.frame' is used instead of tidyverse 'data_frame' as that resolves an issue with subsequent geocoding we would otherwise encounter
-crash_df <- data.frame( Date = unlist(crashDates), Location = unlist(crashLocations),
-                        'Airplane model' = unlist(planeModels), Fatalities = unlist(deaths), stringsAsFactors = FALSE )
-
-# we could write the resulting data frame to our working directory
-# path <- getwd()
-# write.csv( crash_df, paste0(path, "/crash_data.csv") ) 
+crash_df <- data.frame( Date = unlist(crashDates), Location = unlist(crashLocations), 
+                        'Airplane model' = unlist(planeModels), Fatalities = unlist(deaths), 
+                        stringsAsFactors = FALSE )
 ```
 
 What does the data frame we created look like?
@@ -112,11 +109,9 @@ We can see the added columns **lon** (=longitude) and **lat** (=latitude) and wi
 kable(crash_df[1:5,])
 ```
 
-With the example code above we scraped only two out of the 2,500 or so archive pages across which all the airline accident data is spread if we really wanted to gather all of it going back to 1918. We are happy with roughly the past 20 years worth of data - 1997 to 2017 - and I scraped that in a separate session, geocoded location and wrote the resulting data frame into "crash_data.csv". We can now just read that back in and are ready to proceed.
+With the example code above we scraped only two out of the 2,500 or so archive pages across which all the airline accident data is spread if we really wanted to gather all of it going back to 1918. We are happy with roughly the past 20 years worth of data - 1997 to 2017 - and I scraped that in a separate session and geocoded location. The geocoding sometimes produced NAs so I checked the format of **Location** in those cases and edited where necessary to fill some of the gaps for **lon** and **lat**. I wrote the edited data frame into "crash_data_last20yrs_geocoded.csv" and we can now just read that back in to proceed.
 
 So let's visualize the locations of airline crashes via bubbles on a worldmap and let size of the bubbles represent the number of fatalities. We will use the package leaflet that provides zooming, panning and popups out of the box. We'll also use the htmltools package to format the appearance of the popups.
-
-
 ```{r, message = FALSE, warning = FALSE}
 library(leaflet)
 library(htmltools)
@@ -146,7 +141,6 @@ kable(crash_df[1:5,])
 ```
 
 Run the map again - that's better.
-
 ```{r, message = FALSE, warning = FALSE}
 m <- leaflet(crash_df) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
@@ -160,6 +154,4 @@ m <- leaflet(crash_df) %>%
 m  # Print the map
 ```
 
-So we are done here. It hasn't provided any amazing insight as such but we have been able to visualize crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can be easily displayed on a world map.
-
-
+So we are done here. We have been able to visualize air crash locations across the world via bubbles where their size represents the number of fatalities. The key element was to get access to the data through webscraping and wrangle it into a format that can easily be displayed on a world map.
